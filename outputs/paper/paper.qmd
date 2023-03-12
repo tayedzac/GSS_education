@@ -17,72 +17,80 @@ bibliography: references.bib
 #| include: false
 #| warning: false
 #| message: false
-
 library(tidyverse)
-library(palmerpenguins)
+library(ggplot2)
+library(haven)
+library(janitor)
+library(tidyr)
+library(dplyr)
 ```
 
+```{r}
+#| label: fig-1
+#| fig-cap: Highest Degree of Education Obtained by the Respondant.
+#| echo: false
+#| warning: false
+#| message: false
+
+clean_data1 <- read_csv("~/Documents/GSS_education/inputs/data/clean_data1.csv")
+
+clean_data1 |> 
+  mutate(education = fct_relevel(education, 
+            "< High School", "High School", "Some College", "College", "Advanced Degree")) |>
+  ggplot(aes(x = education)) +
+  geom_bar(fill = "slateblue1") +
+  theme_minimal() +
+  ylim(0, 2000) +
+  labs(x = "Achieved Education Level",
+       y = "Number of Participants",
+       title = "Education Level of the Respondant.")
+```
+
+```{r}
+#| label: fig-2
+#| fig-cap: Highest Degree of Education Obtained by the Respondants' Mother.
+#| echo: false
+#| warning: false
+#| message: false
+
+clean_data2 <- read_csv("~/Documents/GSS_education/inputs/data/clean_data2.csv")
+
+clean_data2 |> 
+  mutate(education = fct_relevel(education, 
+            "< High School", "High School", "Some College", "College", "Advanced Degree")) |>
+  ggplot(aes(x = education)) +
+  geom_bar(fill = "violet") +
+  theme_minimal() +
+  ylim(0, 2000) +
+  labs(x = "Achieved Education Level",
+       y = "Number of Participants",
+       title = "Education Level of Respondants' Mother.")
+```
+
+```{r}
+#| label: fig-3
+#| fig-cap: Highest Degree of Education Obtained by the Respondants' Father.
+#| echo: false
+#| warning: false
+#| message: false
+
+clean_data3 <- read_csv("~/Documents/GSS_education/inputs/data/clean_data3.csv")
+
+clean_data3 |> 
+  mutate(education = fct_relevel(education, 
+            "< High School", "High School", "Some College", "College", "Advanced Degree")) |>
+  ggplot(aes(x = education)) +
+  geom_bar(fill = "royalblue1") +
+  theme_minimal() +
+  ylim(0, 2000) +
+  labs(x = "Achieved Education Level",
+       y = "Number of Participants",
+       title = "Education Level of Respondants' Father.")
+```
 
 # Introduction
 
-You can and should cross-reference sections and sub-sections. For instance, @sec-data and @sec-first-point. 
-
-
-
 # Data {#sec-data}
-
-Our data is of penguins (@fig-bills).
-
-```{r}
-#| label: fig-bills
-#| fig-cap: Bills of penguins
-#| echo: false
-
-ggplot(penguins, aes(x = island, fill = species)) +
-  geom_bar(alpha = 0.8) +
-  scale_fill_manual(values = c("darkorange","purple","cyan4"),
-                    guide = "none") +
-  theme_minimal() +
-  facet_wrap(~species, ncol = 1) +
-  coord_flip()
-```
-
-Talk more about it.
-
-Also bills and their average (@fig-billssssss). (You can change the height and width, but don't worry about doing that until you have finished every other aspect of the paper - Quarto will try to make it look nice and the defaults usually work.)
-
-```{r}
-#| label: fig-billssssss
-#| fig-cap: More bills of penguins
-#| echo: false
-#| fig-width: 8
-#| fig-height: 4
-
-ggplot(penguins, aes(x = island, fill = species)) +
-  geom_bar(alpha = 0.8) +
-  scale_fill_manual(values = c("darkorange","purple","cyan4"),
-                    guide = "none") +
-  theme_minimal() +
-  facet_wrap(~species, ncol = 1) +
-  coord_flip()
-```
-
-Talk way more about it. 
-
-
-
-# Model
-
-$$
-Pr(\theta | y) = \frac{Pr(y | \theta) Pr(\theta)}{Pr(y)}
-$$ {#eq-bayes}
-
-@eq-bayes seems useful, eh?
-
-Here's a dumb example of how to use some references: In paper we run our analysis in `R` [@citeR]. We also use the `tidyverse` which was written by @thereferencecanbewhatever If we were interested in baseball data then @citeLahman could be useful. 
-
-We can use maths by including latex between dollar signs, for instance $\theta$.
-
 
 # Results
 

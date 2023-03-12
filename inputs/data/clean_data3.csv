@@ -1,0 +1,2876 @@
+id,educ,maeduc,paeduc,education
+1,12,14,9,High School
+2,16,16,16,Advanced Degree
+7,17,12,12,Some College
+8,12,14,14,Some College
+9,19,16,16,Advanced Degree
+12,16,14,12,Some College
+16,14,16,18,Advanced Degree
+17,18,12,12,Some College
+22,15,14,16,Advanced Degree
+23,17,16,16,Advanced Degree
+24,16,16,12,Some College
+25,16,12,16,Advanced Degree
+26,16,12,14,Some College
+31,16,16,16,Advanced Degree
+36,16,12,14,Some College
+38,20,12,12,Some College
+39,16,14,16,Advanced Degree
+41,13,12,9,High School
+42,8,12,14,Some College
+43,13,12,12,Some College
+46,16,15,16,Advanced Degree
+47,16,20,12,Some College
+48,16,12,12,Some College
+49,20,16,18,Advanced Degree
+50,12,12,6,< High School
+52,14,14,12,Some College
+53,14,12,15,College
+56,16,16,16,Advanced Degree
+57,16,16,17,Advanced Degree
+59,13,12,10,High School
+60,16,18,13,Some College
+61,14,12,16,Advanced Degree
+64,3,3,0,< High School
+66,14,6,9,High School
+67,16,10,8,High School
+68,20,12,14,Some College
+69,14,12,12,Some College
+70,17,12,18,Advanced Degree
+74,15,12,12,Some College
+75,16,17,16,Advanced Degree
+76,6,12,0,< High School
+77,14,12,12,Some College
+78,12,0,3,< High School
+80,16,12,16,Advanced Degree
+81,12,13,14,Some College
+82,12,12,12,Some College
+83,12,10,14,Some College
+85,16,19,14,Some College
+86,16,12,14,Some College
+91,12,14,13,Some College
+92,16,12,12,Some College
+93,16,12,12,Some College
+94,15,12,16,Advanced Degree
+95,16,12,16,Advanced Degree
+96,12,12,12,Some College
+97,13,16,15,College
+98,14,16,12,Some College
+100,16,12,12,Some College
+101,14,12,12,Some College
+103,18,14,14,Some College
+104,17,16,16,Advanced Degree
+105,18,12,8,High School
+107,18,12,16,Advanced Degree
+108,14,11,7,< High School
+111,16,12,16,Advanced Degree
+113,12,10,16,Advanced Degree
+114,14,14,16,Advanced Degree
+115,20,12,12,Some College
+116,15,16,16,Advanced Degree
+117,20,13,10,High School
+118,20,12,12,Some College
+119,18,18,18,Advanced Degree
+120,16,12,6,< High School
+121,20,10,12,Some College
+124,18,12,16,Advanced Degree
+125,18,16,12,Some College
+127,13,12,12,Some College
+128,13,14,16,Advanced Degree
+130,16,12,16,Advanced Degree
+131,16,12,12,Some College
+136,16,18,16,Advanced Degree
+137,12,10,12,Some College
+139,17,18,18,Advanced Degree
+140,16,16,15,College
+142,16,18,12,Some College
+143,19,15,16,Advanced Degree
+144,18,16,18,Advanced Degree
+145,18,10,12,Some College
+146,16,16,16,Advanced Degree
+147,16,16,16,Advanced Degree
+148,12,12,10,High School
+149,16,12,10,High School
+151,11,12,12,Some College
+154,19,12,12,Some College
+155,16,16,8,High School
+158,20,16,16,Advanced Degree
+159,14,14,12,Some College
+160,16,16,18,Advanced Degree
+164,14,12,12,Some College
+165,16,14,6,< High School
+167,17,16,20,Advanced Degree
+168,14,12,18,Advanced Degree
+169,19,10,20,Advanced Degree
+170,20,13,18,Advanced Degree
+171,16,16,15,College
+172,16,18,10,High School
+173,18,13,14,Some College
+174,16,20,16,Advanced Degree
+175,14,0,0,< High School
+176,16,15,19,Advanced Degree
+177,16,12,16,Advanced Degree
+179,12,8,8,High School
+183,18,12,18,Advanced Degree
+184,12,12,19,Advanced Degree
+188,12,12,18,Advanced Degree
+190,10,12,7,< High School
+192,14,12,12,Some College
+194,13,12,12,Some College
+195,16,15,9,High School
+196,17,16,18,Advanced Degree
+198,16,16,16,Advanced Degree
+201,16,12,12,Some College
+203,20,14,16,Advanced Degree
+206,12,12,5,< High School
+207,14,18,12,Some College
+209,16,12,12,Some College
+210,12,9,7,< High School
+213,14,12,12,Some College
+215,17,13,8,High School
+216,6,0,0,< High School
+217,12,12,12,Some College
+220,14,10,12,Some College
+221,13,6,9,High School
+224,16,12,14,Some College
+226,15,13,12,Some College
+230,12,14,14,Some College
+231,17,16,16,Advanced Degree
+233,18,15,17,Advanced Degree
+235,12,12,12,Some College
+236,20,14,17,Advanced Degree
+239,16,12,10,High School
+242,16,18,16,Advanced Degree
+244,16,18,12,Some College
+246,12,12,8,High School
+247,15,12,12,Some College
+253,17,17,17,Advanced Degree
+254,16,14,14,Some College
+255,16,12,16,Advanced Degree
+256,16,12,12,Some College
+257,16,14,13,Some College
+258,14,12,12,Some College
+259,19,20,18,Advanced Degree
+260,14,12,12,Some College
+261,13,11,16,Advanced Degree
+262,20,16,12,Some College
+263,12,14,14,Some College
+264,15,12,12,Some College
+265,16,16,16,Advanced Degree
+267,12,12,12,Some College
+268,18,12,12,Some College
+269,16,12,8,High School
+270,14,10,9,High School
+271,16,0,12,Some College
+272,18,12,7,< High School
+273,14,12,12,Some College
+275,12,12,12,Some College
+276,12,12,12,Some College
+279,16,16,16,Advanced Degree
+281,16,16,16,Advanced Degree
+282,20,9,18,Advanced Degree
+284,20,15,20,Advanced Degree
+285,19,16,20,Advanced Degree
+287,12,15,12,Some College
+288,16,14,14,Some College
+289,12,12,12,Some College
+291,12,8,14,Some College
+292,16,16,16,Advanced Degree
+293,15,12,16,Advanced Degree
+294,16,9,13,Some College
+296,11,12,12,Some College
+297,16,18,8,High School
+300,15,12,16,Advanced Degree
+301,13,12,13,Some College
+302,12,13,9,High School
+303,18,20,20,Advanced Degree
+304,19,12,12,Some College
+305,18,17,16,Advanced Degree
+306,18,12,16,Advanced Degree
+307,15,12,17,Advanced Degree
+309,15,12,8,High School
+310,16,14,5,< High School
+312,18,16,18,Advanced Degree
+313,13,12,12,Some College
+314,13,12,10,High School
+315,16,16,16,Advanced Degree
+316,13,0,0,< High School
+317,15,8,15,College
+320,20,6,12,Some College
+321,16,12,12,Some College
+322,16,16,16,Advanced Degree
+323,17,17,20,Advanced Degree
+326,17,9,16,Advanced Degree
+327,16,14,14,Some College
+329,16,16,16,Advanced Degree
+330,19,10,8,High School
+331,16,12,12,Some College
+333,18,17,20,Advanced Degree
+334,16,14,12,Some College
+335,15,14,14,Some College
+336,16,13,12,Some College
+337,12,12,14,Some College
+338,13,12,12,Some College
+339,12,12,12,Some College
+340,18,12,14,Some College
+342,16,16,16,Advanced Degree
+343,12,16,12,Some College
+344,16,16,18,Advanced Degree
+345,20,14,14,Some College
+346,13,11,12,Some College
+348,12,12,12,Some College
+349,19,17,16,Advanced Degree
+350,13,12,12,Some College
+352,17,12,13,Some College
+354,19,12,12,Some College
+356,16,16,18,Advanced Degree
+357,19,20,18,Advanced Degree
+358,15,10,14,Some College
+359,14,20,20,Advanced Degree
+360,13,12,12,Some College
+361,13,12,12,Some College
+362,17,12,12,Some College
+363,14,10,8,High School
+365,16,12,11,High School
+366,14,12,12,Some College
+367,18,14,12,Some College
+369,16,14,5,< High School
+370,14,14,12,Some College
+371,14,18,19,Advanced Degree
+372,17,16,16,Advanced Degree
+375,18,0,0,< High School
+377,12,12,12,Some College
+379,18,16,16,Advanced Degree
+380,18,14,12,Some College
+383,16,16,12,Some College
+384,14,12,12,Some College
+386,15,12,16,Advanced Degree
+388,14,12,12,Some College
+389,16,12,14,Some College
+390,14,9,9,High School
+391,20,14,12,Some College
+392,14,14,14,Some College
+396,14,12,14,Some College
+397,12,14,10,High School
+398,14,12,16,Advanced Degree
+402,13,14,14,Some College
+405,18,9,12,Some College
+407,13,12,12,Some College
+408,16,14,16,Advanced Degree
+409,15,14,4,< High School
+411,17,6,14,Some College
+412,18,10,14,Some College
+413,16,12,12,Some College
+414,18,18,20,Advanced Degree
+415,17,12,12,Some College
+417,16,14,20,Advanced Degree
+418,18,18,18,Advanced Degree
+420,18,18,18,Advanced Degree
+422,18,12,12,Some College
+424,19,12,16,Advanced Degree
+425,16,12,19,Advanced Degree
+427,14,14,8,High School
+428,18,14,16,Advanced Degree
+430,12,14,12,Some College
+431,12,12,12,Some College
+433,18,12,13,Some College
+434,18,0,6,< High School
+435,12,12,14,Some College
+437,12,12,12,Some College
+438,0,12,0,< High School
+439,15,12,16,Advanced Degree
+441,12,12,12,Some College
+443,19,12,14,Some College
+445,20,12,12,Some College
+446,17,12,16,Advanced Degree
+447,16,11,9,High School
+448,16,12,14,Some College
+449,17,12,19,Advanced Degree
+450,15,12,12,Some College
+451,16,14,16,Advanced Degree
+452,12,8,9,High School
+453,18,12,12,Some College
+454,14,12,12,Some College
+456,19,12,16,Advanced Degree
+457,18,16,19,Advanced Degree
+458,18,18,20,Advanced Degree
+459,20,13,16,Advanced Degree
+460,16,12,20,Advanced Degree
+461,17,16,12,Some College
+462,20,18,20,Advanced Degree
+463,14,12,8,High School
+464,14,14,17,Advanced Degree
+465,16,15,13,Some College
+468,17,13,12,Some College
+469,20,10,12,Some College
+470,11,14,13,Some College
+473,16,8,12,Some College
+474,16,12,12,Some College
+478,12,12,12,Some College
+480,13,10,12,Some College
+481,12,13,14,Some College
+483,12,0,0,< High School
+484,18,12,12,Some College
+485,17,20,17,Advanced Degree
+486,15,12,12,Some College
+488,12,12,12,Some College
+491,16,16,16,Advanced Degree
+493,14,13,12,Some College
+495,12,16,16,Advanced Degree
+496,15,14,16,Advanced Degree
+497,16,12,16,Advanced Degree
+498,16,16,16,Advanced Degree
+499,15,12,12,Some College
+502,14,14,12,Some College
+503,12,12,14,Some College
+505,20,12,12,Some College
+508,15,12,14,Some College
+510,17,16,16,Advanced Degree
+512,14,16,16,Advanced Degree
+513,14,12,6,< High School
+514,17,16,12,Some College
+517,15,12,16,Advanced Degree
+518,18,16,12,Some College
+520,14,10,12,Some College
+523,10,12,12,Some College
+525,12,5,8,High School
+526,14,14,12,Some College
+527,19,16,20,Advanced Degree
+528,18,18,18,Advanced Degree
+529,16,16,15,College
+530,14,18,17,Advanced Degree
+531,17,12,19,Advanced Degree
+532,18,13,14,Some College
+533,18,12,12,Some College
+535,17,12,12,Some College
+536,12,11,12,Some College
+537,15,10,6,< High School
+539,12,13,8,High School
+540,12,12,12,Some College
+541,16,14,14,Some College
+542,14,18,19,Advanced Degree
+544,12,12,7,< High School
+547,18,12,11,High School
+548,14,12,12,Some College
+549,11,8,5,< High School
+550,12,11,12,Some College
+552,14,12,12,Some College
+553,16,12,12,Some College
+554,19,15,13,Some College
+555,16,12,16,Advanced Degree
+556,16,12,12,Some College
+557,20,20,20,Advanced Degree
+559,18,12,12,Some College
+560,12,12,12,Some College
+561,17,16,12,Some College
+566,12,12,14,Some College
+568,16,16,14,Some College
+571,16,12,12,Some College
+572,12,13,12,Some College
+573,12,12,12,Some College
+576,14,8,10,High School
+577,13,10,12,Some College
+583,12,5,5,< High School
+584,14,14,12,Some College
+585,12,6,12,Some College
+586,16,14,12,Some College
+587,20,14,12,Some College
+588,17,12,11,High School
+590,12,14,14,Some College
+594,16,6,6,< High School
+595,18,9,9,High School
+599,17,16,16,Advanced Degree
+602,15,16,20,Advanced Degree
+604,11,14,7,< High School
+606,15,14,14,Some College
+610,14,13,12,Some College
+611,16,14,16,Advanced Degree
+612,12,12,8,High School
+613,12,12,12,Some College
+614,14,12,11,High School
+615,14,12,13,Some College
+616,12,12,14,Some College
+617,13,7,5,< High School
+618,15,14,14,Some College
+619,14,16,12,Some College
+621,12,12,12,Some College
+622,11,12,12,Some College
+623,13,12,16,Advanced Degree
+625,16,12,12,Some College
+626,12,12,12,Some College
+627,15,12,11,High School
+628,12,10,12,Some College
+629,19,12,12,Some College
+633,14,12,8,High School
+635,12,12,12,Some College
+636,20,12,12,Some College
+639,17,18,16,Advanced Degree
+641,16,15,16,Advanced Degree
+642,16,16,18,Advanced Degree
+643,13,16,12,Some College
+644,12,12,12,Some College
+645,12,12,12,Some College
+646,16,18,19,Advanced Degree
+647,16,11,11,High School
+649,14,13,14,Some College
+650,12,12,12,Some College
+651,17,13,13,Some College
+652,12,5,8,High School
+654,16,12,16,Advanced Degree
+656,14,12,12,Some College
+657,17,12,12,Some College
+658,13,12,7,< High School
+659,12,12,12,Some College
+660,16,12,12,Some College
+661,16,14,12,Some College
+662,12,11,12,Some College
+663,14,12,12,Some College
+664,12,12,12,Some College
+665,20,16,12,Some College
+666,16,13,8,High School
+667,12,12,12,Some College
+668,16,13,16,Advanced Degree
+669,14,12,12,Some College
+670,12,10,13,Some College
+671,12,12,10,High School
+672,11,12,16,Advanced Degree
+675,13,12,12,Some College
+676,12,12,12,Some College
+678,12,12,12,Some College
+680,14,12,14,Some College
+681,12,12,12,Some College
+684,18,12,15,College
+685,12,14,12,Some College
+686,12,12,8,High School
+687,12,14,10,High School
+690,12,12,2,< High School
+691,13,12,9,High School
+692,14,12,11,High School
+693,16,6,12,Some College
+696,14,14,12,Some College
+699,12,0,0,< High School
+701,15,3,11,High School
+702,18,16,16,Advanced Degree
+704,18,12,12,Some College
+705,20,12,12,Some College
+707,18,13,14,Some College
+708,19,16,18,Advanced Degree
+709,17,19,18,Advanced Degree
+710,13,12,12,Some College
+711,14,10,14,Some College
+713,20,14,16,Advanced Degree
+714,20,9,8,High School
+715,13,12,12,Some College
+717,18,12,12,Some College
+718,16,17,17,Advanced Degree
+719,18,12,12,Some College
+720,16,12,13,Some College
+721,16,16,13,Some College
+723,16,16,16,Advanced Degree
+724,16,14,16,Advanced Degree
+725,12,12,10,High School
+726,14,16,20,Advanced Degree
+728,16,16,16,Advanced Degree
+730,20,12,12,Some College
+733,16,13,19,Advanced Degree
+734,18,16,16,Advanced Degree
+735,16,14,14,Some College
+738,15,14,14,Some College
+739,18,12,19,Advanced Degree
+740,19,17,18,Advanced Degree
+741,13,14,13,Some College
+742,10,10,10,High School
+745,12,12,10,High School
+746,12,12,12,Some College
+747,12,12,10,High School
+748,17,14,7,< High School
+749,16,12,12,Some College
+750,14,14,16,Advanced Degree
+752,14,10,8,High School
+753,14,12,12,Some College
+754,18,12,20,Advanced Degree
+755,20,12,8,High School
+756,12,12,9,High School
+759,15,16,16,Advanced Degree
+760,12,12,6,< High School
+765,18,13,12,Some College
+766,13,17,12,Some College
+767,18,15,16,Advanced Degree
+768,12,12,12,Some College
+772,16,12,12,Some College
+773,15,12,20,Advanced Degree
+776,12,20,16,Advanced Degree
+777,12,14,14,Some College
+778,12,14,14,Some College
+779,16,14,3,< High School
+780,15,16,15,College
+782,12,10,10,High School
+783,14,12,12,Some College
+784,12,9,6,< High School
+785,17,12,12,Some College
+786,19,12,12,Some College
+788,20,16,18,Advanced Degree
+792,18,15,16,Advanced Degree
+793,14,12,12,Some College
+796,16,12,12,Some College
+797,18,12,18,Advanced Degree
+798,20,12,12,Some College
+799,14,12,12,Some College
+801,16,17,12,Some College
+802,14,12,12,Some College
+804,18,14,20,Advanced Degree
+805,16,13,14,Some College
+807,15,10,12,Some College
+808,12,12,10,High School
+809,13,12,12,Some College
+813,16,8,12,Some College
+816,16,12,16,Advanced Degree
+817,17,16,12,Some College
+818,16,16,20,Advanced Degree
+819,12,4,0,< High School
+820,12,12,12,Some College
+825,14,12,12,Some College
+827,15,11,16,Advanced Degree
+829,12,12,12,Some College
+831,17,14,16,Advanced Degree
+832,15,12,8,High School
+834,16,10,12,Some College
+838,12,6,10,High School
+839,18,12,12,Some College
+842,16,6,0,< High School
+843,15,10,8,High School
+845,16,16,12,Some College
+846,17,16,16,Advanced Degree
+850,14,16,15,College
+852,14,6,6,< High School
+853,14,5,3,< High School
+857,16,11,6,< High School
+859,12,12,12,Some College
+864,14,12,12,Some College
+865,12,7,7,< High School
+866,13,8,8,High School
+867,15,12,13,Some College
+871,14,10,8,High School
+872,12,11,11,High School
+873,19,16,16,Advanced Degree
+874,12,12,11,High School
+878,16,12,16,Advanced Degree
+880,15,12,12,Some College
+881,20,12,11,High School
+882,18,14,17,Advanced Degree
+883,20,18,20,Advanced Degree
+884,16,16,13,Some College
+885,16,16,16,Advanced Degree
+886,13,16,16,Advanced Degree
+887,16,15,16,Advanced Degree
+888,12,9,8,High School
+890,17,12,17,Advanced Degree
+892,16,16,20,Advanced Degree
+894,20,12,12,Some College
+895,12,12,14,Some College
+896,16,12,14,Some College
+897,18,12,12,Some College
+898,19,12,15,College
+899,18,8,18,Advanced Degree
+901,16,19,18,Advanced Degree
+902,14,12,12,Some College
+903,16,12,14,Some College
+904,18,14,16,Advanced Degree
+906,16,15,15,College
+910,16,13,8,High School
+915,18,12,12,Some College
+916,18,18,12,Some College
+917,19,14,12,Some College
+918,13,12,12,Some College
+919,16,16,20,Advanced Degree
+923,12,12,12,Some College
+924,12,12,12,Some College
+925,16,8,8,High School
+926,15,8,6,< High School
+927,18,12,12,Some College
+928,15,12,12,Some College
+929,16,14,10,High School
+931,16,12,12,Some College
+933,12,12,12,Some College
+935,14,12,16,Advanced Degree
+938,12,12,5,< High School
+941,16,14,12,Some College
+942,16,15,12,Some College
+943,20,12,12,Some College
+944,18,14,12,Some College
+945,12,16,12,Some College
+946,18,12,20,Advanced Degree
+947,17,13,12,Some College
+948,16,8,10,High School
+949,15,16,12,Some College
+950,16,12,12,Some College
+952,16,18,14,Some College
+953,18,12,12,Some College
+954,20,12,12,Some College
+956,16,12,12,Some College
+957,16,12,6,< High School
+960,12,12,12,Some College
+961,12,12,12,Some College
+964,18,11,10,High School
+965,12,8,9,High School
+969,16,16,16,Advanced Degree
+972,18,12,12,Some College
+973,15,12,12,Some College
+975,17,12,14,Some College
+977,12,12,16,Advanced Degree
+980,14,0,0,< High School
+981,18,14,16,Advanced Degree
+983,17,12,16,Advanced Degree
+985,18,12,8,High School
+986,20,8,20,Advanced Degree
+988,16,10,15,College
+989,17,8,5,< High School
+990,15,10,9,High School
+991,16,14,12,Some College
+992,14,16,15,College
+993,17,17,12,Some College
+995,14,12,20,Advanced Degree
+996,14,12,20,Advanced Degree
+997,18,6,15,College
+998,15,15,15,College
+999,16,12,12,Some College
+1000,16,12,16,Advanced Degree
+1001,16,13,12,Some College
+1002,14,11,10,High School
+1003,16,12,16,Advanced Degree
+1004,14,6,12,Some College
+1005,19,10,16,Advanced Degree
+1008,13,12,8,High School
+1009,8,6,3,< High School
+1013,19,16,16,Advanced Degree
+1014,16,12,19,Advanced Degree
+1015,17,16,15,College
+1018,16,16,16,Advanced Degree
+1019,16,12,14,Some College
+1021,17,14,13,Some College
+1022,16,8,8,High School
+1023,16,16,16,Advanced Degree
+1024,16,12,16,Advanced Degree
+1025,19,16,16,Advanced Degree
+1026,17,12,12,Some College
+1030,12,6,5,< High School
+1034,12,16,16,Advanced Degree
+1036,14,14,16,Advanced Degree
+1039,16,20,16,Advanced Degree
+1043,12,12,13,Some College
+1044,18,16,16,Advanced Degree
+1045,18,12,19,Advanced Degree
+1046,14,12,14,Some College
+1048,13,12,8,High School
+1049,17,12,16,Advanced Degree
+1050,14,14,14,Some College
+1051,16,12,12,Some College
+1052,12,12,12,Some College
+1055,16,16,16,Advanced Degree
+1056,16,14,12,Some College
+1057,14,15,16,Advanced Degree
+1059,12,14,12,Some College
+1060,12,9,12,Some College
+1061,16,14,16,Advanced Degree
+1062,18,16,18,Advanced Degree
+1063,14,10,9,High School
+1065,19,12,12,Some College
+1066,13,12,14,Some College
+1068,16,16,16,Advanced Degree
+1069,12,12,12,Some College
+1071,16,12,12,Some College
+1072,12,12,16,Advanced Degree
+1074,18,18,18,Advanced Degree
+1075,13,20,10,High School
+1079,17,16,6,< High School
+1080,12,12,12,Some College
+1081,13,12,12,Some College
+1084,19,18,20,Advanced Degree
+1085,12,13,12,Some College
+1086,10,8,12,Some College
+1087,12,10,11,High School
+1088,12,12,8,High School
+1089,12,8,6,< High School
+1091,14,12,12,Some College
+1092,13,12,11,High School
+1093,14,12,15,College
+1094,16,12,12,Some College
+1095,15,12,14,Some College
+1096,14,14,12,Some College
+1097,16,12,12,Some College
+1100,12,12,12,Some College
+1102,18,18,18,Advanced Degree
+1103,18,16,14,Some College
+1106,12,10,11,High School
+1108,12,12,18,Advanced Degree
+1109,10,12,8,High School
+1110,20,20,14,Some College
+1111,14,11,11,High School
+1112,15,14,15,College
+1115,20,12,12,Some College
+1117,12,12,11,High School
+1118,19,12,12,Some College
+1119,18,12,14,Some College
+1120,17,16,16,Advanced Degree
+1121,16,12,12,Some College
+1122,11,20,16,Advanced Degree
+1123,16,12,12,Some College
+1124,15,12,16,Advanced Degree
+1127,16,12,16,Advanced Degree
+1129,20,18,17,Advanced Degree
+1130,16,16,16,Advanced Degree
+1131,16,12,12,Some College
+1132,16,12,12,Some College
+1133,16,12,12,Some College
+1134,16,16,12,Some College
+1136,16,16,16,Advanced Degree
+1137,16,12,12,Some College
+1138,16,12,16,Advanced Degree
+1139,18,16,16,Advanced Degree
+1140,16,8,8,High School
+1141,18,14,16,Advanced Degree
+1142,16,12,8,High School
+1143,20,16,16,Advanced Degree
+1144,18,14,12,Some College
+1145,14,12,16,Advanced Degree
+1146,17,12,12,Some College
+1147,16,16,16,Advanced Degree
+1149,14,9,8,High School
+1150,8,8,7,< High School
+1152,14,12,12,Some College
+1154,19,12,14,Some College
+1155,17,16,20,Advanced Degree
+1156,20,18,18,Advanced Degree
+1157,14,0,12,Some College
+1159,16,12,6,< High School
+1161,12,12,12,Some College
+1162,16,0,0,< High School
+1164,16,12,12,Some College
+1165,18,13,16,Advanced Degree
+1166,16,13,19,Advanced Degree
+1169,13,12,8,High School
+1171,20,12,13,Some College
+1172,14,12,16,Advanced Degree
+1173,14,8,8,High School
+1176,18,12,16,Advanced Degree
+1181,14,12,12,Some College
+1183,12,12,4,< High School
+1185,15,12,12,Some College
+1186,16,18,13,Some College
+1187,14,12,12,Some College
+1190,17,5,5,< High School
+1191,13,14,12,Some College
+1192,13,12,16,Advanced Degree
+1193,16,16,20,Advanced Degree
+1194,18,18,14,Some College
+1195,16,20,20,Advanced Degree
+1196,18,12,12,Some College
+1197,16,16,12,Some College
+1198,16,16,16,Advanced Degree
+1199,20,16,20,Advanced Degree
+1200,16,12,15,College
+1201,18,12,12,Some College
+1203,15,12,12,Some College
+1204,18,12,12,Some College
+1205,14,12,12,Some College
+1206,18,12,12,Some College
+1207,16,14,13,Some College
+1208,19,16,12,Some College
+1209,20,20,19,Advanced Degree
+1210,14,14,11,High School
+1211,16,10,11,High School
+1213,20,13,5,< High School
+1215,16,16,18,Advanced Degree
+1216,16,14,17,Advanced Degree
+1217,16,12,12,Some College
+1218,11,12,12,Some College
+1219,14,14,10,High School
+1220,16,16,18,Advanced Degree
+1222,12,12,12,Some College
+1223,17,16,16,Advanced Degree
+1224,20,14,16,Advanced Degree
+1225,12,12,7,< High School
+1228,12,4,12,Some College
+1229,14,12,8,High School
+1230,20,13,9,High School
+1231,12,7,5,< High School
+1232,12,12,8,High School
+1235,13,14,7,< High School
+1237,14,12,7,< High School
+1239,12,11,10,High School
+1244,15,6,12,Some College
+1245,12,13,12,Some College
+1246,13,12,3,< High School
+1247,12,12,5,< High School
+1248,10,12,16,Advanced Degree
+1249,19,15,16,Advanced Degree
+1250,18,14,16,Advanced Degree
+1251,12,14,12,Some College
+1253,16,12,12,Some College
+1254,13,5,5,< High School
+1255,16,12,16,Advanced Degree
+1257,15,5,5,< High School
+1259,17,18,20,Advanced Degree
+1261,15,16,12,Some College
+1263,16,16,16,Advanced Degree
+1265,20,12,12,Some College
+1266,18,12,16,Advanced Degree
+1267,17,12,0,< High School
+1268,19,16,12,Some College
+1269,20,10,13,Some College
+1270,17,15,14,Some College
+1271,14,12,15,College
+1272,20,14,17,Advanced Degree
+1273,16,12,16,Advanced Degree
+1275,13,12,12,Some College
+1276,16,16,12,Some College
+1277,13,12,10,High School
+1278,16,12,13,Some College
+1279,16,12,16,Advanced Degree
+1285,19,16,18,Advanced Degree
+1287,20,18,16,Advanced Degree
+1289,16,16,16,Advanced Degree
+1290,16,11,10,High School
+1291,16,14,16,Advanced Degree
+1292,16,8,8,High School
+1294,13,12,12,Some College
+1295,18,12,12,Some College
+1297,18,14,14,Some College
+1298,17,12,18,Advanced Degree
+1299,18,13,14,Some College
+1304,14,12,12,Some College
+1305,12,14,16,Advanced Degree
+1306,16,14,16,Advanced Degree
+1312,18,8,12,Some College
+1314,12,11,12,Some College
+1315,17,16,14,Some College
+1316,14,14,12,Some College
+1317,17,12,10,High School
+1318,17,14,16,Advanced Degree
+1319,14,12,12,Some College
+1320,14,16,12,Some College
+1322,12,12,12,Some College
+1323,16,12,10,High School
+1324,15,12,15,College
+1325,14,16,12,Some College
+1326,16,16,16,Advanced Degree
+1327,16,12,12,Some College
+1328,18,12,12,Some College
+1329,16,13,20,Advanced Degree
+1330,12,14,11,High School
+1331,18,16,16,Advanced Degree
+1332,20,8,12,Some College
+1333,12,12,12,Some College
+1334,17,16,12,Some College
+1336,17,12,17,Advanced Degree
+1337,12,12,13,Some College
+1338,13,12,12,Some College
+1340,20,8,8,High School
+1342,19,12,16,Advanced Degree
+1343,12,18,18,Advanced Degree
+1344,19,12,16,Advanced Degree
+1345,12,8,6,< High School
+1346,17,16,20,Advanced Degree
+1347,12,10,10,High School
+1349,14,10,12,Some College
+1350,17,12,8,High School
+1351,16,13,15,College
+1355,13,14,12,Some College
+1356,12,16,14,Some College
+1357,16,12,12,Some College
+1358,16,12,18,Advanced Degree
+1359,16,13,13,Some College
+1360,17,12,10,High School
+1361,16,16,14,Some College
+1363,16,12,14,Some College
+1364,12,12,12,Some College
+1365,16,11,16,Advanced Degree
+1367,12,12,12,Some College
+1368,17,15,13,Some College
+1369,12,15,8,High School
+1370,18,12,12,Some College
+1371,14,14,12,Some College
+1372,13,18,10,High School
+1373,16,12,14,Some College
+1374,20,13,16,Advanced Degree
+1381,16,14,16,Advanced Degree
+1384,12,11,13,Some College
+1385,16,9,8,High School
+1386,12,13,12,Some College
+1388,18,15,20,Advanced Degree
+1389,13,10,9,High School
+1391,19,12,12,Some College
+1392,14,5,3,< High School
+1393,16,10,5,< High School
+1395,14,12,14,Some College
+1396,12,12,11,High School
+1397,14,13,6,< High School
+1399,20,12,12,Some College
+1400,16,16,16,Advanced Degree
+1401,16,16,16,Advanced Degree
+1402,18,14,20,Advanced Degree
+1403,12,3,8,High School
+1405,15,12,12,Some College
+1406,11,2,4,< High School
+1407,15,12,14,Some College
+1408,12,7,6,< High School
+1411,12,12,16,Advanced Degree
+1413,12,0,12,Some College
+1414,14,12,12,Some College
+1416,16,12,12,Some College
+1417,12,12,12,Some College
+1418,16,12,14,Some College
+1419,14,12,16,Advanced Degree
+1425,17,12,12,Some College
+1426,16,9,10,High School
+1427,16,16,16,Advanced Degree
+1428,17,12,13,Some College
+1429,17,6,9,High School
+1430,13,12,12,Some College
+1431,16,12,16,Advanced Degree
+1432,14,0,0,< High School
+1433,12,12,12,Some College
+1434,12,12,12,Some College
+1437,15,16,9,High School
+1438,13,12,14,Some College
+1440,16,12,16,Advanced Degree
+1442,13,12,12,Some College
+1444,17,15,17,Advanced Degree
+1445,19,14,12,Some College
+1447,13,14,12,Some College
+1448,17,8,8,High School
+1449,18,18,16,Advanced Degree
+1451,19,12,12,Some College
+1452,16,16,12,Some College
+1453,12,12,12,Some College
+1454,18,12,12,Some College
+1455,14,12,16,Advanced Degree
+1456,14,12,17,Advanced Degree
+1458,14,16,12,Some College
+1459,15,8,8,High School
+1466,12,12,12,Some College
+1467,16,12,12,Some College
+1468,18,18,16,Advanced Degree
+1469,16,12,8,High School
+1470,18,12,12,Some College
+1472,15,10,9,High School
+1474,18,12,12,Some College
+1475,20,12,12,Some College
+1477,20,4,12,Some College
+1478,12,12,12,Some College
+1479,17,12,0,< High School
+1480,12,8,12,Some College
+1481,14,16,16,Advanced Degree
+1482,14,12,16,Advanced Degree
+1483,17,13,17,Advanced Degree
+1484,10,12,12,Some College
+1487,17,12,13,Some College
+1489,16,16,16,Advanced Degree
+1490,12,12,12,Some College
+1491,20,12,11,High School
+1493,11,14,14,Some College
+1495,16,16,18,Advanced Degree
+1496,16,12,12,Some College
+1499,8,16,14,Some College
+1502,14,12,12,Some College
+1505,16,12,16,Advanced Degree
+1506,8,11,4,< High School
+1507,15,12,14,Some College
+1508,16,12,12,Some College
+1509,14,14,14,Some College
+1512,14,12,12,Some College
+1513,12,14,12,Some College
+1514,16,12,12,Some College
+1516,11,7,9,High School
+1517,16,12,12,Some College
+1518,0,0,0,< High School
+1519,16,12,9,High School
+1522,13,13,5,< High School
+1523,12,12,11,High School
+1524,19,12,13,Some College
+1525,18,12,13,Some College
+1528,16,14,16,Advanced Degree
+1534,12,13,12,Some College
+1535,12,12,12,Some College
+1537,16,16,12,Some College
+1538,16,12,12,Some College
+1539,16,12,12,Some College
+1540,16,12,16,Advanced Degree
+1541,13,0,0,< High School
+1542,20,20,18,Advanced Degree
+1543,16,16,16,Advanced Degree
+1547,16,16,16,Advanced Degree
+1548,14,12,12,Some College
+1549,18,8,7,< High School
+1552,12,15,3,< High School
+1554,17,12,12,Some College
+1555,12,12,12,Some College
+1557,16,12,16,Advanced Degree
+1558,13,12,3,< High School
+1560,16,12,8,High School
+1561,14,12,12,Some College
+1562,12,12,12,Some College
+1563,12,4,5,< High School
+1564,16,16,14,Some College
+1567,14,12,12,Some College
+1568,12,12,12,Some College
+1569,15,17,16,Advanced Degree
+1570,11,9,8,High School
+1572,16,11,8,High School
+1573,12,9,14,Some College
+1575,16,20,12,Some College
+1577,9,9,12,Some College
+1580,12,12,12,Some College
+1582,16,12,12,Some College
+1584,16,16,16,Advanced Degree
+1585,18,14,12,Some College
+1586,18,14,14,Some College
+1587,14,12,12,Some College
+1588,16,12,6,< High School
+1590,14,6,6,< High School
+1591,12,14,12,Some College
+1592,16,16,16,Advanced Degree
+1593,13,12,16,Advanced Degree
+1594,16,14,16,Advanced Degree
+1596,16,12,12,Some College
+1597,10,13,10,High School
+1598,12,8,4,< High School
+1601,14,9,12,Some College
+1602,13,12,8,High School
+1603,16,12,12,Some College
+1604,16,5,16,Advanced Degree
+1606,13,12,12,Some College
+1607,17,8,3,< High School
+1608,12,8,11,High School
+1610,14,12,14,Some College
+1612,13,9,12,Some College
+1614,11,12,11,High School
+1616,14,13,8,High School
+1617,14,14,16,Advanced Degree
+1618,18,16,18,Advanced Degree
+1619,12,12,12,Some College
+1620,14,13,14,Some College
+1624,11,8,0,< High School
+1625,16,13,16,Advanced Degree
+1626,16,16,16,Advanced Degree
+1627,20,12,14,Some College
+1628,16,8,12,Some College
+1631,11,14,16,Advanced Degree
+1632,13,12,12,Some College
+1634,20,13,16,Advanced Degree
+1638,14,12,13,Some College
+1640,12,7,7,< High School
+1643,20,12,12,Some College
+1646,12,12,12,Some College
+1647,12,12,12,Some College
+1648,17,15,16,Advanced Degree
+1649,15,12,16,Advanced Degree
+1650,16,16,13,Some College
+1653,20,12,12,Some College
+1657,14,12,12,Some College
+1658,16,14,12,Some College
+1660,14,12,12,Some College
+1661,12,12,12,Some College
+1662,16,12,8,High School
+1664,18,12,12,Some College
+1665,14,12,11,High School
+1669,20,9,12,Some College
+1671,12,12,12,Some College
+1672,16,12,12,Some College
+1673,14,12,8,High School
+1675,12,12,12,Some College
+1676,9,11,12,Some College
+1677,12,10,9,High School
+1678,11,11,7,< High School
+1681,18,14,12,Some College
+1683,17,16,16,Advanced Degree
+1684,18,11,12,Some College
+1685,16,12,16,Advanced Degree
+1686,16,12,12,Some College
+1688,16,20,16,Advanced Degree
+1689,12,12,12,Some College
+1691,18,18,12,Some College
+1692,16,20,20,Advanced Degree
+1694,14,12,11,High School
+1695,13,14,12,Some College
+1696,12,12,13,Some College
+1697,16,12,12,Some College
+1699,14,12,12,Some College
+1701,13,12,14,Some College
+1702,16,20,12,Some College
+1703,13,13,12,Some College
+1704,16,12,9,High School
+1705,14,11,14,Some College
+1707,16,10,10,High School
+1709,18,11,14,Some College
+1710,12,10,11,High School
+1711,9,12,12,Some College
+1712,12,12,12,Some College
+1714,13,12,12,Some College
+1715,13,12,13,Some College
+1716,18,12,12,Some College
+1717,16,12,13,Some College
+1719,16,14,16,Advanced Degree
+1720,14,11,9,High School
+1721,15,12,16,Advanced Degree
+1722,16,12,11,High School
+1723,16,12,12,Some College
+1726,16,12,12,Some College
+1727,16,16,16,Advanced Degree
+1728,18,12,12,Some College
+1729,13,11,12,Some College
+1731,18,12,14,Some College
+1733,18,10,15,College
+1734,20,12,12,Some College
+1735,12,12,12,Some College
+1736,18,12,20,Advanced Degree
+1741,13,12,12,Some College
+1742,15,12,13,Some College
+1743,12,12,9,High School
+1745,16,12,15,College
+1746,14,12,12,Some College
+1747,16,12,12,Some College
+1748,16,10,10,High School
+1750,14,12,14,Some College
+1751,14,12,12,Some College
+1752,12,12,12,Some College
+1753,13,16,10,High School
+1754,14,12,9,High School
+1756,16,12,16,Advanced Degree
+1757,18,12,16,Advanced Degree
+1758,16,18,14,Some College
+1759,20,12,14,Some College
+1760,12,12,12,Some College
+1761,16,13,16,Advanced Degree
+1762,14,8,8,High School
+1764,14,12,16,Advanced Degree
+1766,16,14,14,Some College
+1767,13,14,12,Some College
+1769,13,12,8,High School
+1770,14,18,18,Advanced Degree
+1771,12,12,12,Some College
+1772,12,12,12,Some College
+1773,14,10,14,Some College
+1774,12,12,12,Some College
+1776,16,12,12,Some College
+1782,12,12,12,Some College
+1783,17,12,12,Some College
+1784,20,12,12,Some College
+1785,16,12,12,Some College
+1786,16,14,12,Some College
+1788,20,12,12,Some College
+1789,17,14,16,Advanced Degree
+1790,12,12,11,High School
+1791,16,19,20,Advanced Degree
+1792,17,4,6,< High School
+1794,15,13,14,Some College
+1796,12,12,8,High School
+1797,16,6,12,Some College
+1798,16,12,13,Some College
+1802,12,12,12,Some College
+1803,15,8,12,Some College
+1806,13,8,12,Some College
+1807,16,9,8,High School
+1808,12,12,12,Some College
+1809,16,12,14,Some College
+1811,16,16,16,Advanced Degree
+1812,13,12,12,Some College
+1813,16,12,12,Some College
+1814,15,12,12,Some College
+1815,12,12,11,High School
+1816,12,11,12,Some College
+1817,16,11,11,High School
+1818,15,16,20,Advanced Degree
+1819,16,14,20,Advanced Degree
+1822,14,12,12,Some College
+1824,16,12,12,Some College
+1826,12,14,12,Some College
+1827,12,12,12,Some College
+1829,17,16,15,College
+1830,12,8,8,High School
+1837,15,16,12,Some College
+1838,16,16,12,Some College
+1840,12,10,12,Some College
+1841,11,1,12,Some College
+1842,11,12,12,Some College
+1845,18,15,8,High School
+1847,17,16,8,High School
+1848,16,12,12,Some College
+1849,12,9,12,Some College
+1850,14,5,6,< High School
+1851,16,20,20,Advanced Degree
+1852,16,12,12,Some College
+1853,12,12,12,Some College
+1854,14,14,14,Some College
+1856,13,5,5,< High School
+1857,16,12,12,Some College
+1858,13,13,13,Some College
+1859,16,12,13,Some College
+1860,20,14,12,Some College
+1861,14,12,12,Some College
+1862,14,14,12,Some College
+1863,18,12,12,Some College
+1864,18,20,20,Advanced Degree
+1865,14,16,12,Some College
+1866,10,12,12,Some College
+1867,13,12,12,Some College
+1868,12,12,12,Some College
+1869,12,20,12,Some College
+1871,12,8,12,Some College
+1872,12,12,8,High School
+1875,14,9,12,Some College
+1876,12,16,13,Some College
+1877,14,11,11,High School
+1878,18,12,8,High School
+1879,12,8,8,High School
+1881,12,15,16,Advanced Degree
+1882,16,8,7,< High School
+1883,16,12,12,Some College
+1884,16,18,16,Advanced Degree
+1885,12,12,9,High School
+1887,13,12,10,High School
+1888,13,12,12,Some College
+1889,18,14,14,Some College
+1890,13,12,11,High School
+1891,18,12,16,Advanced Degree
+1892,12,12,12,Some College
+1894,12,12,14,Some College
+1895,20,12,20,Advanced Degree
+1897,14,16,18,Advanced Degree
+1898,12,12,12,Some College
+1899,16,12,16,Advanced Degree
+1901,16,13,16,Advanced Degree
+1903,12,12,13,Some College
+1904,15,20,20,Advanced Degree
+1905,18,12,10,High School
+1908,17,16,12,Some College
+1909,14,14,13,Some College
+1910,19,16,12,Some College
+1912,20,14,13,Some College
+1914,16,12,12,Some College
+1915,14,12,8,High School
+1916,16,14,13,Some College
+1918,18,16,18,Advanced Degree
+1922,20,14,16,Advanced Degree
+1923,18,12,13,Some College
+1924,16,12,12,Some College
+1925,18,20,16,Advanced Degree
+1926,16,12,12,Some College
+1929,16,10,12,Some College
+1932,14,13,12,Some College
+1933,16,12,13,Some College
+1934,12,4,3,< High School
+1935,15,14,17,Advanced Degree
+1936,16,12,14,Some College
+1937,18,18,16,Advanced Degree
+1938,18,13,12,Some College
+1939,16,16,16,Advanced Degree
+1942,15,7,12,Some College
+1943,14,18,14,Some College
+1946,10,8,10,High School
+1947,12,12,14,Some College
+1950,16,12,12,Some College
+1951,17,14,8,High School
+1953,16,16,14,Some College
+1954,18,2,6,< High School
+1959,12,12,14,Some College
+1960,19,12,12,Some College
+1961,12,12,12,Some College
+1962,18,12,12,Some College
+1965,12,12,12,Some College
+1966,12,3,0,< High School
+1967,18,16,18,Advanced Degree
+1968,13,12,12,Some College
+1969,16,12,12,Some College
+1970,20,13,16,Advanced Degree
+1971,12,10,12,Some College
+1973,14,16,16,Advanced Degree
+1976,17,14,15,College
+1978,12,14,12,Some College
+1979,14,12,10,High School
+1980,16,18,18,Advanced Degree
+1981,14,8,6,< High School
+1984,16,14,18,Advanced Degree
+1985,16,12,13,Some College
+1986,20,13,12,Some College
+1988,16,16,16,Advanced Degree
+1989,16,15,15,College
+1990,12,16,12,Some College
+1992,13,11,11,High School
+1993,12,12,12,Some College
+1996,16,12,12,Some College
+1998,13,14,10,High School
+1999,14,12,12,Some College
+2000,12,12,12,Some College
+2001,13,12,12,Some College
+2003,16,12,12,Some College
+2005,14,18,13,Some College
+2011,12,12,12,Some College
+2012,13,18,18,Advanced Degree
+2018,12,14,14,Some College
+2019,16,13,17,Advanced Degree
+2021,14,16,16,Advanced Degree
+2022,12,8,6,< High School
+2023,12,12,6,< High School
+2027,19,12,12,Some College
+2028,13,10,12,Some College
+2029,16,14,13,Some College
+2030,12,14,16,Advanced Degree
+2031,12,12,6,< High School
+2034,19,16,16,Advanced Degree
+2035,12,10,12,Some College
+2036,12,12,12,Some College
+2037,14,12,6,< High School
+2038,16,16,16,Advanced Degree
+2039,12,12,8,High School
+2040,12,12,12,Some College
+2048,16,12,15,College
+2049,12,12,16,Advanced Degree
+2050,17,16,20,Advanced Degree
+2053,15,16,16,Advanced Degree
+2057,12,9,7,< High School
+2058,14,16,11,High School
+2067,13,12,8,High School
+2069,15,12,16,Advanced Degree
+2070,12,12,8,High School
+2071,12,12,5,< High School
+2072,18,12,12,Some College
+2074,16,13,3,< High School
+2076,12,12,12,Some College
+2077,16,8,7,< High School
+2079,17,12,12,Some College
+2080,13,12,13,Some College
+2082,12,5,0,< High School
+2084,11,12,12,Some College
+2087,12,7,5,< High School
+2089,17,14,13,Some College
+2091,16,10,8,High School
+2092,16,14,16,Advanced Degree
+2094,17,12,13,Some College
+2095,13,10,10,High School
+2097,19,12,16,Advanced Degree
+2098,16,10,12,Some College
+2100,15,12,12,Some College
+2101,14,8,3,< High School
+2108,20,12,16,Advanced Degree
+2109,16,13,18,Advanced Degree
+2110,12,12,12,Some College
+2111,14,12,16,Advanced Degree
+2112,16,11,12,Some College
+2113,11,12,12,Some College
+2114,12,12,12,Some College
+2115,16,10,12,Some College
+2118,14,20,12,Some College
+2120,16,16,20,Advanced Degree
+2121,16,18,16,Advanced Degree
+2122,16,12,12,Some College
+2123,16,12,12,Some College
+2124,19,14,18,Advanced Degree
+2125,12,8,12,Some College
+2126,15,15,16,Advanced Degree
+2127,16,12,16,Advanced Degree
+2129,18,18,7,< High School
+2131,16,12,16,Advanced Degree
+2132,20,5,3,< High School
+2134,12,14,12,Some College
+2135,18,14,14,Some College
+2141,20,8,8,High School
+2142,16,16,16,Advanced Degree
+2143,16,16,20,Advanced Degree
+2144,12,13,8,High School
+2148,16,12,12,Some College
+2150,16,10,10,High School
+2151,18,16,16,Advanced Degree
+2152,16,12,16,Advanced Degree
+2153,17,12,14,Some College
+2154,16,16,12,Some College
+2156,18,12,16,Advanced Degree
+2157,14,12,12,Some College
+2158,14,12,12,Some College
+2159,18,12,12,Some College
+2160,12,12,12,Some College
+2161,14,16,16,Advanced Degree
+2162,16,16,16,Advanced Degree
+2163,12,9,11,High School
+2164,16,12,12,Some College
+2165,20,13,14,Some College
+2166,12,12,12,Some College
+2169,12,12,6,< High School
+2170,6,2,2,< High School
+2172,16,12,16,Advanced Degree
+2173,14,14,8,High School
+2175,14,16,18,Advanced Degree
+2176,11,12,12,Some College
+2177,17,12,12,Some College
+2178,16,12,12,Some College
+2179,12,7,12,Some College
+2183,10,6,8,High School
+2184,15,12,12,Some College
+2186,16,12,18,Advanced Degree
+2187,18,6,6,< High School
+2191,20,5,7,< High School
+2194,13,15,10,High School
+2195,20,13,14,Some College
+2197,14,6,9,High School
+2198,12,12,12,Some College
+2201,20,7,14,Some College
+2202,14,12,12,Some College
+2204,15,12,12,Some College
+2205,11,16,12,Some College
+2207,18,14,14,Some College
+2209,18,14,17,Advanced Degree
+2210,13,12,12,Some College
+2212,18,10,10,High School
+2215,18,6,16,Advanced Degree
+2217,18,12,12,Some College
+2220,14,12,12,Some College
+2221,15,0,20,Advanced Degree
+2222,14,16,16,Advanced Degree
+2223,13,12,12,Some College
+2224,14,14,12,Some College
+2225,20,16,16,Advanced Degree
+2228,9,6,2,< High School
+2231,14,6,12,Some College
+2232,14,12,12,Some College
+2233,16,16,16,Advanced Degree
+2234,16,12,12,Some College
+2236,12,11,12,Some College
+2237,12,5,5,< High School
+2238,13,16,15,College
+2239,12,16,9,High School
+2241,13,1,3,< High School
+2242,10,12,16,Advanced Degree
+2243,16,13,14,Some College
+2244,13,13,14,Some College
+2246,20,12,15,College
+2247,16,14,18,Advanced Degree
+2250,16,12,10,High School
+2254,18,12,16,Advanced Degree
+2256,16,14,12,Some College
+2259,18,16,16,Advanced Degree
+2260,16,16,16,Advanced Degree
+2261,16,12,16,Advanced Degree
+2262,18,16,15,College
+2263,20,16,16,Advanced Degree
+2264,18,18,13,Some College
+2265,12,18,17,Advanced Degree
+2266,17,12,12,Some College
+2267,16,16,18,Advanced Degree
+2269,14,12,12,Some College
+2270,17,12,10,High School
+2271,13,12,12,Some College
+2272,12,12,16,Advanced Degree
+2274,15,16,16,Advanced Degree
+2275,15,12,12,Some College
+2276,18,16,16,Advanced Degree
+2277,14,14,11,High School
+2279,13,9,3,< High School
+2280,12,13,14,Some College
+2283,14,12,12,Some College
+2285,16,12,12,Some College
+2286,18,16,14,Some College
+2287,16,16,20,Advanced Degree
+2288,17,14,18,Advanced Degree
+2290,18,16,14,Some College
+2292,15,20,16,Advanced Degree
+2293,16,12,12,Some College
+2294,16,16,16,Advanced Degree
+2295,12,12,12,Some College
+2297,13,10,12,Some College
+2298,18,16,12,Some College
+2299,20,9,12,Some College
+2301,16,10,10,High School
+2303,14,16,16,Advanced Degree
+2306,15,17,13,Some College
+2307,20,10,11,High School
+2309,18,12,10,High School
+2310,14,14,18,Advanced Degree
+2311,12,14,12,Some College
+2312,13,12,20,Advanced Degree
+2313,12,14,16,Advanced Degree
+2314,20,16,20,Advanced Degree
+2315,14,12,11,High School
+2316,14,12,16,Advanced Degree
+2317,13,12,10,High School
+2318,17,13,20,Advanced Degree
+2319,16,14,12,Some College
+2320,18,15,16,Advanced Degree
+2325,16,18,18,Advanced Degree
+2327,11,3,3,< High School
+2330,14,13,14,Some College
+2331,19,12,12,Some College
+2332,19,16,20,Advanced Degree
+2337,20,12,12,Some College
+2343,16,12,16,Advanced Degree
+2345,12,7,7,< High School
+2346,18,9,12,Some College
+2347,17,15,16,Advanced Degree
+2349,17,10,10,High School
+2350,12,12,12,Some College
+2351,10,12,14,Some College
+2354,17,12,12,Some College
+2357,16,15,12,Some College
+2358,15,9,8,High School
+2360,12,12,12,Some College
+2363,13,0,12,Some College
+2364,16,5,3,< High School
+2366,13,12,8,High School
+2369,17,14,12,Some College
+2371,15,12,16,Advanced Degree
+2374,15,17,12,Some College
+2375,14,14,10,High School
+2379,14,13,12,Some College
+2381,12,12,12,Some College
+2382,14,12,12,Some College
+2383,17,12,12,Some College
+2386,12,12,12,Some College
+2387,16,16,20,Advanced Degree
+2388,12,14,12,Some College
+2389,17,16,18,Advanced Degree
+2391,16,14,14,Some College
+2392,16,9,8,High School
+2393,18,18,18,Advanced Degree
+2394,14,11,11,High School
+2396,11,2,3,< High School
+2397,20,10,15,College
+2404,16,16,16,Advanced Degree
+2405,18,12,13,Some College
+2406,14,18,12,Some College
+2407,12,12,12,Some College
+2408,16,12,12,Some College
+2411,12,0,6,< High School
+2416,16,12,12,Some College
+2417,19,16,13,Some College
+2418,18,12,12,Some College
+2419,14,12,12,Some College
+2421,16,12,13,Some College
+2422,12,10,0,< High School
+2424,16,18,17,Advanced Degree
+2425,14,12,12,Some College
+2426,14,12,12,Some College
+2433,16,16,16,Advanced Degree
+2434,16,16,18,Advanced Degree
+2436,17,14,16,Advanced Degree
+2437,16,14,16,Advanced Degree
+2438,17,7,7,< High School
+2439,16,16,12,Some College
+2440,20,14,16,Advanced Degree
+2441,17,4,4,< High School
+2443,15,12,11,High School
+2445,14,12,12,Some College
+2446,15,5,5,< High School
+2447,0,12,16,Advanced Degree
+2448,17,12,5,< High School
+2449,14,12,16,Advanced Degree
+2450,15,17,16,Advanced Degree
+2451,12,16,12,Some College
+2454,15,6,4,< High School
+2455,13,13,13,Some College
+2457,13,18,12,Some College
+2459,16,14,16,Advanced Degree
+2460,12,12,16,Advanced Degree
+2463,16,16,17,Advanced Degree
+2465,12,13,19,Advanced Degree
+2466,12,10,7,< High School
+2467,16,12,18,Advanced Degree
+2468,16,16,17,Advanced Degree
+2469,20,16,16,Advanced Degree
+2470,14,12,12,Some College
+2471,18,12,12,Some College
+2472,14,12,10,High School
+2474,16,14,19,Advanced Degree
+2475,12,14,15,College
+2478,20,12,16,Advanced Degree
+2479,20,8,8,High School
+2481,17,14,16,Advanced Degree
+2487,14,12,12,Some College
+2488,20,14,16,Advanced Degree
+2489,14,13,16,Advanced Degree
+2490,14,16,16,Advanced Degree
+2494,20,12,12,Some College
+2495,13,12,12,Some College
+2496,17,14,12,Some College
+2497,18,14,6,< High School
+2498,20,12,16,Advanced Degree
+2499,20,10,12,Some College
+2501,12,14,12,Some College
+2502,16,12,8,High School
+2503,17,12,16,Advanced Degree
+2504,17,18,19,Advanced Degree
+2505,17,16,18,Advanced Degree
+2506,14,12,12,Some College
+2507,16,14,12,Some College
+2511,16,12,4,< High School
+2514,20,14,20,Advanced Degree
+2515,12,12,12,Some College
+2516,17,17,20,Advanced Degree
+2517,14,12,12,Some College
+2519,17,11,17,Advanced Degree
+2520,16,12,10,High School
+2521,14,16,16,Advanced Degree
+2522,18,14,18,Advanced Degree
+2524,16,12,16,Advanced Degree
+2525,16,6,6,< High School
+2526,16,12,12,Some College
+2527,12,4,9,High School
+2528,12,6,6,< High School
+2529,16,12,12,Some College
+2530,14,16,12,Some College
+2531,14,13,11,High School
+2537,12,14,9,High School
+2539,12,16,12,Some College
+2540,14,12,12,Some College
+2541,20,8,2,< High School
+2542,18,14,14,Some College
+2544,14,0,6,< High School
+2547,14,16,16,Advanced Degree
+2548,13,13,13,Some College
+2550,20,16,14,Some College
+2551,16,16,18,Advanced Degree
+2552,15,12,8,High School
+2555,11,11,8,High School
+2556,20,12,12,Some College
+2557,16,13,16,Advanced Degree
+2559,16,16,16,Advanced Degree
+2560,16,0,8,High School
+2561,17,16,12,Some College
+2565,14,16,20,Advanced Degree
+2567,12,14,13,Some College
+2568,14,10,6,< High School
+2569,10,12,14,Some College
+2571,16,12,20,Advanced Degree
+2572,12,12,12,Some College
+2573,8,14,14,Some College
+2574,20,18,20,Advanced Degree
+2575,13,12,12,Some College
+2576,6,16,13,Some College
+2578,16,16,12,Some College
+2579,16,12,12,Some College
+2580,16,12,18,Advanced Degree
+2581,16,11,12,Some College
+2582,17,12,18,Advanced Degree
+2583,17,12,18,Advanced Degree
+2584,12,12,9,High School
+2585,12,10,12,Some College
+2586,20,14,14,Some College
+2587,12,12,12,Some College
+2589,12,11,12,Some College
+2590,12,13,12,Some College
+2591,17,15,20,Advanced Degree
+2592,20,5,10,High School
+2593,20,16,20,Advanced Degree
+2594,16,18,18,Advanced Degree
+2595,16,16,16,Advanced Degree
+2596,16,12,12,Some College
+2598,17,15,12,Some College
+2599,16,16,16,Advanced Degree
+2600,14,8,11,High School
+2601,17,10,12,Some College
+2602,18,16,18,Advanced Degree
+2604,16,16,17,Advanced Degree
+2606,12,12,16,Advanced Degree
+2607,12,12,12,Some College
+2608,16,16,16,Advanced Degree
+2609,17,14,14,Some College
+2611,19,12,6,< High School
+2612,20,12,8,High School
+2613,13,16,16,Advanced Degree
+2614,12,8,12,Some College
+2615,14,12,13,Some College
+2617,12,12,12,Some College
+2618,16,13,18,Advanced Degree
+2619,16,15,6,< High School
+2620,12,8,9,High School
+2621,16,12,16,Advanced Degree
+2623,12,10,8,High School
+2624,16,16,12,Some College
+2626,12,12,11,High School
+2627,12,8,6,< High School
+2629,16,14,16,Advanced Degree
+2630,19,16,18,Advanced Degree
+2631,13,12,12,Some College
+2632,16,16,20,Advanced Degree
+2634,13,12,8,High School
+2635,16,12,14,Some College
+2636,12,14,14,Some College
+2637,14,10,14,Some College
+2639,16,10,14,Some College
+2640,16,18,18,Advanced Degree
+2642,14,12,12,Some College
+2643,14,12,14,Some College
+2644,14,20,12,Some College
+2645,15,8,11,High School
+2648,18,12,12,Some College
+2649,14,12,7,< High School
+2650,13,12,7,< High School
+2651,12,3,2,< High School
+2652,19,12,8,High School
+2653,20,10,17,Advanced Degree
+2655,8,6,8,High School
+2656,17,15,16,Advanced Degree
+2658,17,11,10,High School
+2660,10,12,12,Some College
+2661,13,10,2,< High School
+2662,12,12,12,Some College
+2664,18,12,16,Advanced Degree
+2665,12,0,0,< High School
+2666,13,12,12,Some College
+2668,12,12,12,Some College
+2671,16,16,15,College
+2674,16,15,16,Advanced Degree
+2675,19,12,13,Some College
+2678,15,0,0,< High School
+2679,12,12,11,High School
+2680,12,12,8,High School
+2681,12,8,8,High School
+2682,12,8,3,< High School
+2684,12,14,8,High School
+2685,14,12,12,Some College
+2686,16,15,13,Some College
+2687,16,16,16,Advanced Degree
+2688,13,12,12,Some College
+2689,16,12,12,Some College
+2690,18,14,16,Advanced Degree
+2692,18,6,2,< High School
+2695,14,13,13,Some College
+2696,12,12,12,Some College
+2698,17,14,17,Advanced Degree
+2699,16,12,14,Some College
+2700,16,12,12,Some College
+2702,15,12,12,Some College
+2703,16,16,12,Some College
+2705,16,12,12,Some College
+2706,12,12,12,Some College
+2707,18,14,12,Some College
+2710,16,13,12,Some College
+2711,16,12,8,High School
+2712,14,16,18,Advanced Degree
+2713,16,12,12,Some College
+2714,14,12,20,Advanced Degree
+2717,18,16,16,Advanced Degree
+2718,12,14,12,Some College
+2722,16,12,12,Some College
+2723,16,12,16,Advanced Degree
+2725,16,9,12,Some College
+2726,16,12,16,Advanced Degree
+2727,16,16,20,Advanced Degree
+2729,9,12,8,High School
+2733,14,12,8,High School
+2734,18,10,12,Some College
+2735,13,12,1,< High School
+2736,2,0,2,< High School
+2737,16,16,16,Advanced Degree
+2738,13,12,8,High School
+2740,12,8,8,High School
+2742,20,13,13,Some College
+2743,12,16,18,Advanced Degree
+2745,13,13,14,Some College
+2746,12,14,14,Some College
+2747,18,12,12,Some College
+2748,11,11,12,Some College
+2749,20,16,20,Advanced Degree
+2750,12,10,12,Some College
+2751,13,3,3,< High School
+2754,12,12,12,Some College
+2759,19,19,19,Advanced Degree
+2760,14,16,20,Advanced Degree
+2761,17,14,6,< High School
+2762,12,12,12,Some College
+2763,14,16,14,Some College
+2764,13,11,6,< High School
+2766,12,12,8,High School
+2771,16,14,12,Some College
+2772,12,12,7,< High School
+2773,12,15,11,High School
+2774,17,12,12,Some College
+2776,16,11,8,High School
+2777,16,12,12,Some College
+2778,13,12,8,High School
+2781,13,12,12,Some College
+2784,12,12,12,Some College
+2785,16,12,12,Some College
+2786,12,10,8,High School
+2787,18,8,10,High School
+2790,20,12,19,Advanced Degree
+2791,12,12,16,Advanced Degree
+2793,14,8,8,High School
+2794,16,16,16,Advanced Degree
+2797,18,16,16,Advanced Degree
+2800,11,10,8,High School
+2801,12,14,12,Some College
+2804,16,16,16,Advanced Degree
+2805,18,14,17,Advanced Degree
+2806,17,10,8,High School
+2807,16,13,12,Some College
+2809,17,18,18,Advanced Degree
+2810,14,11,12,Some College
+2813,14,14,12,Some College
+2816,8,9,9,High School
+2817,12,16,18,Advanced Degree
+2819,16,8,14,Some College
+2820,12,9,12,Some College
+2821,16,14,14,Some College
+2822,12,12,12,Some College
+2824,20,14,20,Advanced Degree
+2825,18,12,8,High School
+2826,12,12,12,Some College
+2828,3,8,16,Advanced Degree
+2829,9,10,4,< High School
+2831,12,8,6,< High School
+2832,14,12,12,Some College
+2833,13,8,12,Some College
+2835,16,14,16,Advanced Degree
+2836,14,12,12,Some College
+2838,17,18,15,College
+2839,14,12,14,Some College
+2840,16,11,12,Some College
+2841,12,12,12,Some College
+2843,20,12,14,Some College
+2844,17,12,12,Some College
+2846,16,12,12,Some College
+2847,17,10,16,Advanced Degree
+2848,18,16,16,Advanced Degree
+2849,18,10,13,Some College
+2850,16,16,20,Advanced Degree
+2852,15,12,12,Some College
+2853,16,12,8,High School
+2854,17,12,12,Some College
+2857,16,12,12,Some College
+2858,14,15,12,Some College
+2859,13,12,9,High School
+2860,14,12,13,Some College
+2861,12,12,10,High School
+2864,16,12,12,Some College
+2865,12,20,12,Some College
+2866,15,14,14,Some College
+2867,17,13,10,High School
+2869,18,12,12,Some College
+2870,20,16,20,Advanced Degree
+2871,9,12,11,High School
+2872,15,13,12,Some College
+2873,20,13,12,Some College
+2874,18,8,12,Some College
+2875,16,6,12,Some College
+2876,12,13,17,Advanced Degree
+2877,12,12,12,Some College
+2878,13,12,11,High School
+2880,12,16,12,Some College
+2882,16,12,14,Some College
+2883,14,12,12,Some College
+2886,16,16,16,Advanced Degree
+2887,16,12,12,Some College
+2889,12,12,12,Some College
+2891,14,12,8,High School
+2892,14,13,12,Some College
+2895,12,12,12,Some College
+2896,14,12,12,Some College
+2897,13,12,12,Some College
+2898,9,3,4,< High School
+2900,17,13,12,Some College
+2901,18,16,14,Some College
+2902,19,14,19,Advanced Degree
+2903,12,14,12,Some College
+2905,19,16,16,Advanced Degree
+2909,18,14,16,Advanced Degree
+2910,19,16,16,Advanced Degree
+2911,12,17,17,Advanced Degree
+2912,15,17,14,Some College
+2914,16,14,12,Some College
+2915,16,16,16,Advanced Degree
+2918,12,12,12,Some College
+2919,12,12,12,Some College
+2920,16,16,20,Advanced Degree
+2921,16,12,2,< High School
+2922,13,12,8,High School
+2923,17,12,14,Some College
+2925,14,12,12,Some College
+2926,17,18,18,Advanced Degree
+2927,16,16,12,Some College
+2928,17,12,12,Some College
+2929,14,12,12,Some College
+2930,17,15,12,Some College
+2931,18,10,16,Advanced Degree
+2936,19,16,18,Advanced Degree
+2937,19,7,9,High School
+2938,14,12,12,Some College
+2940,16,15,10,High School
+2941,12,6,6,< High School
+2943,18,14,13,Some College
+2944,18,17,16,Advanced Degree
+2945,12,16,18,Advanced Degree
+2946,14,12,12,Some College
+2948,18,18,12,Some College
+2949,20,14,12,Some College
+2950,17,14,16,Advanced Degree
+2951,12,12,12,Some College
+2952,15,14,14,Some College
+2953,12,14,16,Advanced Degree
+2954,13,14,14,Some College
+2957,16,20,13,Some College
+2960,14,8,12,Some College
+2962,18,16,16,Advanced Degree
+2964,16,14,16,Advanced Degree
+2965,17,13,12,Some College
+2967,14,18,16,Advanced Degree
+2968,12,8,6,< High School
+2972,16,14,20,Advanced Degree
+2973,12,12,8,High School
+2974,16,12,14,Some College
+2975,12,12,8,High School
+2978,16,18,18,Advanced Degree
+2979,14,12,12,Some College
+2980,14,12,12,Some College
+2981,12,9,9,High School
+2984,17,12,18,Advanced Degree
+2985,12,10,8,High School
+2988,14,15,16,Advanced Degree
+2990,13,12,12,Some College
+2992,12,12,16,Advanced Degree
+2993,16,8,8,High School
+2994,15,18,16,Advanced Degree
+2995,13,6,7,< High School
+2996,12,12,12,Some College
+2998,12,12,8,High School
+2999,16,16,16,Advanced Degree
+3000,16,20,16,Advanced Degree
+3002,16,16,16,Advanced Degree
+3003,20,16,16,Advanced Degree
+3005,16,16,16,Advanced Degree
+3007,16,12,16,Advanced Degree
+3008,13,12,12,Some College
+3009,12,12,9,High School
+3011,16,12,8,High School
+3012,18,12,12,Some College
+3014,9,16,14,Some College
+3015,12,5,5,< High School
+3016,16,12,9,High School
+3019,16,16,14,Some College
+3020,20,14,19,Advanced Degree
+3021,13,8,8,High School
+3022,19,10,9,High School
+3023,16,6,9,High School
+3024,15,12,14,Some College
+3025,14,12,10,High School
+3028,14,12,12,Some College
+3030,16,15,13,Some College
+3033,18,12,10,High School
+3035,14,12,12,Some College
+3036,16,12,16,Advanced Degree
+3038,12,6,12,Some College
+3040,12,12,12,Some College
+3043,17,14,18,Advanced Degree
+3044,18,17,20,Advanced Degree
+3045,12,13,12,Some College
+3046,12,16,16,Advanced Degree
+3047,17,12,12,Some College
+3049,12,12,8,High School
+3050,20,13,12,Some College
+3051,15,12,12,Some College
+3052,19,12,14,Some College
+3053,13,12,9,High School
+3054,16,16,18,Advanced Degree
+3055,12,8,12,Some College
+3056,12,12,12,Some College
+3057,14,14,11,High School
+3060,19,12,14,Some College
+3061,14,12,12,Some College
+3062,17,12,12,Some College
+3063,16,10,16,Advanced Degree
+3064,11,12,12,Some College
+3065,12,14,10,High School
+3066,16,12,12,Some College
+3067,12,14,12,Some College
+3068,16,19,18,Advanced Degree
+3070,16,8,12,Some College
+3071,17,15,12,Some College
+3072,16,12,12,Some College
+3074,13,12,12,Some College
+3075,18,14,16,Advanced Degree
+3076,16,12,12,Some College
+3077,12,16,15,College
+3078,12,11,10,High School
+3079,16,14,10,High School
+3080,14,12,12,Some College
+3081,16,14,12,Some College
+3083,18,12,12,Some College
+3084,17,16,16,Advanced Degree
+3085,20,16,16,Advanced Degree
+3088,12,12,12,Some College
+3091,18,16,19,Advanced Degree
+3094,14,8,12,Some College
+3097,14,12,17,Advanced Degree
+3098,12,12,8,High School
+3100,17,12,12,Some College
+3101,18,15,16,Advanced Degree
+3103,13,0,15,College
+3104,20,12,14,Some College
+3105,16,12,12,Some College
+3109,16,20,12,Some College
+3112,16,17,16,Advanced Degree
+3114,15,12,8,High School
+3116,14,14,14,Some College
+3117,19,20,20,Advanced Degree
+3119,16,11,12,Some College
+3120,18,17,14,Some College
+3121,14,12,16,Advanced Degree
+3124,14,14,12,Some College
+3125,17,16,11,High School
+3127,16,12,16,Advanced Degree
+3130,16,12,12,Some College
+3132,16,16,12,Some College
+3133,17,12,6,< High School
+3134,7,12,10,High School
+3138,18,12,12,Some College
+3139,16,15,16,Advanced Degree
+3140,13,17,12,Some College
+3141,20,13,12,Some College
+3142,16,16,16,Advanced Degree
+3144,15,12,12,Some College
+3146,15,14,14,Some College
+3147,16,8,13,Some College
+3149,14,14,12,Some College
+3150,17,12,12,Some College
+3151,18,12,8,High School
+3152,18,12,18,Advanced Degree
+3153,19,12,10,High School
+3154,17,16,16,Advanced Degree
+3155,16,16,16,Advanced Degree
+3159,14,14,12,Some College
+3160,13,13,14,Some College
+3161,9,12,12,Some College
+3162,14,14,10,High School
+3163,12,17,12,Some College
+3164,18,8,8,High School
+3167,17,10,15,College
+3170,20,16,12,Some College
+3173,14,12,12,Some College
+3174,12,9,9,High School
+3176,12,12,12,Some College
+3177,14,20,12,Some College
+3178,16,12,12,Some College
+3179,16,6,8,High School
+3180,10,12,12,Some College
+3181,16,15,16,Advanced Degree
+3182,20,16,18,Advanced Degree
+3186,20,16,16,Advanced Degree
+3187,18,12,16,Advanced Degree
+3191,16,16,16,Advanced Degree
+3193,16,16,16,Advanced Degree
+3194,12,12,12,Some College
+3195,19,12,12,Some College
+3197,9,8,6,< High School
+3198,14,12,12,Some College
+3200,16,10,9,High School
+3201,8,7,3,< High School
+3205,17,16,16,Advanced Degree
+3206,12,12,12,Some College
+3207,12,8,7,< High School
+3208,12,10,9,High School
+3209,6,0,0,< High School
+3210,16,13,14,Some College
+3211,17,17,16,Advanced Degree
+3213,16,12,12,Some College
+3214,13,12,10,High School
+3215,16,10,16,Advanced Degree
+3218,18,13,16,Advanced Degree
+3219,19,18,12,Some College
+3221,19,8,7,< High School
+3222,19,16,19,Advanced Degree
+3224,14,12,12,Some College
+3225,12,12,12,Some College
+3229,11,8,8,High School
+3230,14,12,12,Some College
+3232,16,16,19,Advanced Degree
+3233,16,12,16,Advanced Degree
+3238,16,13,16,Advanced Degree
+3239,16,12,12,Some College
+3242,14,14,14,Some College
+3243,13,12,12,Some College
+3244,16,12,16,Advanced Degree
+3245,12,12,16,Advanced Degree
+3246,15,14,6,< High School
+3248,20,0,12,Some College
+3249,16,12,10,High School
+3250,17,12,12,Some College
+3253,12,9,12,Some College
+3254,16,14,16,Advanced Degree
+3255,12,12,12,Some College
+3256,12,12,12,Some College
+3258,12,12,12,Some College
+3260,16,12,16,Advanced Degree
+3261,19,6,4,< High School
+3263,17,16,17,Advanced Degree
+3264,12,9,10,High School
+3265,16,12,13,Some College
+3266,20,16,16,Advanced Degree
+3268,12,12,8,High School
+3269,17,16,17,Advanced Degree
+3271,16,13,12,Some College
+3272,19,14,12,Some College
+3273,18,16,20,Advanced Degree
+3274,16,12,11,High School
+3275,18,12,12,Some College
+3276,14,12,13,Some College
+3283,18,12,14,Some College
+3286,12,13,12,Some College
+3287,14,12,12,Some College
+3288,17,16,18,Advanced Degree
+3289,16,16,16,Advanced Degree
+3291,12,11,12,Some College
+3292,12,14,12,Some College
+3293,14,12,3,< High School
+3295,18,14,12,Some College
+3297,17,9,9,High School
+3298,12,18,16,Advanced Degree
+3299,19,15,19,Advanced Degree
+3302,12,10,13,Some College
+3303,20,18,18,Advanced Degree
+3305,14,12,12,Some College
+3307,17,12,12,Some College
+3310,14,16,16,Advanced Degree
+3312,12,12,12,Some College
+3313,16,12,14,Some College
+3314,20,15,13,Some College
+3315,16,12,16,Advanced Degree
+3316,17,20,20,Advanced Degree
+3317,10,20,20,Advanced Degree
+3318,16,16,16,Advanced Degree
+3320,16,13,14,Some College
+3321,20,14,12,Some College
+3322,13,7,5,< High School
+3323,12,2,4,< High School
+3326,17,12,12,Some College
+3328,14,12,16,Advanced Degree
+3330,15,12,16,Advanced Degree
+3331,20,12,12,Some College
+3332,17,8,8,High School
+3333,16,16,16,Advanced Degree
+3335,16,12,12,Some College
+3337,16,12,13,Some College
+3339,15,20,14,Some College
+3340,12,12,6,< High School
+3341,15,19,16,Advanced Degree
+3343,12,12,12,Some College
+3344,18,14,14,Some College
+3347,12,12,12,Some College
+3348,17,14,13,Some College
+3349,16,16,16,Advanced Degree
+3351,20,13,13,Some College
+3352,16,15,17,Advanced Degree
+3354,19,18,18,Advanced Degree
+3355,20,12,17,Advanced Degree
+3356,17,0,17,Advanced Degree
+3357,10,12,12,Some College
+3360,16,12,17,Advanced Degree
+3362,19,14,16,Advanced Degree
+3363,15,14,10,High School
+3365,18,20,20,Advanced Degree
+3367,16,12,14,Some College
+3368,18,18,18,Advanced Degree
+3371,15,12,12,Some College
+3372,15,12,12,Some College
+3373,16,16,16,Advanced Degree
+3374,14,12,15,College
+3376,12,12,12,Some College
+3377,12,11,12,Some College
+3378,18,14,13,Some College
+3379,12,12,12,Some College
+3384,12,7,12,Some College
+3385,16,12,10,High School
+3386,16,12,3,< High School
+3388,14,16,14,Some College
+3389,18,4,5,< High School
+3393,20,12,12,Some College
+3394,12,12,12,Some College
+3395,14,15,12,Some College
+3396,17,19,18,Advanced Degree
+3397,15,20,20,Advanced Degree
+3398,16,12,11,High School
+3400,12,12,8,High School
+3401,13,12,12,Some College
+3403,17,12,12,Some College
+3404,13,12,12,Some College
+3407,16,14,9,High School
+3408,20,12,16,Advanced Degree
+3409,18,12,11,High School
+3410,15,12,16,Advanced Degree
+3411,18,12,12,Some College
+3413,12,12,12,Some College
+3414,20,12,12,Some College
+3415,12,12,3,< High School
+3416,17,17,15,College
+3418,18,12,12,Some College
+3420,14,16,20,Advanced Degree
+3421,13,14,12,Some College
+3423,17,16,12,Some College
+3424,12,14,14,Some College
+3425,17,12,16,Advanced Degree
+3426,19,14,12,Some College
+3428,16,4,6,< High School
+3429,13,12,16,Advanced Degree
+3430,12,7,9,High School
+3431,13,10,12,Some College
+3432,15,12,12,Some College
+3433,13,9,8,High School
+3436,13,12,12,Some College
+3438,16,12,16,Advanced Degree
+3440,20,8,8,High School
+3441,20,12,12,Some College
+3444,16,14,16,Advanced Degree
+3446,15,9,9,High School
+3447,16,14,12,Some College
+3448,12,12,12,Some College
+3449,16,12,16,Advanced Degree
+3450,13,12,12,Some College
+3452,12,12,8,High School
+3453,13,16,16,Advanced Degree
+3455,14,12,11,High School
+3456,16,16,14,Some College
+3458,15,16,16,Advanced Degree
+3461,14,12,16,Advanced Degree
+3462,14,14,17,Advanced Degree
+3465,17,16,16,Advanced Degree
+3466,20,8,10,High School
+3469,14,14,12,Some College
+3473,12,12,6,< High School
+3475,13,12,8,High School
+3476,16,5,6,< High School
+3477,12,12,16,Advanced Degree
+3480,18,12,12,Some College
+3481,14,12,14,Some College
+3482,16,16,16,Advanced Degree
+3483,16,12,12,Some College
+3485,12,12,6,< High School
+3487,16,12,12,Some College
+3490,18,14,18,Advanced Degree
+3491,11,0,6,< High School
+3492,20,12,12,Some College
+3493,16,14,16,Advanced Degree
+3494,12,14,9,High School
+3495,20,16,16,Advanced Degree
+3496,14,12,8,High School
+3500,20,12,20,Advanced Degree
+3501,16,10,6,< High School
+3503,15,8,20,Advanced Degree
+3504,11,12,7,< High School
+3505,20,12,12,Some College
+3506,14,16,16,Advanced Degree
+3507,13,12,12,Some College
+3508,17,0,5,< High School
+3509,16,12,12,Some College
+3510,16,12,13,Some College
+3511,18,12,16,Advanced Degree
+3513,18,12,16,Advanced Degree
+3514,14,12,12,Some College
+3516,16,16,16,Advanced Degree
+3517,16,12,16,Advanced Degree
+3521,13,12,12,Some College
+3523,12,12,12,Some College
+3524,12,12,10,High School
+3525,17,12,18,Advanced Degree
+3526,19,17,19,Advanced Degree
+3527,14,5,5,< High School
+3529,12,12,14,Some College
+3530,20,14,15,College
+3531,15,12,12,Some College
+3532,14,15,18,Advanced Degree
+3533,18,16,18,Advanced Degree
+3534,14,6,13,Some College
+3537,14,12,12,Some College
+3538,20,8,12,Some College
+3539,20,15,12,Some College
+3540,16,12,12,Some College
+3542,20,12,12,Some College
+3544,15,14,12,Some College
+3546,8,12,12,Some College
+3548,14,8,8,High School
+3550,14,12,12,Some College
+3551,20,17,20,Advanced Degree
+3557,18,0,16,Advanced Degree
+3558,16,12,12,Some College
+3559,17,16,16,Advanced Degree
+3561,16,12,20,Advanced Degree
+3564,12,16,16,Advanced Degree
+3565,15,16,20,Advanced Degree
+3566,17,16,16,Advanced Degree
+3568,18,12,18,Advanced Degree
+3570,14,12,14,Some College
+3571,18,18,16,Advanced Degree
+3572,16,10,16,Advanced Degree
+3573,14,11,7,< High School
+3576,14,12,14,Some College
+3577,16,12,12,Some College
+3578,20,12,10,High School
+3579,12,6,9,High School
+3580,17,9,9,High School
+3581,16,9,16,Advanced Degree
+3584,14,14,0,< High School
+3586,16,12,16,Advanced Degree
+3587,12,11,2,< High School
+3588,18,15,15,College
+3589,14,12,12,Some College
+3590,16,12,12,Some College
+3592,16,12,20,Advanced Degree
+3596,12,16,16,Advanced Degree
+3597,16,12,12,Some College
+3598,13,12,12,Some College
+3603,16,4,4,< High School
+3604,20,12,12,Some College
+3605,13,16,16,Advanced Degree
+3608,15,14,13,Some College
+3609,16,16,12,Some College
+3610,11,12,12,Some College
+3615,13,12,15,College
+3616,14,12,13,Some College
+3617,16,12,14,Some College
+3618,18,11,10,High School
+3619,12,12,12,Some College
+3620,18,14,14,Some College
+3623,13,18,12,Some College
+3626,12,16,12,Some College
+3627,18,14,16,Advanced Degree
+3630,14,12,12,Some College
+3631,16,16,13,Some College
+3632,12,9,9,High School
+3635,17,16,13,Some College
+3636,12,12,16,Advanced Degree
+3637,14,16,12,Some College
+3638,17,16,18,Advanced Degree
+3639,13,12,12,Some College
+3641,16,12,12,Some College
+3643,16,9,12,Some College
+3645,16,18,16,Advanced Degree
+3646,16,12,12,Some College
+3649,14,14,12,Some College
+3650,12,8,8,High School
+3651,18,12,16,Advanced Degree
+3652,16,9,12,Some College
+3653,13,12,12,Some College
+3656,14,12,12,Some College
+3657,16,8,14,Some College
+3659,16,18,19,Advanced Degree
+3660,18,16,19,Advanced Degree
+3661,16,20,20,Advanced Degree
+3662,12,8,12,Some College
+3664,16,16,16,Advanced Degree
+3666,12,8,7,< High School
+3667,16,12,12,Some College
+3668,14,8,14,Some College
+3670,15,16,12,Some College
+3672,8,12,5,< High School
+3673,18,12,16,Advanced Degree
+3674,15,12,16,Advanced Degree
+3675,10,5,5,< High School
+3677,18,16,12,Some College
+3678,19,14,16,Advanced Degree
+3679,19,12,16,Advanced Degree
+3680,20,11,6,< High School
+3681,16,18,16,Advanced Degree
+3686,12,13,20,Advanced Degree
+3688,16,13,16,Advanced Degree
+3689,17,20,20,Advanced Degree
+3691,19,12,12,Some College
+3692,20,16,16,Advanced Degree
+3693,16,16,6,< High School
+3694,16,17,18,Advanced Degree
+3695,19,12,12,Some College
+3700,12,12,12,Some College
+3701,12,12,17,Advanced Degree
+3702,16,12,16,Advanced Degree
+3703,14,6,6,< High School
+3705,18,1,4,< High School
+3706,17,18,18,Advanced Degree
+3708,16,8,9,High School
+3709,14,12,16,Advanced Degree
+3710,20,17,15,College
+3711,12,12,16,Advanced Degree
+3712,16,12,16,Advanced Degree
+3713,14,15,20,Advanced Degree
+3714,17,12,12,Some College
+3715,12,10,6,< High School
+3717,14,16,12,Some College
+3718,14,12,16,Advanced Degree
+3724,12,9,8,High School
+3725,12,12,4,< High School
+3727,12,12,14,Some College
+3728,16,12,12,Some College
+3729,15,13,12,Some College
+3731,16,16,14,Some College
+3732,12,8,5,< High School
+3733,12,16,12,Some College
+3735,16,16,12,Some College
+3736,16,16,16,Advanced Degree
+3737,13,5,3,< High School
+3739,8,0,0,< High School
+3741,12,12,12,Some College
+3742,17,14,20,Advanced Degree
+3743,16,16,14,Some College
+3745,13,12,0,< High School
+3746,13,10,8,High School
+3747,20,8,13,Some College
+3748,13,12,8,High School
+3749,11,12,8,High School
+3751,18,12,12,Some College
+3752,16,20,16,Advanced Degree
+3753,16,12,12,Some College
+3754,13,12,12,Some College
+3755,13,12,12,Some College
+3756,14,12,11,High School
+3757,18,12,12,Some College
+3758,16,18,20,Advanced Degree
+3759,18,13,12,Some College
+3760,16,12,12,Some College
+3762,15,16,16,Advanced Degree
+3764,12,12,16,Advanced Degree
+3765,16,16,16,Advanced Degree
+3767,16,16,16,Advanced Degree
+3768,18,18,8,High School
+3771,16,16,18,Advanced Degree
+3772,15,8,8,High School
+3773,16,13,16,Advanced Degree
+3774,12,9,12,Some College
+3776,13,12,12,Some College
+3777,13,12,12,Some College
+3780,13,16,12,Some College
+3784,14,12,12,Some College
+3786,12,12,12,Some College
+3787,16,12,12,Some College
+3789,12,11,8,High School
+3790,18,16,19,Advanced Degree
+3795,17,4,12,Some College
+3796,20,16,16,Advanced Degree
+3799,16,18,12,Some College
+3804,16,16,16,Advanced Degree
+3805,17,16,17,Advanced Degree
+3806,15,16,16,Advanced Degree
+3807,16,12,14,Some College
+3810,18,12,20,Advanced Degree
+3811,14,12,17,Advanced Degree
+3814,12,12,12,Some College
+3815,14,13,7,< High School
+3817,16,16,16,Advanced Degree
+3819,14,12,12,Some College
+3820,15,11,17,Advanced Degree
+3821,15,16,16,Advanced Degree
+3823,16,14,12,Some College
+3824,16,12,12,Some College
+3825,20,12,12,Some College
+3827,16,16,16,Advanced Degree
+3829,16,14,16,Advanced Degree
+3832,12,12,8,High School
+3834,16,16,16,Advanced Degree
+3835,12,12,8,High School
+3837,16,16,17,Advanced Degree
+3840,14,6,16,Advanced Degree
+3843,16,16,16,Advanced Degree
+3844,13,12,12,Some College
+3845,16,12,16,Advanced Degree
+3848,14,12,8,High School
+3849,16,12,12,Some College
+3850,12,8,8,High School
+3851,13,12,12,Some College
+3853,16,12,16,Advanced Degree
+3855,16,12,12,Some College
+3857,12,14,12,Some College
+3858,13,10,16,Advanced Degree
+3859,16,15,17,Advanced Degree
+3860,18,14,12,Some College
+3861,16,13,12,Some College
+3862,14,13,12,Some College
+3863,12,12,12,Some College
+3864,19,12,14,Some College
+3865,17,12,10,High School
+3866,12,12,12,Some College
+3868,18,16,16,Advanced Degree
+3874,12,17,12,Some College
+3875,18,6,13,Some College
+3876,18,12,12,Some College
+3877,18,12,14,Some College
+3878,12,12,12,Some College
+3881,12,16,3,< High School
+3883,20,7,10,High School
+3884,16,20,20,Advanced Degree
+3885,16,12,20,Advanced Degree
+3886,16,12,12,Some College
+3889,17,19,13,Some College
+3890,17,16,16,Advanced Degree
+3891,19,17,17,Advanced Degree
+3892,12,12,10,High School
+3894,14,14,16,Advanced Degree
+3895,18,16,14,Some College
+3896,16,12,18,Advanced Degree
+3897,18,17,14,Some College
+3899,9,12,12,Some College
+3901,14,12,16,Advanced Degree
+3906,12,10,11,High School
+3908,16,12,12,Some College
+3911,15,7,6,< High School
+3912,16,12,12,Some College
+3913,6,12,12,Some College
+3914,14,0,6,< High School
+3915,16,16,16,Advanced Degree
+3918,20,12,12,Some College
+3920,17,16,16,Advanced Degree
+3921,17,12,20,Advanced Degree
+3922,18,12,12,Some College
+3923,14,20,16,Advanced Degree
+3924,12,8,12,Some College
+3925,20,12,8,High School
+3926,10,12,12,Some College
+3928,16,16,15,College
+3930,15,5,7,< High School
+3932,18,13,7,< High School
+3934,16,12,16,Advanced Degree
+3935,16,10,8,High School
+3936,16,2,3,< High School
+3937,13,3,7,< High School
+3938,19,12,12,Some College
+3943,15,9,11,High School
+3944,16,12,12,Some College
+3945,16,16,16,Advanced Degree
+3946,16,10,16,Advanced Degree
+3949,20,16,13,Some College
+3950,19,18,20,Advanced Degree
+3951,16,12,12,Some College
+3953,18,14,16,Advanced Degree
+3954,13,12,16,Advanced Degree
+3955,13,12,12,Some College
+3956,16,12,12,Some College
+3958,12,12,12,Some College
+3959,13,12,12,Some College
+3963,16,16,14,Some College
+3964,18,7,2,< High School
+3965,12,0,12,Some College
+3966,20,12,20,Advanced Degree
+3973,20,9,8,High School
+3974,14,12,12,Some College
+3975,16,20,20,Advanced Degree
+3976,16,12,16,Advanced Degree
+3977,12,12,12,Some College
+3978,12,12,12,Some College
+3979,12,12,0,< High School
+3980,16,12,12,Some College
+3981,12,12,14,Some College
+3982,16,12,12,Some College
+3983,17,12,8,High School
+3986,16,14,12,Some College
+3988,16,16,16,Advanced Degree
+3989,16,12,12,Some College
+3990,18,14,16,Advanced Degree
+3992,18,16,16,Advanced Degree
+3995,17,12,9,High School
+3996,13,12,12,Some College
+3997,12,12,12,Some College
+3998,17,12,8,High School
+3999,14,13,7,< High School
+4001,15,12,18,Advanced Degree
+4002,18,15,12,Some College
+4003,17,12,10,High School
+4006,18,13,12,Some College
+4007,16,12,16,Advanced Degree
+4008,15,12,12,Some College
+4010,12,12,8,High School
+4012,15,12,12,Some College
+4013,13,12,10,High School
+4015,20,12,12,Some College
+4016,12,10,12,Some College
+4018,16,12,16,Advanced Degree
+4019,12,9,9,High School
+4020,16,9,15,College
+4021,16,20,16,Advanced Degree
+4023,13,12,12,Some College
+4024,12,12,12,Some College
+4026,16,16,8,High School
+4027,16,10,15,College
+4028,14,14,12,Some College
+4029,14,12,12,Some College
+4031,18,14,16,Advanced Degree
+4033,14,12,12,Some College
+4035,16,16,16,Advanced Degree
+4039,18,20,12,Some College
+4042,12,16,8,High School
+4043,14,6,0,< High School
+4045,12,6,9,High School
+4046,12,12,12,Some College
+4050,14,10,10,High School
+4052,16,12,15,College
+4053,12,12,8,High School
+4055,16,14,14,Some College
+4056,13,12,14,Some College
+4058,18,12,12,Some College
+4059,16,14,16,Advanced Degree
+4060,18,17,17,Advanced Degree
+4061,12,12,5,< High School
+4062,20,12,12,Some College
+4064,16,18,18,Advanced Degree
+4066,16,16,14,Some College
+4070,15,16,16,Advanced Degree
+4071,16,14,12,Some College
+4072,12,16,16,Advanced Degree
+4073,12,4,3,< High School
+4074,17,17,18,Advanced Degree
+4076,16,12,12,Some College
+4077,10,6,6,< High School
+4079,13,12,12,Some College
+4080,12,12,16,Advanced Degree
+4081,16,6,6,< High School
+4082,15,12,12,Some College
+4084,16,12,12,Some College
+4085,16,16,16,Advanced Degree
+4086,12,13,12,Some College
+4087,13,16,12,Some College
+4089,18,16,16,Advanced Degree
+4090,16,8,10,High School
+4094,13,12,11,High School
+4095,13,14,16,Advanced Degree
+4096,13,19,20,Advanced Degree
+4097,8,10,8,High School
+4098,17,16,18,Advanced Degree
+4100,18,14,12,Some College
+4101,18,12,12,Some College
+4102,12,12,12,Some College
+4103,12,18,12,Some College
+4105,14,20,6,< High School
+4106,16,19,15,College
+4107,12,12,12,Some College
+4110,12,12,3,< High School
+4112,16,14,12,Some College
+4113,12,12,0,< High School
+4116,18,13,18,Advanced Degree
+4117,16,14,16,Advanced Degree
+4118,16,10,14,Some College
+4121,16,16,16,Advanced Degree
+4122,18,10,11,High School
+4124,9,4,6,< High School
+4125,16,12,16,Advanced Degree
+4128,12,12,12,Some College
+4129,16,12,14,Some College
+4130,16,16,16,Advanced Degree
+4132,12,11,4,< High School
+4135,15,12,13,Some College
+4136,5,16,12,Some College
+4137,18,13,13,Some College
+4138,20,20,13,Some College
+4139,16,14,12,Some College
+4140,12,9,6,< High School
+4141,12,14,16,Advanced Degree
+4142,14,12,12,Some College
+4143,16,12,12,Some College
+4144,19,12,14,Some College
+4145,12,16,12,Some College
+4147,12,10,12,Some College
+4148,16,16,14,Some College
+4150,16,12,16,Advanced Degree
+4152,12,12,8,High School
+4153,14,12,12,Some College
+4154,20,12,8,High School
+4155,12,12,12,Some College
+4156,16,12,12,Some College
+4157,14,12,12,Some College
+4158,14,16,16,Advanced Degree
+4160,15,12,12,Some College
+4161,16,16,16,Advanced Degree
+4164,20,12,12,Some College
+4165,18,16,16,Advanced Degree
+4168,14,12,16,Advanced Degree
+4170,18,16,16,Advanced Degree
+4171,12,12,12,Some College
+4172,16,15,15,College
+4173,16,11,12,Some College
+4174,17,10,12,Some College
+4175,14,12,16,Advanced Degree
+4179,12,12,12,Some College
+4180,12,12,12,Some College
+4181,13,12,12,Some College
+4182,16,16,12,Some College
+4183,15,8,9,High School
+4184,18,12,12,Some College
+4185,18,6,4,< High School
+4190,16,12,16,Advanced Degree
+4191,18,12,12,Some College
+4193,12,10,12,Some College
+4194,12,13,12,Some College
+4196,17,5,6,< High School
+4197,17,12,12,Some College
+4198,17,16,16,Advanced Degree
+4199,16,14,12,Some College
+4200,18,16,18,Advanced Degree
+4201,19,16,16,Advanced Degree
+4202,16,13,12,Some College
+4204,20,14,13,Some College
+4205,19,12,12,Some College
+4208,16,16,18,Advanced Degree
+4210,12,12,12,Some College
+4211,14,12,6,< High School
+4214,16,12,12,Some College
+4215,13,13,12,Some College
+4217,12,11,12,Some College
+4220,16,13,12,Some College
+4221,18,14,16,Advanced Degree
+4222,14,12,12,Some College
+4223,19,11,11,High School
+4225,12,11,9,High School
+4227,14,14,14,Some College
+4228,16,13,16,Advanced Degree
+4229,14,16,12,Some College
+4231,17,12,12,Some College
+4235,15,8,12,Some College
+4236,16,9,12,Some College
+4238,18,16,16,Advanced Degree
+4239,14,15,12,Some College
+4240,12,12,10,High School
+4241,14,12,12,Some College
+4242,17,18,10,High School
+4243,20,12,16,Advanced Degree
+4244,16,12,11,High School
+4246,16,12,9,High School
+4247,14,9,6,< High School
+4248,18,12,16,Advanced Degree
+4249,16,12,8,High School
+4250,16,12,12,Some College
+4251,12,14,11,High School
+4253,13,16,12,Some College
+4254,17,12,9,High School
+4255,16,12,12,Some College
+4256,19,12,16,Advanced Degree
+4257,16,12,12,Some College
+4258,12,12,12,Some College
+4260,15,16,12,Some College
+4262,18,16,12,Some College
+4263,17,10,10,High School
+4265,13,12,13,Some College
+4266,16,16,16,Advanced Degree
+4267,16,5,16,Advanced Degree
+4268,19,16,16,Advanced Degree
+4272,18,14,6,< High School
+4277,12,8,8,High School
+4279,8,11,12,Some College
+4280,12,16,16,Advanced Degree
+4281,13,7,5,< High School
+4282,16,12,10,High School
+4283,12,12,12,Some College
+4284,12,9,6,< High School
+4287,17,15,12,Some College
+4288,17,18,14,Some College
+4289,16,12,12,Some College
+4290,14,11,12,Some College
+4293,15,10,10,High School
+4296,12,12,12,Some College
+4297,16,12,14,Some College
+4304,18,12,12,Some College
+4305,12,14,12,Some College
+4307,20,7,12,Some College
+4308,16,16,13,Some College
+4311,14,12,14,Some College
+4312,12,12,12,Some College
+4313,14,14,12,Some College
+4314,16,0,0,< High School
+4315,14,8,8,High School
+4316,14,8,8,High School
+4320,17,18,12,Some College
+4323,17,16,14,Some College
+4324,16,12,12,Some College
+4325,16,12,12,Some College
+4326,14,14,16,Advanced Degree
+4327,16,17,20,Advanced Degree
+4328,16,17,16,Advanced Degree
+4329,16,12,16,Advanced Degree
+4331,17,20,20,Advanced Degree
+4332,16,12,12,Some College
+4333,11,0,0,< High School
+4334,19,12,17,Advanced Degree
+4336,11,12,3,< High School
+4337,13,11,12,Some College
+4338,20,16,20,Advanced Degree
+4340,18,12,14,Some College
+4342,18,10,12,Some College
+4344,16,12,14,Some College
+4345,16,16,16,Advanced Degree
+4347,20,18,18,Advanced Degree
+4348,11,12,12,Some College
+4349,12,15,12,Some College
+4352,19,20,14,Some College
+4353,18,17,12,Some College
+4354,16,16,12,Some College
+4355,12,12,0,< High School
+4356,17,12,18,Advanced Degree
+4358,16,14,17,Advanced Degree
+4359,12,12,16,Advanced Degree
+4360,16,14,16,Advanced Degree
+4361,20,14,16,Advanced Degree
+4364,11,12,12,Some College
+4366,12,8,8,High School
+4367,14,12,14,Some College
+4368,15,13,12,Some College
+4369,16,12,12,Some College
+4370,13,12,12,Some College
+4373,10,16,16,Advanced Degree
+4374,20,9,12,Some College
+4375,16,13,12,Some College
+4376,13,13,13,Some College
+4377,16,16,12,Some College
+4378,16,14,16,Advanced Degree
+4379,18,12,12,Some College
+4380,12,12,14,Some College
+4381,19,16,18,Advanced Degree
+4382,9,6,12,Some College
+4384,20,16,14,Some College
+4385,12,14,16,Advanced Degree
+4386,20,16,14,Some College
+4388,12,14,12,Some College
+4391,15,14,12,Some College
+4392,16,12,12,Some College
+4395,16,14,16,Advanced Degree
+4396,16,12,14,Some College
+4397,17,20,16,Advanced Degree
+4399,18,12,15,College
+4401,16,12,12,Some College
+4402,18,14,15,College
+4404,16,12,16,Advanced Degree
+4406,16,18,16,Advanced Degree
+4407,15,12,10,High School
+4409,16,12,16,Advanced Degree
+4411,16,20,20,Advanced Degree
+4412,17,12,14,Some College
+4414,12,10,12,Some College
+4416,14,12,9,High School
+4417,16,16,16,Advanced Degree
+4418,12,12,12,Some College
+4419,16,16,16,Advanced Degree
+4423,20,13,16,Advanced Degree
+4425,14,18,14,Some College
+4427,16,12,12,Some College
+4428,17,12,14,Some College
+4429,19,8,14,Some College
+4430,16,12,12,Some College
+4433,20,20,20,Advanced Degree
+4436,16,12,18,Advanced Degree
+4437,16,9,9,High School
+4439,16,13,14,Some College
+4440,16,16,12,Some College
+4441,12,12,12,Some College
+4442,12,13,12,Some College
+4443,20,18,12,Some College
+4444,16,14,14,Some College
+4445,17,18,14,Some College
+4447,15,12,12,Some College
+4448,13,10,12,Some College
+4451,14,12,13,Some College
+4452,14,12,12,Some College
+4453,19,12,18,Advanced Degree
+4454,16,16,13,Some College
+4455,12,15,8,High School
+4456,14,0,3,< High School
+4457,18,18,16,Advanced Degree
+4458,17,12,12,Some College
+4459,17,0,4,< High School
+4460,13,12,12,Some College
+4461,13,12,12,Some College
+4462,19,20,20,Advanced Degree
+4463,16,12,16,Advanced Degree
+4464,18,8,6,< High School
+4466,14,16,16,Advanced Degree
+4467,14,16,16,Advanced Degree
+4468,16,16,16,Advanced Degree
+4469,16,16,16,Advanced Degree
+4470,20,14,16,Advanced Degree
