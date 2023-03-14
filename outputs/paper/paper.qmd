@@ -2,9 +2,9 @@
 title: "My title"
 subtitle: "My subtitle if needed"
 author: 
-  - First author
-  - Another author
-thanks: "Code and data are available at: LINK."
+  - Jueun Kang
+  - Tayedza Chikumbirike
+thanks: "Code and data are available at: https://github.com/tayedzac/GSS_education."
 date: "`r Sys.time()`"
 date-format: "D MMMM YYYY"
 abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
@@ -12,18 +12,97 @@ format: pdf
 number-sections: true
 bibliography: references.bib
 ---
+# Introduction
+
+# Data
+
+## Data Source and Methodology
+
+## Attributes
+
+# Data (idk what to title this)
+```{r}
+#| include: false
+#| warning: false
+#| message: false
+
+#### Read in data ####
+
+library(tidyverse)
+library(janitor)
+library(tidyr)
+
+# Respondent
+clean_data_respondent <- read_csv("inputs/data/clean_data1.csv")
+
+# Mom
+clean_data_mom <- read_csv("inputs/data/clean_data2.csv")
+
+# Dad
+clean_data_dad <- read_csv("inputs/data/clean_data3.csv")
+
+```
 
 ```{r}
 #| include: false
 #| warning: false
 #| message: false
-library(tidyverse)
-library(ggplot2)
-library(haven)
-library(janitor)
-library(tidyr)
-library(dplyr)
+
+#### Prepare data ####
+
+## Respondent
+clean_data_respondent <-
+  clean_data_respondent %>%
+  mutate(
+    education = fct_relevel(
+      education,
+      "< High School",
+      "High School",
+      "Some College",
+      "4 Years of College",
+      "> 4 years of college"
+    )
+  )
+
+## Mom
+clean_data_mom <-
+  clean_data_mom %>%
+  mutate(
+    education = fct_relevel(
+      education,
+      "< High School",
+      "High School",
+      "Some College",
+      "4 Years of College",
+      "> 4 years of college"
+    )
+  )
+
+## Dad
+clean_data_dad <-
+  clean_data_dad %>%
+  mutate(
+    education = fct_relevel(
+      education,
+      "< High School",
+      "High School",
+      "Some College",
+      "4 Years of College",
+      "> 4 years of college"
+    )
+  )
+
+## Respondent and Mom
+respondent_and_mum <- 
+  clean_data_respondent %>% 
+  left_join(clean_data_mom, by = join_by(id), suffix = c("Respondent", "Mom"))
+
+## Respondent and Dad
+respondent_and_dad <- 
+  clean_data_respondent %>% 
+  left_join(clean_data_dad, by = join_by(id), suffix = c("Respondent", "Dad"))
 ```
+
 
 ```{r}
 #| label: fig-1
@@ -32,16 +111,11 @@ library(dplyr)
 #| warning: false
 #| message: false
 
-clean_data1 <- read_csv("~/Documents/GSS_education/inputs/data/clean_data1.csv")
-
-clean_data1 |> 
-  mutate(education = fct_relevel(education, 
-            "< High School", "High School", "Some College", "College", "Advanced Degree")) |>
+clean_data_respondent |>
   ggplot(aes(x = education)) +
   geom_bar(fill = "slateblue1") +
   theme_minimal() +
-  ylim(0, 2000) +
-  labs(x = "Achieved Education Level",
+  labs(x = "Highest Education Level",
        y = "Number of Participants",
        title = "Education Level of the Respondant.")
 ```
@@ -53,16 +127,12 @@ clean_data1 |>
 #| warning: false
 #| message: false
 
-clean_data2 <- read_csv("~/Documents/GSS_education/inputs/data/clean_data2.csv")
 
-clean_data2 |> 
-  mutate(education = fct_relevel(education, 
-            "< High School", "High School", "Some College", "College", "Advanced Degree")) |>
+clean_data_mom |> 
   ggplot(aes(x = education)) +
   geom_bar(fill = "violet") +
   theme_minimal() +
-  ylim(0, 2000) +
-  labs(x = "Achieved Education Level",
+  labs(x = "Highest Education Level",
        y = "Number of Participants",
        title = "Education Level of Respondants' Mother.")
 ```
@@ -74,52 +144,66 @@ clean_data2 |>
 #| warning: false
 #| message: false
 
-clean_data3 <- read_csv("~/Documents/GSS_education/inputs/data/clean_data3.csv")
 
-clean_data3 |> 
-  mutate(education = fct_relevel(education, 
-            "< High School", "High School", "Some College", "College", "Advanced Degree")) |>
+clean_data_dad |> 
   ggplot(aes(x = education)) +
-  geom_bar(fill = "royalblue1") +
+  geom_bar(fill = "lightskyblue") +
   theme_minimal() +
-  ylim(0, 2000) +
-  labs(x = "Achieved Education Level",
+  labs(x = "Highest Education Level",
        y = "Number of Participants",
        title = "Education Level of Respondants' Father.")
 ```
 
-# Introduction
 
-# Data {#sec-data}
+
+
+```{r}
+#| label: fig-4
+#| fig-cap: Comparison Between the Respondant and Mother.
+#| echo: false
+#| warning: false
+#| message: false
+
+## Comparison between respondent and Mom
+
+respondent_and_mum |> 
+  ggplot(aes(x = educationRespondent, y = educationMom)) +
+  geom_jitter() + 
+  theme_minimal() +
+  labs(x = "Highest Education Level - Respondent",
+       y = "Highest Education Level - Mother",
+       title = "Education Level of Respondant and Mother.")
+```
+
+```{r}
+#| label: fig-4
+#| fig-cap: Comparison Between the Respondant and Father.
+#| echo: false
+#| warning: false
+#| message: false
+
+## Comparison between respondent and Dad
+
+respondent_and_dad |> 
+  ggplot(aes(x = educationRespondent, y = educationDad)) +
+  geom_jitter() + 
+  theme_minimal() +
+  labs(x = "Highest Education Level - Respondent",
+       y = "Highest Education Level - Father",
+       title = "Education Level of Respondant and Father.")
+```
+
+
 
 # Results
 
+
+
 # Discussion
 
-## First discussion point {#sec-first-point}
-
-If my paper were 10 pages, then should be be at least 2.5 pages. The discussion is a chance to show off what you know and what you learnt from all this. 
-
-## Second discussion point
-
-## Third discussion point
-
-## Weaknesses and next steps
-
-Weaknesses and next steps should also be included.
+# Conclusion
 
 \newpage
-
-\appendix
-
-# Appendix {-}
-
-
-# Additional details
-
-
-\newpage
-
 
 # References
 

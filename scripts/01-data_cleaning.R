@@ -32,35 +32,50 @@ clean_data <- clean_names(raw_data) |>
   )
 
 clean_data1 <- clean_data |> 
+  select(
+    id,
+    educ
+  ) |>
   mutate(
     education = case_when(
-      educ < 8 ~ "< High School",
-      educ < 12 ~ "High School",
-      educ < 15 ~ "Some College",
-      educ < 16 ~ "College",
-      TRUE ~ "Advanced Degree"
+      educ < 12 ~ "< High School",
+      educ == 12 ~ "High School",
+      educ < 16 ~ "Some College",
+      educ == 16 ~ "4 Years of College",
+      educ <= 20 ~ "> 4 years of college",
+      TRUE ~ "Other"
     )
   )
 
 clean_data2 <- clean_data |> 
+  select(
+    id,
+    maeduc
+  ) |>
   mutate(
     education = case_when(
-      maeduc < 8 ~ "< High School",
-      maeduc < 12 ~ "High School",
-      maeduc < 15 ~ "Some College",
-      maeduc < 16 ~ "College",
-      TRUE ~ "Advanced Degree"
+      maeduc < 12 ~ "< High School",
+      maeduc == 12 ~ "High School",
+      maeduc < 16 ~ "Some College",
+      maeduc == 16 ~ "4 Years of College",
+      maeduc <= 20 ~ "> 4 years of college",
+      TRUE ~ "Other"
     )
   )
 
 clean_data3 <- clean_data |> 
+  select(
+    id,
+    paeduc
+  ) |>
   mutate(
     education = case_when(
-      paeduc < 8 ~ "< High School",
-      paeduc < 12 ~ "High School",
-      paeduc < 15 ~ "Some College",
-      paeduc < 16 ~ "College",
-      TRUE ~ "Advanced Degree"
+      paeduc < 12 ~ "< High School",
+      paeduc == 12 ~ "High School",
+      paeduc < 16 ~ "Some College",
+      paeduc == 16 ~ "4 Years of College",
+      paeduc <= 20 ~ "> 4 years of college",
+      TRUE ~ "Other"
     )
   )
 

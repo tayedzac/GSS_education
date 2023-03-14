@@ -1,2876 +1,2876 @@
-id,educ,maeduc,paeduc,education
-1,12,14,9,Some College
-2,16,16,16,Advanced Degree
-7,17,12,12,Advanced Degree
-8,12,14,14,Some College
-9,19,16,16,Advanced Degree
-12,16,14,12,Advanced Degree
-16,14,16,18,Some College
-17,18,12,12,Advanced Degree
-22,15,14,16,College
-23,17,16,16,Advanced Degree
-24,16,16,12,Advanced Degree
-25,16,12,16,Advanced Degree
-26,16,12,14,Advanced Degree
-31,16,16,16,Advanced Degree
-36,16,12,14,Advanced Degree
-38,20,12,12,Advanced Degree
-39,16,14,16,Advanced Degree
-41,13,12,9,Some College
-42,8,12,14,High School
-43,13,12,12,Some College
-46,16,15,16,Advanced Degree
-47,16,20,12,Advanced Degree
-48,16,12,12,Advanced Degree
-49,20,16,18,Advanced Degree
-50,12,12,6,Some College
-52,14,14,12,Some College
-53,14,12,15,Some College
-56,16,16,16,Advanced Degree
-57,16,16,17,Advanced Degree
-59,13,12,10,Some College
-60,16,18,13,Advanced Degree
-61,14,12,16,Some College
-64,3,3,0,< High School
-66,14,6,9,Some College
-67,16,10,8,Advanced Degree
-68,20,12,14,Advanced Degree
-69,14,12,12,Some College
-70,17,12,18,Advanced Degree
-74,15,12,12,College
-75,16,17,16,Advanced Degree
-76,6,12,0,< High School
-77,14,12,12,Some College
-78,12,0,3,Some College
-80,16,12,16,Advanced Degree
-81,12,13,14,Some College
-82,12,12,12,Some College
-83,12,10,14,Some College
-85,16,19,14,Advanced Degree
-86,16,12,14,Advanced Degree
-91,12,14,13,Some College
-92,16,12,12,Advanced Degree
-93,16,12,12,Advanced Degree
-94,15,12,16,College
-95,16,12,16,Advanced Degree
-96,12,12,12,Some College
-97,13,16,15,Some College
-98,14,16,12,Some College
-100,16,12,12,Advanced Degree
-101,14,12,12,Some College
-103,18,14,14,Advanced Degree
-104,17,16,16,Advanced Degree
-105,18,12,8,Advanced Degree
-107,18,12,16,Advanced Degree
-108,14,11,7,Some College
-111,16,12,16,Advanced Degree
-113,12,10,16,Some College
-114,14,14,16,Some College
-115,20,12,12,Advanced Degree
-116,15,16,16,College
-117,20,13,10,Advanced Degree
-118,20,12,12,Advanced Degree
-119,18,18,18,Advanced Degree
-120,16,12,6,Advanced Degree
-121,20,10,12,Advanced Degree
-124,18,12,16,Advanced Degree
-125,18,16,12,Advanced Degree
-127,13,12,12,Some College
-128,13,14,16,Some College
-130,16,12,16,Advanced Degree
-131,16,12,12,Advanced Degree
-136,16,18,16,Advanced Degree
-137,12,10,12,Some College
-139,17,18,18,Advanced Degree
-140,16,16,15,Advanced Degree
-142,16,18,12,Advanced Degree
-143,19,15,16,Advanced Degree
-144,18,16,18,Advanced Degree
-145,18,10,12,Advanced Degree
-146,16,16,16,Advanced Degree
-147,16,16,16,Advanced Degree
-148,12,12,10,Some College
-149,16,12,10,Advanced Degree
-151,11,12,12,High School
-154,19,12,12,Advanced Degree
-155,16,16,8,Advanced Degree
-158,20,16,16,Advanced Degree
-159,14,14,12,Some College
-160,16,16,18,Advanced Degree
-164,14,12,12,Some College
-165,16,14,6,Advanced Degree
-167,17,16,20,Advanced Degree
-168,14,12,18,Some College
-169,19,10,20,Advanced Degree
-170,20,13,18,Advanced Degree
-171,16,16,15,Advanced Degree
-172,16,18,10,Advanced Degree
-173,18,13,14,Advanced Degree
-174,16,20,16,Advanced Degree
-175,14,0,0,Some College
-176,16,15,19,Advanced Degree
-177,16,12,16,Advanced Degree
-179,12,8,8,Some College
-183,18,12,18,Advanced Degree
-184,12,12,19,Some College
-188,12,12,18,Some College
-190,10,12,7,High School
-192,14,12,12,Some College
-194,13,12,12,Some College
-195,16,15,9,Advanced Degree
-196,17,16,18,Advanced Degree
-198,16,16,16,Advanced Degree
-201,16,12,12,Advanced Degree
-203,20,14,16,Advanced Degree
-206,12,12,5,Some College
-207,14,18,12,Some College
-209,16,12,12,Advanced Degree
-210,12,9,7,Some College
-213,14,12,12,Some College
-215,17,13,8,Advanced Degree
-216,6,0,0,< High School
-217,12,12,12,Some College
-220,14,10,12,Some College
-221,13,6,9,Some College
-224,16,12,14,Advanced Degree
-226,15,13,12,College
-230,12,14,14,Some College
-231,17,16,16,Advanced Degree
-233,18,15,17,Advanced Degree
-235,12,12,12,Some College
-236,20,14,17,Advanced Degree
-239,16,12,10,Advanced Degree
-242,16,18,16,Advanced Degree
-244,16,18,12,Advanced Degree
-246,12,12,8,Some College
-247,15,12,12,College
-253,17,17,17,Advanced Degree
-254,16,14,14,Advanced Degree
-255,16,12,16,Advanced Degree
-256,16,12,12,Advanced Degree
-257,16,14,13,Advanced Degree
-258,14,12,12,Some College
-259,19,20,18,Advanced Degree
-260,14,12,12,Some College
-261,13,11,16,Some College
-262,20,16,12,Advanced Degree
-263,12,14,14,Some College
-264,15,12,12,College
-265,16,16,16,Advanced Degree
-267,12,12,12,Some College
-268,18,12,12,Advanced Degree
-269,16,12,8,Advanced Degree
-270,14,10,9,Some College
-271,16,0,12,Advanced Degree
-272,18,12,7,Advanced Degree
-273,14,12,12,Some College
-275,12,12,12,Some College
-276,12,12,12,Some College
-279,16,16,16,Advanced Degree
-281,16,16,16,Advanced Degree
-282,20,9,18,Advanced Degree
-284,20,15,20,Advanced Degree
-285,19,16,20,Advanced Degree
-287,12,15,12,Some College
-288,16,14,14,Advanced Degree
-289,12,12,12,Some College
-291,12,8,14,Some College
-292,16,16,16,Advanced Degree
-293,15,12,16,College
-294,16,9,13,Advanced Degree
-296,11,12,12,High School
-297,16,18,8,Advanced Degree
-300,15,12,16,College
-301,13,12,13,Some College
-302,12,13,9,Some College
-303,18,20,20,Advanced Degree
-304,19,12,12,Advanced Degree
-305,18,17,16,Advanced Degree
-306,18,12,16,Advanced Degree
-307,15,12,17,College
-309,15,12,8,College
-310,16,14,5,Advanced Degree
-312,18,16,18,Advanced Degree
-313,13,12,12,Some College
-314,13,12,10,Some College
-315,16,16,16,Advanced Degree
-316,13,0,0,Some College
-317,15,8,15,College
-320,20,6,12,Advanced Degree
-321,16,12,12,Advanced Degree
-322,16,16,16,Advanced Degree
-323,17,17,20,Advanced Degree
-326,17,9,16,Advanced Degree
-327,16,14,14,Advanced Degree
-329,16,16,16,Advanced Degree
-330,19,10,8,Advanced Degree
-331,16,12,12,Advanced Degree
-333,18,17,20,Advanced Degree
-334,16,14,12,Advanced Degree
-335,15,14,14,College
-336,16,13,12,Advanced Degree
-337,12,12,14,Some College
-338,13,12,12,Some College
-339,12,12,12,Some College
-340,18,12,14,Advanced Degree
-342,16,16,16,Advanced Degree
-343,12,16,12,Some College
-344,16,16,18,Advanced Degree
-345,20,14,14,Advanced Degree
-346,13,11,12,Some College
-348,12,12,12,Some College
-349,19,17,16,Advanced Degree
-350,13,12,12,Some College
-352,17,12,13,Advanced Degree
-354,19,12,12,Advanced Degree
-356,16,16,18,Advanced Degree
-357,19,20,18,Advanced Degree
-358,15,10,14,College
-359,14,20,20,Some College
-360,13,12,12,Some College
-361,13,12,12,Some College
-362,17,12,12,Advanced Degree
-363,14,10,8,Some College
-365,16,12,11,Advanced Degree
-366,14,12,12,Some College
-367,18,14,12,Advanced Degree
-369,16,14,5,Advanced Degree
-370,14,14,12,Some College
-371,14,18,19,Some College
-372,17,16,16,Advanced Degree
-375,18,0,0,Advanced Degree
-377,12,12,12,Some College
-379,18,16,16,Advanced Degree
-380,18,14,12,Advanced Degree
-383,16,16,12,Advanced Degree
-384,14,12,12,Some College
-386,15,12,16,College
-388,14,12,12,Some College
-389,16,12,14,Advanced Degree
-390,14,9,9,Some College
-391,20,14,12,Advanced Degree
-392,14,14,14,Some College
-396,14,12,14,Some College
-397,12,14,10,Some College
-398,14,12,16,Some College
-402,13,14,14,Some College
-405,18,9,12,Advanced Degree
-407,13,12,12,Some College
-408,16,14,16,Advanced Degree
-409,15,14,4,College
-411,17,6,14,Advanced Degree
-412,18,10,14,Advanced Degree
-413,16,12,12,Advanced Degree
-414,18,18,20,Advanced Degree
-415,17,12,12,Advanced Degree
-417,16,14,20,Advanced Degree
-418,18,18,18,Advanced Degree
-420,18,18,18,Advanced Degree
-422,18,12,12,Advanced Degree
-424,19,12,16,Advanced Degree
-425,16,12,19,Advanced Degree
-427,14,14,8,Some College
-428,18,14,16,Advanced Degree
-430,12,14,12,Some College
-431,12,12,12,Some College
-433,18,12,13,Advanced Degree
-434,18,0,6,Advanced Degree
-435,12,12,14,Some College
-437,12,12,12,Some College
-438,0,12,0,< High School
-439,15,12,16,College
-441,12,12,12,Some College
-443,19,12,14,Advanced Degree
-445,20,12,12,Advanced Degree
-446,17,12,16,Advanced Degree
-447,16,11,9,Advanced Degree
-448,16,12,14,Advanced Degree
-449,17,12,19,Advanced Degree
-450,15,12,12,College
-451,16,14,16,Advanced Degree
-452,12,8,9,Some College
-453,18,12,12,Advanced Degree
-454,14,12,12,Some College
-456,19,12,16,Advanced Degree
-457,18,16,19,Advanced Degree
-458,18,18,20,Advanced Degree
-459,20,13,16,Advanced Degree
-460,16,12,20,Advanced Degree
-461,17,16,12,Advanced Degree
-462,20,18,20,Advanced Degree
-463,14,12,8,Some College
-464,14,14,17,Some College
-465,16,15,13,Advanced Degree
-468,17,13,12,Advanced Degree
-469,20,10,12,Advanced Degree
-470,11,14,13,High School
-473,16,8,12,Advanced Degree
-474,16,12,12,Advanced Degree
-478,12,12,12,Some College
-480,13,10,12,Some College
-481,12,13,14,Some College
-483,12,0,0,Some College
-484,18,12,12,Advanced Degree
-485,17,20,17,Advanced Degree
-486,15,12,12,College
-488,12,12,12,Some College
-491,16,16,16,Advanced Degree
-493,14,13,12,Some College
-495,12,16,16,Some College
-496,15,14,16,College
-497,16,12,16,Advanced Degree
-498,16,16,16,Advanced Degree
-499,15,12,12,College
-502,14,14,12,Some College
-503,12,12,14,Some College
-505,20,12,12,Advanced Degree
-508,15,12,14,College
-510,17,16,16,Advanced Degree
-512,14,16,16,Some College
-513,14,12,6,Some College
-514,17,16,12,Advanced Degree
-517,15,12,16,College
-518,18,16,12,Advanced Degree
-520,14,10,12,Some College
-523,10,12,12,High School
-525,12,5,8,Some College
-526,14,14,12,Some College
-527,19,16,20,Advanced Degree
-528,18,18,18,Advanced Degree
-529,16,16,15,Advanced Degree
-530,14,18,17,Some College
-531,17,12,19,Advanced Degree
-532,18,13,14,Advanced Degree
-533,18,12,12,Advanced Degree
-535,17,12,12,Advanced Degree
-536,12,11,12,Some College
-537,15,10,6,College
-539,12,13,8,Some College
-540,12,12,12,Some College
-541,16,14,14,Advanced Degree
-542,14,18,19,Some College
-544,12,12,7,Some College
-547,18,12,11,Advanced Degree
-548,14,12,12,Some College
-549,11,8,5,High School
-550,12,11,12,Some College
-552,14,12,12,Some College
-553,16,12,12,Advanced Degree
-554,19,15,13,Advanced Degree
-555,16,12,16,Advanced Degree
-556,16,12,12,Advanced Degree
-557,20,20,20,Advanced Degree
-559,18,12,12,Advanced Degree
-560,12,12,12,Some College
-561,17,16,12,Advanced Degree
-566,12,12,14,Some College
-568,16,16,14,Advanced Degree
-571,16,12,12,Advanced Degree
-572,12,13,12,Some College
-573,12,12,12,Some College
-576,14,8,10,Some College
-577,13,10,12,Some College
-583,12,5,5,Some College
-584,14,14,12,Some College
-585,12,6,12,Some College
-586,16,14,12,Advanced Degree
-587,20,14,12,Advanced Degree
-588,17,12,11,Advanced Degree
-590,12,14,14,Some College
-594,16,6,6,Advanced Degree
-595,18,9,9,Advanced Degree
-599,17,16,16,Advanced Degree
-602,15,16,20,College
-604,11,14,7,High School
-606,15,14,14,College
-610,14,13,12,Some College
-611,16,14,16,Advanced Degree
-612,12,12,8,Some College
-613,12,12,12,Some College
-614,14,12,11,Some College
-615,14,12,13,Some College
-616,12,12,14,Some College
-617,13,7,5,Some College
-618,15,14,14,College
-619,14,16,12,Some College
-621,12,12,12,Some College
-622,11,12,12,High School
-623,13,12,16,Some College
-625,16,12,12,Advanced Degree
-626,12,12,12,Some College
-627,15,12,11,College
-628,12,10,12,Some College
-629,19,12,12,Advanced Degree
-633,14,12,8,Some College
-635,12,12,12,Some College
-636,20,12,12,Advanced Degree
-639,17,18,16,Advanced Degree
-641,16,15,16,Advanced Degree
-642,16,16,18,Advanced Degree
-643,13,16,12,Some College
-644,12,12,12,Some College
-645,12,12,12,Some College
-646,16,18,19,Advanced Degree
-647,16,11,11,Advanced Degree
-649,14,13,14,Some College
-650,12,12,12,Some College
-651,17,13,13,Advanced Degree
-652,12,5,8,Some College
-654,16,12,16,Advanced Degree
-656,14,12,12,Some College
-657,17,12,12,Advanced Degree
-658,13,12,7,Some College
-659,12,12,12,Some College
-660,16,12,12,Advanced Degree
-661,16,14,12,Advanced Degree
-662,12,11,12,Some College
-663,14,12,12,Some College
-664,12,12,12,Some College
-665,20,16,12,Advanced Degree
-666,16,13,8,Advanced Degree
-667,12,12,12,Some College
-668,16,13,16,Advanced Degree
-669,14,12,12,Some College
-670,12,10,13,Some College
-671,12,12,10,Some College
-672,11,12,16,High School
-675,13,12,12,Some College
-676,12,12,12,Some College
-678,12,12,12,Some College
-680,14,12,14,Some College
-681,12,12,12,Some College
-684,18,12,15,Advanced Degree
-685,12,14,12,Some College
-686,12,12,8,Some College
-687,12,14,10,Some College
-690,12,12,2,Some College
-691,13,12,9,Some College
-692,14,12,11,Some College
-693,16,6,12,Advanced Degree
-696,14,14,12,Some College
-699,12,0,0,Some College
-701,15,3,11,College
-702,18,16,16,Advanced Degree
-704,18,12,12,Advanced Degree
-705,20,12,12,Advanced Degree
-707,18,13,14,Advanced Degree
-708,19,16,18,Advanced Degree
-709,17,19,18,Advanced Degree
-710,13,12,12,Some College
-711,14,10,14,Some College
-713,20,14,16,Advanced Degree
-714,20,9,8,Advanced Degree
-715,13,12,12,Some College
-717,18,12,12,Advanced Degree
-718,16,17,17,Advanced Degree
-719,18,12,12,Advanced Degree
-720,16,12,13,Advanced Degree
-721,16,16,13,Advanced Degree
-723,16,16,16,Advanced Degree
-724,16,14,16,Advanced Degree
-725,12,12,10,Some College
-726,14,16,20,Some College
-728,16,16,16,Advanced Degree
-730,20,12,12,Advanced Degree
-733,16,13,19,Advanced Degree
-734,18,16,16,Advanced Degree
-735,16,14,14,Advanced Degree
-738,15,14,14,College
-739,18,12,19,Advanced Degree
-740,19,17,18,Advanced Degree
-741,13,14,13,Some College
-742,10,10,10,High School
-745,12,12,10,Some College
-746,12,12,12,Some College
-747,12,12,10,Some College
-748,17,14,7,Advanced Degree
-749,16,12,12,Advanced Degree
-750,14,14,16,Some College
-752,14,10,8,Some College
-753,14,12,12,Some College
-754,18,12,20,Advanced Degree
-755,20,12,8,Advanced Degree
-756,12,12,9,Some College
-759,15,16,16,College
-760,12,12,6,Some College
-765,18,13,12,Advanced Degree
-766,13,17,12,Some College
-767,18,15,16,Advanced Degree
-768,12,12,12,Some College
-772,16,12,12,Advanced Degree
-773,15,12,20,College
-776,12,20,16,Some College
-777,12,14,14,Some College
-778,12,14,14,Some College
-779,16,14,3,Advanced Degree
-780,15,16,15,College
-782,12,10,10,Some College
-783,14,12,12,Some College
-784,12,9,6,Some College
-785,17,12,12,Advanced Degree
-786,19,12,12,Advanced Degree
-788,20,16,18,Advanced Degree
-792,18,15,16,Advanced Degree
-793,14,12,12,Some College
-796,16,12,12,Advanced Degree
-797,18,12,18,Advanced Degree
-798,20,12,12,Advanced Degree
-799,14,12,12,Some College
-801,16,17,12,Advanced Degree
-802,14,12,12,Some College
-804,18,14,20,Advanced Degree
-805,16,13,14,Advanced Degree
-807,15,10,12,College
-808,12,12,10,Some College
-809,13,12,12,Some College
-813,16,8,12,Advanced Degree
-816,16,12,16,Advanced Degree
-817,17,16,12,Advanced Degree
-818,16,16,20,Advanced Degree
-819,12,4,0,Some College
-820,12,12,12,Some College
-825,14,12,12,Some College
-827,15,11,16,College
-829,12,12,12,Some College
-831,17,14,16,Advanced Degree
-832,15,12,8,College
-834,16,10,12,Advanced Degree
-838,12,6,10,Some College
-839,18,12,12,Advanced Degree
-842,16,6,0,Advanced Degree
-843,15,10,8,College
-845,16,16,12,Advanced Degree
-846,17,16,16,Advanced Degree
-850,14,16,15,Some College
-852,14,6,6,Some College
-853,14,5,3,Some College
-857,16,11,6,Advanced Degree
-859,12,12,12,Some College
-864,14,12,12,Some College
-865,12,7,7,Some College
-866,13,8,8,Some College
-867,15,12,13,College
-871,14,10,8,Some College
-872,12,11,11,Some College
-873,19,16,16,Advanced Degree
-874,12,12,11,Some College
-878,16,12,16,Advanced Degree
-880,15,12,12,College
-881,20,12,11,Advanced Degree
-882,18,14,17,Advanced Degree
-883,20,18,20,Advanced Degree
-884,16,16,13,Advanced Degree
-885,16,16,16,Advanced Degree
-886,13,16,16,Some College
-887,16,15,16,Advanced Degree
-888,12,9,8,Some College
-890,17,12,17,Advanced Degree
-892,16,16,20,Advanced Degree
-894,20,12,12,Advanced Degree
-895,12,12,14,Some College
-896,16,12,14,Advanced Degree
-897,18,12,12,Advanced Degree
-898,19,12,15,Advanced Degree
-899,18,8,18,Advanced Degree
-901,16,19,18,Advanced Degree
-902,14,12,12,Some College
-903,16,12,14,Advanced Degree
-904,18,14,16,Advanced Degree
-906,16,15,15,Advanced Degree
-910,16,13,8,Advanced Degree
-915,18,12,12,Advanced Degree
-916,18,18,12,Advanced Degree
-917,19,14,12,Advanced Degree
-918,13,12,12,Some College
-919,16,16,20,Advanced Degree
-923,12,12,12,Some College
-924,12,12,12,Some College
-925,16,8,8,Advanced Degree
-926,15,8,6,College
-927,18,12,12,Advanced Degree
-928,15,12,12,College
-929,16,14,10,Advanced Degree
-931,16,12,12,Advanced Degree
-933,12,12,12,Some College
-935,14,12,16,Some College
-938,12,12,5,Some College
-941,16,14,12,Advanced Degree
-942,16,15,12,Advanced Degree
-943,20,12,12,Advanced Degree
-944,18,14,12,Advanced Degree
-945,12,16,12,Some College
-946,18,12,20,Advanced Degree
-947,17,13,12,Advanced Degree
-948,16,8,10,Advanced Degree
-949,15,16,12,College
-950,16,12,12,Advanced Degree
-952,16,18,14,Advanced Degree
-953,18,12,12,Advanced Degree
-954,20,12,12,Advanced Degree
-956,16,12,12,Advanced Degree
-957,16,12,6,Advanced Degree
-960,12,12,12,Some College
-961,12,12,12,Some College
-964,18,11,10,Advanced Degree
-965,12,8,9,Some College
-969,16,16,16,Advanced Degree
-972,18,12,12,Advanced Degree
-973,15,12,12,College
-975,17,12,14,Advanced Degree
-977,12,12,16,Some College
-980,14,0,0,Some College
-981,18,14,16,Advanced Degree
-983,17,12,16,Advanced Degree
-985,18,12,8,Advanced Degree
-986,20,8,20,Advanced Degree
-988,16,10,15,Advanced Degree
-989,17,8,5,Advanced Degree
-990,15,10,9,College
-991,16,14,12,Advanced Degree
-992,14,16,15,Some College
-993,17,17,12,Advanced Degree
-995,14,12,20,Some College
-996,14,12,20,Some College
-997,18,6,15,Advanced Degree
-998,15,15,15,College
-999,16,12,12,Advanced Degree
-1000,16,12,16,Advanced Degree
-1001,16,13,12,Advanced Degree
-1002,14,11,10,Some College
-1003,16,12,16,Advanced Degree
-1004,14,6,12,Some College
-1005,19,10,16,Advanced Degree
-1008,13,12,8,Some College
-1009,8,6,3,High School
-1013,19,16,16,Advanced Degree
-1014,16,12,19,Advanced Degree
-1015,17,16,15,Advanced Degree
-1018,16,16,16,Advanced Degree
-1019,16,12,14,Advanced Degree
-1021,17,14,13,Advanced Degree
-1022,16,8,8,Advanced Degree
-1023,16,16,16,Advanced Degree
-1024,16,12,16,Advanced Degree
-1025,19,16,16,Advanced Degree
-1026,17,12,12,Advanced Degree
-1030,12,6,5,Some College
-1034,12,16,16,Some College
-1036,14,14,16,Some College
-1039,16,20,16,Advanced Degree
-1043,12,12,13,Some College
-1044,18,16,16,Advanced Degree
-1045,18,12,19,Advanced Degree
-1046,14,12,14,Some College
-1048,13,12,8,Some College
-1049,17,12,16,Advanced Degree
-1050,14,14,14,Some College
-1051,16,12,12,Advanced Degree
-1052,12,12,12,Some College
-1055,16,16,16,Advanced Degree
-1056,16,14,12,Advanced Degree
-1057,14,15,16,Some College
-1059,12,14,12,Some College
-1060,12,9,12,Some College
-1061,16,14,16,Advanced Degree
-1062,18,16,18,Advanced Degree
-1063,14,10,9,Some College
-1065,19,12,12,Advanced Degree
-1066,13,12,14,Some College
-1068,16,16,16,Advanced Degree
-1069,12,12,12,Some College
-1071,16,12,12,Advanced Degree
-1072,12,12,16,Some College
-1074,18,18,18,Advanced Degree
-1075,13,20,10,Some College
-1079,17,16,6,Advanced Degree
-1080,12,12,12,Some College
-1081,13,12,12,Some College
-1084,19,18,20,Advanced Degree
-1085,12,13,12,Some College
-1086,10,8,12,High School
-1087,12,10,11,Some College
-1088,12,12,8,Some College
-1089,12,8,6,Some College
-1091,14,12,12,Some College
-1092,13,12,11,Some College
-1093,14,12,15,Some College
-1094,16,12,12,Advanced Degree
-1095,15,12,14,College
-1096,14,14,12,Some College
-1097,16,12,12,Advanced Degree
-1100,12,12,12,Some College
-1102,18,18,18,Advanced Degree
-1103,18,16,14,Advanced Degree
-1106,12,10,11,Some College
-1108,12,12,18,Some College
-1109,10,12,8,High School
-1110,20,20,14,Advanced Degree
-1111,14,11,11,Some College
-1112,15,14,15,College
-1115,20,12,12,Advanced Degree
-1117,12,12,11,Some College
-1118,19,12,12,Advanced Degree
-1119,18,12,14,Advanced Degree
-1120,17,16,16,Advanced Degree
-1121,16,12,12,Advanced Degree
-1122,11,20,16,High School
-1123,16,12,12,Advanced Degree
-1124,15,12,16,College
-1127,16,12,16,Advanced Degree
-1129,20,18,17,Advanced Degree
-1130,16,16,16,Advanced Degree
-1131,16,12,12,Advanced Degree
-1132,16,12,12,Advanced Degree
-1133,16,12,12,Advanced Degree
-1134,16,16,12,Advanced Degree
-1136,16,16,16,Advanced Degree
-1137,16,12,12,Advanced Degree
-1138,16,12,16,Advanced Degree
-1139,18,16,16,Advanced Degree
-1140,16,8,8,Advanced Degree
-1141,18,14,16,Advanced Degree
-1142,16,12,8,Advanced Degree
-1143,20,16,16,Advanced Degree
-1144,18,14,12,Advanced Degree
-1145,14,12,16,Some College
-1146,17,12,12,Advanced Degree
-1147,16,16,16,Advanced Degree
-1149,14,9,8,Some College
-1150,8,8,7,High School
-1152,14,12,12,Some College
-1154,19,12,14,Advanced Degree
-1155,17,16,20,Advanced Degree
-1156,20,18,18,Advanced Degree
-1157,14,0,12,Some College
-1159,16,12,6,Advanced Degree
-1161,12,12,12,Some College
-1162,16,0,0,Advanced Degree
-1164,16,12,12,Advanced Degree
-1165,18,13,16,Advanced Degree
-1166,16,13,19,Advanced Degree
-1169,13,12,8,Some College
-1171,20,12,13,Advanced Degree
-1172,14,12,16,Some College
-1173,14,8,8,Some College
-1176,18,12,16,Advanced Degree
-1181,14,12,12,Some College
-1183,12,12,4,Some College
-1185,15,12,12,College
-1186,16,18,13,Advanced Degree
-1187,14,12,12,Some College
-1190,17,5,5,Advanced Degree
-1191,13,14,12,Some College
-1192,13,12,16,Some College
-1193,16,16,20,Advanced Degree
-1194,18,18,14,Advanced Degree
-1195,16,20,20,Advanced Degree
-1196,18,12,12,Advanced Degree
-1197,16,16,12,Advanced Degree
-1198,16,16,16,Advanced Degree
-1199,20,16,20,Advanced Degree
-1200,16,12,15,Advanced Degree
-1201,18,12,12,Advanced Degree
-1203,15,12,12,College
-1204,18,12,12,Advanced Degree
-1205,14,12,12,Some College
-1206,18,12,12,Advanced Degree
-1207,16,14,13,Advanced Degree
-1208,19,16,12,Advanced Degree
-1209,20,20,19,Advanced Degree
-1210,14,14,11,Some College
-1211,16,10,11,Advanced Degree
-1213,20,13,5,Advanced Degree
-1215,16,16,18,Advanced Degree
-1216,16,14,17,Advanced Degree
-1217,16,12,12,Advanced Degree
-1218,11,12,12,High School
-1219,14,14,10,Some College
-1220,16,16,18,Advanced Degree
-1222,12,12,12,Some College
-1223,17,16,16,Advanced Degree
-1224,20,14,16,Advanced Degree
-1225,12,12,7,Some College
-1228,12,4,12,Some College
-1229,14,12,8,Some College
-1230,20,13,9,Advanced Degree
-1231,12,7,5,Some College
-1232,12,12,8,Some College
-1235,13,14,7,Some College
-1237,14,12,7,Some College
-1239,12,11,10,Some College
-1244,15,6,12,College
-1245,12,13,12,Some College
-1246,13,12,3,Some College
-1247,12,12,5,Some College
-1248,10,12,16,High School
-1249,19,15,16,Advanced Degree
-1250,18,14,16,Advanced Degree
-1251,12,14,12,Some College
-1253,16,12,12,Advanced Degree
-1254,13,5,5,Some College
-1255,16,12,16,Advanced Degree
-1257,15,5,5,College
-1259,17,18,20,Advanced Degree
-1261,15,16,12,College
-1263,16,16,16,Advanced Degree
-1265,20,12,12,Advanced Degree
-1266,18,12,16,Advanced Degree
-1267,17,12,0,Advanced Degree
-1268,19,16,12,Advanced Degree
-1269,20,10,13,Advanced Degree
-1270,17,15,14,Advanced Degree
-1271,14,12,15,Some College
-1272,20,14,17,Advanced Degree
-1273,16,12,16,Advanced Degree
-1275,13,12,12,Some College
-1276,16,16,12,Advanced Degree
-1277,13,12,10,Some College
-1278,16,12,13,Advanced Degree
-1279,16,12,16,Advanced Degree
-1285,19,16,18,Advanced Degree
-1287,20,18,16,Advanced Degree
-1289,16,16,16,Advanced Degree
-1290,16,11,10,Advanced Degree
-1291,16,14,16,Advanced Degree
-1292,16,8,8,Advanced Degree
-1294,13,12,12,Some College
-1295,18,12,12,Advanced Degree
-1297,18,14,14,Advanced Degree
-1298,17,12,18,Advanced Degree
-1299,18,13,14,Advanced Degree
-1304,14,12,12,Some College
-1305,12,14,16,Some College
-1306,16,14,16,Advanced Degree
-1312,18,8,12,Advanced Degree
-1314,12,11,12,Some College
-1315,17,16,14,Advanced Degree
-1316,14,14,12,Some College
-1317,17,12,10,Advanced Degree
-1318,17,14,16,Advanced Degree
-1319,14,12,12,Some College
-1320,14,16,12,Some College
-1322,12,12,12,Some College
-1323,16,12,10,Advanced Degree
-1324,15,12,15,College
-1325,14,16,12,Some College
-1326,16,16,16,Advanced Degree
-1327,16,12,12,Advanced Degree
-1328,18,12,12,Advanced Degree
-1329,16,13,20,Advanced Degree
-1330,12,14,11,Some College
-1331,18,16,16,Advanced Degree
-1332,20,8,12,Advanced Degree
-1333,12,12,12,Some College
-1334,17,16,12,Advanced Degree
-1336,17,12,17,Advanced Degree
-1337,12,12,13,Some College
-1338,13,12,12,Some College
-1340,20,8,8,Advanced Degree
-1342,19,12,16,Advanced Degree
-1343,12,18,18,Some College
-1344,19,12,16,Advanced Degree
-1345,12,8,6,Some College
-1346,17,16,20,Advanced Degree
-1347,12,10,10,Some College
-1349,14,10,12,Some College
-1350,17,12,8,Advanced Degree
-1351,16,13,15,Advanced Degree
-1355,13,14,12,Some College
-1356,12,16,14,Some College
-1357,16,12,12,Advanced Degree
-1358,16,12,18,Advanced Degree
-1359,16,13,13,Advanced Degree
-1360,17,12,10,Advanced Degree
-1361,16,16,14,Advanced Degree
-1363,16,12,14,Advanced Degree
-1364,12,12,12,Some College
-1365,16,11,16,Advanced Degree
-1367,12,12,12,Some College
-1368,17,15,13,Advanced Degree
-1369,12,15,8,Some College
-1370,18,12,12,Advanced Degree
-1371,14,14,12,Some College
-1372,13,18,10,Some College
-1373,16,12,14,Advanced Degree
-1374,20,13,16,Advanced Degree
-1381,16,14,16,Advanced Degree
-1384,12,11,13,Some College
-1385,16,9,8,Advanced Degree
-1386,12,13,12,Some College
-1388,18,15,20,Advanced Degree
-1389,13,10,9,Some College
-1391,19,12,12,Advanced Degree
-1392,14,5,3,Some College
-1393,16,10,5,Advanced Degree
-1395,14,12,14,Some College
-1396,12,12,11,Some College
-1397,14,13,6,Some College
-1399,20,12,12,Advanced Degree
-1400,16,16,16,Advanced Degree
-1401,16,16,16,Advanced Degree
-1402,18,14,20,Advanced Degree
-1403,12,3,8,Some College
-1405,15,12,12,College
-1406,11,2,4,High School
-1407,15,12,14,College
-1408,12,7,6,Some College
-1411,12,12,16,Some College
-1413,12,0,12,Some College
-1414,14,12,12,Some College
-1416,16,12,12,Advanced Degree
-1417,12,12,12,Some College
-1418,16,12,14,Advanced Degree
-1419,14,12,16,Some College
-1425,17,12,12,Advanced Degree
-1426,16,9,10,Advanced Degree
-1427,16,16,16,Advanced Degree
-1428,17,12,13,Advanced Degree
-1429,17,6,9,Advanced Degree
-1430,13,12,12,Some College
-1431,16,12,16,Advanced Degree
-1432,14,0,0,Some College
-1433,12,12,12,Some College
-1434,12,12,12,Some College
-1437,15,16,9,College
-1438,13,12,14,Some College
-1440,16,12,16,Advanced Degree
-1442,13,12,12,Some College
-1444,17,15,17,Advanced Degree
-1445,19,14,12,Advanced Degree
-1447,13,14,12,Some College
-1448,17,8,8,Advanced Degree
-1449,18,18,16,Advanced Degree
-1451,19,12,12,Advanced Degree
-1452,16,16,12,Advanced Degree
-1453,12,12,12,Some College
-1454,18,12,12,Advanced Degree
-1455,14,12,16,Some College
-1456,14,12,17,Some College
-1458,14,16,12,Some College
-1459,15,8,8,College
-1466,12,12,12,Some College
-1467,16,12,12,Advanced Degree
-1468,18,18,16,Advanced Degree
-1469,16,12,8,Advanced Degree
-1470,18,12,12,Advanced Degree
-1472,15,10,9,College
-1474,18,12,12,Advanced Degree
-1475,20,12,12,Advanced Degree
-1477,20,4,12,Advanced Degree
-1478,12,12,12,Some College
-1479,17,12,0,Advanced Degree
-1480,12,8,12,Some College
-1481,14,16,16,Some College
-1482,14,12,16,Some College
-1483,17,13,17,Advanced Degree
-1484,10,12,12,High School
-1487,17,12,13,Advanced Degree
-1489,16,16,16,Advanced Degree
-1490,12,12,12,Some College
-1491,20,12,11,Advanced Degree
-1493,11,14,14,High School
-1495,16,16,18,Advanced Degree
-1496,16,12,12,Advanced Degree
-1499,8,16,14,High School
-1502,14,12,12,Some College
-1505,16,12,16,Advanced Degree
-1506,8,11,4,High School
-1507,15,12,14,College
-1508,16,12,12,Advanced Degree
-1509,14,14,14,Some College
-1512,14,12,12,Some College
-1513,12,14,12,Some College
-1514,16,12,12,Advanced Degree
-1516,11,7,9,High School
-1517,16,12,12,Advanced Degree
-1518,0,0,0,< High School
-1519,16,12,9,Advanced Degree
-1522,13,13,5,Some College
-1523,12,12,11,Some College
-1524,19,12,13,Advanced Degree
-1525,18,12,13,Advanced Degree
-1528,16,14,16,Advanced Degree
-1534,12,13,12,Some College
-1535,12,12,12,Some College
-1537,16,16,12,Advanced Degree
-1538,16,12,12,Advanced Degree
-1539,16,12,12,Advanced Degree
-1540,16,12,16,Advanced Degree
-1541,13,0,0,Some College
-1542,20,20,18,Advanced Degree
-1543,16,16,16,Advanced Degree
-1547,16,16,16,Advanced Degree
-1548,14,12,12,Some College
-1549,18,8,7,Advanced Degree
-1552,12,15,3,Some College
-1554,17,12,12,Advanced Degree
-1555,12,12,12,Some College
-1557,16,12,16,Advanced Degree
-1558,13,12,3,Some College
-1560,16,12,8,Advanced Degree
-1561,14,12,12,Some College
-1562,12,12,12,Some College
-1563,12,4,5,Some College
-1564,16,16,14,Advanced Degree
-1567,14,12,12,Some College
-1568,12,12,12,Some College
-1569,15,17,16,College
-1570,11,9,8,High School
-1572,16,11,8,Advanced Degree
-1573,12,9,14,Some College
-1575,16,20,12,Advanced Degree
-1577,9,9,12,High School
-1580,12,12,12,Some College
-1582,16,12,12,Advanced Degree
-1584,16,16,16,Advanced Degree
-1585,18,14,12,Advanced Degree
-1586,18,14,14,Advanced Degree
-1587,14,12,12,Some College
-1588,16,12,6,Advanced Degree
-1590,14,6,6,Some College
-1591,12,14,12,Some College
-1592,16,16,16,Advanced Degree
-1593,13,12,16,Some College
-1594,16,14,16,Advanced Degree
-1596,16,12,12,Advanced Degree
-1597,10,13,10,High School
-1598,12,8,4,Some College
-1601,14,9,12,Some College
-1602,13,12,8,Some College
-1603,16,12,12,Advanced Degree
-1604,16,5,16,Advanced Degree
-1606,13,12,12,Some College
-1607,17,8,3,Advanced Degree
-1608,12,8,11,Some College
-1610,14,12,14,Some College
-1612,13,9,12,Some College
-1614,11,12,11,High School
-1616,14,13,8,Some College
-1617,14,14,16,Some College
-1618,18,16,18,Advanced Degree
-1619,12,12,12,Some College
-1620,14,13,14,Some College
-1624,11,8,0,High School
-1625,16,13,16,Advanced Degree
-1626,16,16,16,Advanced Degree
-1627,20,12,14,Advanced Degree
-1628,16,8,12,Advanced Degree
-1631,11,14,16,High School
-1632,13,12,12,Some College
-1634,20,13,16,Advanced Degree
-1638,14,12,13,Some College
-1640,12,7,7,Some College
-1643,20,12,12,Advanced Degree
-1646,12,12,12,Some College
-1647,12,12,12,Some College
-1648,17,15,16,Advanced Degree
-1649,15,12,16,College
-1650,16,16,13,Advanced Degree
-1653,20,12,12,Advanced Degree
-1657,14,12,12,Some College
-1658,16,14,12,Advanced Degree
-1660,14,12,12,Some College
-1661,12,12,12,Some College
-1662,16,12,8,Advanced Degree
-1664,18,12,12,Advanced Degree
-1665,14,12,11,Some College
-1669,20,9,12,Advanced Degree
-1671,12,12,12,Some College
-1672,16,12,12,Advanced Degree
-1673,14,12,8,Some College
-1675,12,12,12,Some College
-1676,9,11,12,High School
-1677,12,10,9,Some College
-1678,11,11,7,High School
-1681,18,14,12,Advanced Degree
-1683,17,16,16,Advanced Degree
-1684,18,11,12,Advanced Degree
-1685,16,12,16,Advanced Degree
-1686,16,12,12,Advanced Degree
-1688,16,20,16,Advanced Degree
-1689,12,12,12,Some College
-1691,18,18,12,Advanced Degree
-1692,16,20,20,Advanced Degree
-1694,14,12,11,Some College
-1695,13,14,12,Some College
-1696,12,12,13,Some College
-1697,16,12,12,Advanced Degree
-1699,14,12,12,Some College
-1701,13,12,14,Some College
-1702,16,20,12,Advanced Degree
-1703,13,13,12,Some College
-1704,16,12,9,Advanced Degree
-1705,14,11,14,Some College
-1707,16,10,10,Advanced Degree
-1709,18,11,14,Advanced Degree
-1710,12,10,11,Some College
-1711,9,12,12,High School
-1712,12,12,12,Some College
-1714,13,12,12,Some College
-1715,13,12,13,Some College
-1716,18,12,12,Advanced Degree
-1717,16,12,13,Advanced Degree
-1719,16,14,16,Advanced Degree
-1720,14,11,9,Some College
-1721,15,12,16,College
-1722,16,12,11,Advanced Degree
-1723,16,12,12,Advanced Degree
-1726,16,12,12,Advanced Degree
-1727,16,16,16,Advanced Degree
-1728,18,12,12,Advanced Degree
-1729,13,11,12,Some College
-1731,18,12,14,Advanced Degree
-1733,18,10,15,Advanced Degree
-1734,20,12,12,Advanced Degree
-1735,12,12,12,Some College
-1736,18,12,20,Advanced Degree
-1741,13,12,12,Some College
-1742,15,12,13,College
-1743,12,12,9,Some College
-1745,16,12,15,Advanced Degree
-1746,14,12,12,Some College
-1747,16,12,12,Advanced Degree
-1748,16,10,10,Advanced Degree
-1750,14,12,14,Some College
-1751,14,12,12,Some College
-1752,12,12,12,Some College
-1753,13,16,10,Some College
-1754,14,12,9,Some College
-1756,16,12,16,Advanced Degree
-1757,18,12,16,Advanced Degree
-1758,16,18,14,Advanced Degree
-1759,20,12,14,Advanced Degree
-1760,12,12,12,Some College
-1761,16,13,16,Advanced Degree
-1762,14,8,8,Some College
-1764,14,12,16,Some College
-1766,16,14,14,Advanced Degree
-1767,13,14,12,Some College
-1769,13,12,8,Some College
-1770,14,18,18,Some College
-1771,12,12,12,Some College
-1772,12,12,12,Some College
-1773,14,10,14,Some College
-1774,12,12,12,Some College
-1776,16,12,12,Advanced Degree
-1782,12,12,12,Some College
-1783,17,12,12,Advanced Degree
-1784,20,12,12,Advanced Degree
-1785,16,12,12,Advanced Degree
-1786,16,14,12,Advanced Degree
-1788,20,12,12,Advanced Degree
-1789,17,14,16,Advanced Degree
-1790,12,12,11,Some College
-1791,16,19,20,Advanced Degree
-1792,17,4,6,Advanced Degree
-1794,15,13,14,College
-1796,12,12,8,Some College
-1797,16,6,12,Advanced Degree
-1798,16,12,13,Advanced Degree
-1802,12,12,12,Some College
-1803,15,8,12,College
-1806,13,8,12,Some College
-1807,16,9,8,Advanced Degree
-1808,12,12,12,Some College
-1809,16,12,14,Advanced Degree
-1811,16,16,16,Advanced Degree
-1812,13,12,12,Some College
-1813,16,12,12,Advanced Degree
-1814,15,12,12,College
-1815,12,12,11,Some College
-1816,12,11,12,Some College
-1817,16,11,11,Advanced Degree
-1818,15,16,20,College
-1819,16,14,20,Advanced Degree
-1822,14,12,12,Some College
-1824,16,12,12,Advanced Degree
-1826,12,14,12,Some College
-1827,12,12,12,Some College
-1829,17,16,15,Advanced Degree
-1830,12,8,8,Some College
-1837,15,16,12,College
-1838,16,16,12,Advanced Degree
-1840,12,10,12,Some College
-1841,11,1,12,High School
-1842,11,12,12,High School
-1845,18,15,8,Advanced Degree
-1847,17,16,8,Advanced Degree
-1848,16,12,12,Advanced Degree
-1849,12,9,12,Some College
-1850,14,5,6,Some College
-1851,16,20,20,Advanced Degree
-1852,16,12,12,Advanced Degree
-1853,12,12,12,Some College
-1854,14,14,14,Some College
-1856,13,5,5,Some College
-1857,16,12,12,Advanced Degree
-1858,13,13,13,Some College
-1859,16,12,13,Advanced Degree
-1860,20,14,12,Advanced Degree
-1861,14,12,12,Some College
-1862,14,14,12,Some College
-1863,18,12,12,Advanced Degree
-1864,18,20,20,Advanced Degree
-1865,14,16,12,Some College
-1866,10,12,12,High School
-1867,13,12,12,Some College
-1868,12,12,12,Some College
-1869,12,20,12,Some College
-1871,12,8,12,Some College
-1872,12,12,8,Some College
-1875,14,9,12,Some College
-1876,12,16,13,Some College
-1877,14,11,11,Some College
-1878,18,12,8,Advanced Degree
-1879,12,8,8,Some College
-1881,12,15,16,Some College
-1882,16,8,7,Advanced Degree
-1883,16,12,12,Advanced Degree
-1884,16,18,16,Advanced Degree
-1885,12,12,9,Some College
-1887,13,12,10,Some College
-1888,13,12,12,Some College
-1889,18,14,14,Advanced Degree
-1890,13,12,11,Some College
-1891,18,12,16,Advanced Degree
-1892,12,12,12,Some College
-1894,12,12,14,Some College
-1895,20,12,20,Advanced Degree
-1897,14,16,18,Some College
-1898,12,12,12,Some College
-1899,16,12,16,Advanced Degree
-1901,16,13,16,Advanced Degree
-1903,12,12,13,Some College
-1904,15,20,20,College
-1905,18,12,10,Advanced Degree
-1908,17,16,12,Advanced Degree
-1909,14,14,13,Some College
-1910,19,16,12,Advanced Degree
-1912,20,14,13,Advanced Degree
-1914,16,12,12,Advanced Degree
-1915,14,12,8,Some College
-1916,16,14,13,Advanced Degree
-1918,18,16,18,Advanced Degree
-1922,20,14,16,Advanced Degree
-1923,18,12,13,Advanced Degree
-1924,16,12,12,Advanced Degree
-1925,18,20,16,Advanced Degree
-1926,16,12,12,Advanced Degree
-1929,16,10,12,Advanced Degree
-1932,14,13,12,Some College
-1933,16,12,13,Advanced Degree
-1934,12,4,3,Some College
-1935,15,14,17,College
-1936,16,12,14,Advanced Degree
-1937,18,18,16,Advanced Degree
-1938,18,13,12,Advanced Degree
-1939,16,16,16,Advanced Degree
-1942,15,7,12,College
-1943,14,18,14,Some College
-1946,10,8,10,High School
-1947,12,12,14,Some College
-1950,16,12,12,Advanced Degree
-1951,17,14,8,Advanced Degree
-1953,16,16,14,Advanced Degree
-1954,18,2,6,Advanced Degree
-1959,12,12,14,Some College
-1960,19,12,12,Advanced Degree
-1961,12,12,12,Some College
-1962,18,12,12,Advanced Degree
-1965,12,12,12,Some College
-1966,12,3,0,Some College
-1967,18,16,18,Advanced Degree
-1968,13,12,12,Some College
-1969,16,12,12,Advanced Degree
-1970,20,13,16,Advanced Degree
-1971,12,10,12,Some College
-1973,14,16,16,Some College
-1976,17,14,15,Advanced Degree
-1978,12,14,12,Some College
-1979,14,12,10,Some College
-1980,16,18,18,Advanced Degree
-1981,14,8,6,Some College
-1984,16,14,18,Advanced Degree
-1985,16,12,13,Advanced Degree
-1986,20,13,12,Advanced Degree
-1988,16,16,16,Advanced Degree
-1989,16,15,15,Advanced Degree
-1990,12,16,12,Some College
-1992,13,11,11,Some College
-1993,12,12,12,Some College
-1996,16,12,12,Advanced Degree
-1998,13,14,10,Some College
-1999,14,12,12,Some College
-2000,12,12,12,Some College
-2001,13,12,12,Some College
-2003,16,12,12,Advanced Degree
-2005,14,18,13,Some College
-2011,12,12,12,Some College
-2012,13,18,18,Some College
-2018,12,14,14,Some College
-2019,16,13,17,Advanced Degree
-2021,14,16,16,Some College
-2022,12,8,6,Some College
-2023,12,12,6,Some College
-2027,19,12,12,Advanced Degree
-2028,13,10,12,Some College
-2029,16,14,13,Advanced Degree
-2030,12,14,16,Some College
-2031,12,12,6,Some College
-2034,19,16,16,Advanced Degree
-2035,12,10,12,Some College
-2036,12,12,12,Some College
-2037,14,12,6,Some College
-2038,16,16,16,Advanced Degree
-2039,12,12,8,Some College
-2040,12,12,12,Some College
-2048,16,12,15,Advanced Degree
-2049,12,12,16,Some College
-2050,17,16,20,Advanced Degree
-2053,15,16,16,College
-2057,12,9,7,Some College
-2058,14,16,11,Some College
-2067,13,12,8,Some College
-2069,15,12,16,College
-2070,12,12,8,Some College
-2071,12,12,5,Some College
-2072,18,12,12,Advanced Degree
-2074,16,13,3,Advanced Degree
-2076,12,12,12,Some College
-2077,16,8,7,Advanced Degree
-2079,17,12,12,Advanced Degree
-2080,13,12,13,Some College
-2082,12,5,0,Some College
-2084,11,12,12,High School
-2087,12,7,5,Some College
-2089,17,14,13,Advanced Degree
-2091,16,10,8,Advanced Degree
-2092,16,14,16,Advanced Degree
-2094,17,12,13,Advanced Degree
-2095,13,10,10,Some College
-2097,19,12,16,Advanced Degree
-2098,16,10,12,Advanced Degree
-2100,15,12,12,College
-2101,14,8,3,Some College
-2108,20,12,16,Advanced Degree
-2109,16,13,18,Advanced Degree
-2110,12,12,12,Some College
-2111,14,12,16,Some College
-2112,16,11,12,Advanced Degree
-2113,11,12,12,High School
-2114,12,12,12,Some College
-2115,16,10,12,Advanced Degree
-2118,14,20,12,Some College
-2120,16,16,20,Advanced Degree
-2121,16,18,16,Advanced Degree
-2122,16,12,12,Advanced Degree
-2123,16,12,12,Advanced Degree
-2124,19,14,18,Advanced Degree
-2125,12,8,12,Some College
-2126,15,15,16,College
-2127,16,12,16,Advanced Degree
-2129,18,18,7,Advanced Degree
-2131,16,12,16,Advanced Degree
-2132,20,5,3,Advanced Degree
-2134,12,14,12,Some College
-2135,18,14,14,Advanced Degree
-2141,20,8,8,Advanced Degree
-2142,16,16,16,Advanced Degree
-2143,16,16,20,Advanced Degree
-2144,12,13,8,Some College
-2148,16,12,12,Advanced Degree
-2150,16,10,10,Advanced Degree
-2151,18,16,16,Advanced Degree
-2152,16,12,16,Advanced Degree
-2153,17,12,14,Advanced Degree
-2154,16,16,12,Advanced Degree
-2156,18,12,16,Advanced Degree
-2157,14,12,12,Some College
-2158,14,12,12,Some College
-2159,18,12,12,Advanced Degree
-2160,12,12,12,Some College
-2161,14,16,16,Some College
-2162,16,16,16,Advanced Degree
-2163,12,9,11,Some College
-2164,16,12,12,Advanced Degree
-2165,20,13,14,Advanced Degree
-2166,12,12,12,Some College
-2169,12,12,6,Some College
-2170,6,2,2,< High School
-2172,16,12,16,Advanced Degree
-2173,14,14,8,Some College
-2175,14,16,18,Some College
-2176,11,12,12,High School
-2177,17,12,12,Advanced Degree
-2178,16,12,12,Advanced Degree
-2179,12,7,12,Some College
-2183,10,6,8,High School
-2184,15,12,12,College
-2186,16,12,18,Advanced Degree
-2187,18,6,6,Advanced Degree
-2191,20,5,7,Advanced Degree
-2194,13,15,10,Some College
-2195,20,13,14,Advanced Degree
-2197,14,6,9,Some College
-2198,12,12,12,Some College
-2201,20,7,14,Advanced Degree
-2202,14,12,12,Some College
-2204,15,12,12,College
-2205,11,16,12,High School
-2207,18,14,14,Advanced Degree
-2209,18,14,17,Advanced Degree
-2210,13,12,12,Some College
-2212,18,10,10,Advanced Degree
-2215,18,6,16,Advanced Degree
-2217,18,12,12,Advanced Degree
-2220,14,12,12,Some College
-2221,15,0,20,College
-2222,14,16,16,Some College
-2223,13,12,12,Some College
-2224,14,14,12,Some College
-2225,20,16,16,Advanced Degree
-2228,9,6,2,High School
-2231,14,6,12,Some College
-2232,14,12,12,Some College
-2233,16,16,16,Advanced Degree
-2234,16,12,12,Advanced Degree
-2236,12,11,12,Some College
-2237,12,5,5,Some College
-2238,13,16,15,Some College
-2239,12,16,9,Some College
-2241,13,1,3,Some College
-2242,10,12,16,High School
-2243,16,13,14,Advanced Degree
-2244,13,13,14,Some College
-2246,20,12,15,Advanced Degree
-2247,16,14,18,Advanced Degree
-2250,16,12,10,Advanced Degree
-2254,18,12,16,Advanced Degree
-2256,16,14,12,Advanced Degree
-2259,18,16,16,Advanced Degree
-2260,16,16,16,Advanced Degree
-2261,16,12,16,Advanced Degree
-2262,18,16,15,Advanced Degree
-2263,20,16,16,Advanced Degree
-2264,18,18,13,Advanced Degree
-2265,12,18,17,Some College
-2266,17,12,12,Advanced Degree
-2267,16,16,18,Advanced Degree
-2269,14,12,12,Some College
-2270,17,12,10,Advanced Degree
-2271,13,12,12,Some College
-2272,12,12,16,Some College
-2274,15,16,16,College
-2275,15,12,12,College
-2276,18,16,16,Advanced Degree
-2277,14,14,11,Some College
-2279,13,9,3,Some College
-2280,12,13,14,Some College
-2283,14,12,12,Some College
-2285,16,12,12,Advanced Degree
-2286,18,16,14,Advanced Degree
-2287,16,16,20,Advanced Degree
-2288,17,14,18,Advanced Degree
-2290,18,16,14,Advanced Degree
-2292,15,20,16,College
-2293,16,12,12,Advanced Degree
-2294,16,16,16,Advanced Degree
-2295,12,12,12,Some College
-2297,13,10,12,Some College
-2298,18,16,12,Advanced Degree
-2299,20,9,12,Advanced Degree
-2301,16,10,10,Advanced Degree
-2303,14,16,16,Some College
-2306,15,17,13,College
-2307,20,10,11,Advanced Degree
-2309,18,12,10,Advanced Degree
-2310,14,14,18,Some College
-2311,12,14,12,Some College
-2312,13,12,20,Some College
-2313,12,14,16,Some College
-2314,20,16,20,Advanced Degree
-2315,14,12,11,Some College
-2316,14,12,16,Some College
-2317,13,12,10,Some College
-2318,17,13,20,Advanced Degree
-2319,16,14,12,Advanced Degree
-2320,18,15,16,Advanced Degree
-2325,16,18,18,Advanced Degree
-2327,11,3,3,High School
-2330,14,13,14,Some College
-2331,19,12,12,Advanced Degree
-2332,19,16,20,Advanced Degree
-2337,20,12,12,Advanced Degree
-2343,16,12,16,Advanced Degree
-2345,12,7,7,Some College
-2346,18,9,12,Advanced Degree
-2347,17,15,16,Advanced Degree
-2349,17,10,10,Advanced Degree
-2350,12,12,12,Some College
-2351,10,12,14,High School
-2354,17,12,12,Advanced Degree
-2357,16,15,12,Advanced Degree
-2358,15,9,8,College
-2360,12,12,12,Some College
-2363,13,0,12,Some College
-2364,16,5,3,Advanced Degree
-2366,13,12,8,Some College
-2369,17,14,12,Advanced Degree
-2371,15,12,16,College
-2374,15,17,12,College
-2375,14,14,10,Some College
-2379,14,13,12,Some College
-2381,12,12,12,Some College
-2382,14,12,12,Some College
-2383,17,12,12,Advanced Degree
-2386,12,12,12,Some College
-2387,16,16,20,Advanced Degree
-2388,12,14,12,Some College
-2389,17,16,18,Advanced Degree
-2391,16,14,14,Advanced Degree
-2392,16,9,8,Advanced Degree
-2393,18,18,18,Advanced Degree
-2394,14,11,11,Some College
-2396,11,2,3,High School
-2397,20,10,15,Advanced Degree
-2404,16,16,16,Advanced Degree
-2405,18,12,13,Advanced Degree
-2406,14,18,12,Some College
-2407,12,12,12,Some College
-2408,16,12,12,Advanced Degree
-2411,12,0,6,Some College
-2416,16,12,12,Advanced Degree
-2417,19,16,13,Advanced Degree
-2418,18,12,12,Advanced Degree
-2419,14,12,12,Some College
-2421,16,12,13,Advanced Degree
-2422,12,10,0,Some College
-2424,16,18,17,Advanced Degree
-2425,14,12,12,Some College
-2426,14,12,12,Some College
-2433,16,16,16,Advanced Degree
-2434,16,16,18,Advanced Degree
-2436,17,14,16,Advanced Degree
-2437,16,14,16,Advanced Degree
-2438,17,7,7,Advanced Degree
-2439,16,16,12,Advanced Degree
-2440,20,14,16,Advanced Degree
-2441,17,4,4,Advanced Degree
-2443,15,12,11,College
-2445,14,12,12,Some College
-2446,15,5,5,College
-2447,0,12,16,< High School
-2448,17,12,5,Advanced Degree
-2449,14,12,16,Some College
-2450,15,17,16,College
-2451,12,16,12,Some College
-2454,15,6,4,College
-2455,13,13,13,Some College
-2457,13,18,12,Some College
-2459,16,14,16,Advanced Degree
-2460,12,12,16,Some College
-2463,16,16,17,Advanced Degree
-2465,12,13,19,Some College
-2466,12,10,7,Some College
-2467,16,12,18,Advanced Degree
-2468,16,16,17,Advanced Degree
-2469,20,16,16,Advanced Degree
-2470,14,12,12,Some College
-2471,18,12,12,Advanced Degree
-2472,14,12,10,Some College
-2474,16,14,19,Advanced Degree
-2475,12,14,15,Some College
-2478,20,12,16,Advanced Degree
-2479,20,8,8,Advanced Degree
-2481,17,14,16,Advanced Degree
-2487,14,12,12,Some College
-2488,20,14,16,Advanced Degree
-2489,14,13,16,Some College
-2490,14,16,16,Some College
-2494,20,12,12,Advanced Degree
-2495,13,12,12,Some College
-2496,17,14,12,Advanced Degree
-2497,18,14,6,Advanced Degree
-2498,20,12,16,Advanced Degree
-2499,20,10,12,Advanced Degree
-2501,12,14,12,Some College
-2502,16,12,8,Advanced Degree
-2503,17,12,16,Advanced Degree
-2504,17,18,19,Advanced Degree
-2505,17,16,18,Advanced Degree
-2506,14,12,12,Some College
-2507,16,14,12,Advanced Degree
-2511,16,12,4,Advanced Degree
-2514,20,14,20,Advanced Degree
-2515,12,12,12,Some College
-2516,17,17,20,Advanced Degree
-2517,14,12,12,Some College
-2519,17,11,17,Advanced Degree
-2520,16,12,10,Advanced Degree
-2521,14,16,16,Some College
-2522,18,14,18,Advanced Degree
-2524,16,12,16,Advanced Degree
-2525,16,6,6,Advanced Degree
-2526,16,12,12,Advanced Degree
-2527,12,4,9,Some College
-2528,12,6,6,Some College
-2529,16,12,12,Advanced Degree
-2530,14,16,12,Some College
-2531,14,13,11,Some College
-2537,12,14,9,Some College
-2539,12,16,12,Some College
-2540,14,12,12,Some College
-2541,20,8,2,Advanced Degree
-2542,18,14,14,Advanced Degree
-2544,14,0,6,Some College
-2547,14,16,16,Some College
-2548,13,13,13,Some College
-2550,20,16,14,Advanced Degree
-2551,16,16,18,Advanced Degree
-2552,15,12,8,College
-2555,11,11,8,High School
-2556,20,12,12,Advanced Degree
-2557,16,13,16,Advanced Degree
-2559,16,16,16,Advanced Degree
-2560,16,0,8,Advanced Degree
-2561,17,16,12,Advanced Degree
-2565,14,16,20,Some College
-2567,12,14,13,Some College
-2568,14,10,6,Some College
-2569,10,12,14,High School
-2571,16,12,20,Advanced Degree
-2572,12,12,12,Some College
-2573,8,14,14,High School
-2574,20,18,20,Advanced Degree
-2575,13,12,12,Some College
-2576,6,16,13,< High School
-2578,16,16,12,Advanced Degree
-2579,16,12,12,Advanced Degree
-2580,16,12,18,Advanced Degree
-2581,16,11,12,Advanced Degree
-2582,17,12,18,Advanced Degree
-2583,17,12,18,Advanced Degree
-2584,12,12,9,Some College
-2585,12,10,12,Some College
-2586,20,14,14,Advanced Degree
-2587,12,12,12,Some College
-2589,12,11,12,Some College
-2590,12,13,12,Some College
-2591,17,15,20,Advanced Degree
-2592,20,5,10,Advanced Degree
-2593,20,16,20,Advanced Degree
-2594,16,18,18,Advanced Degree
-2595,16,16,16,Advanced Degree
-2596,16,12,12,Advanced Degree
-2598,17,15,12,Advanced Degree
-2599,16,16,16,Advanced Degree
-2600,14,8,11,Some College
-2601,17,10,12,Advanced Degree
-2602,18,16,18,Advanced Degree
-2604,16,16,17,Advanced Degree
-2606,12,12,16,Some College
-2607,12,12,12,Some College
-2608,16,16,16,Advanced Degree
-2609,17,14,14,Advanced Degree
-2611,19,12,6,Advanced Degree
-2612,20,12,8,Advanced Degree
-2613,13,16,16,Some College
-2614,12,8,12,Some College
-2615,14,12,13,Some College
-2617,12,12,12,Some College
-2618,16,13,18,Advanced Degree
-2619,16,15,6,Advanced Degree
-2620,12,8,9,Some College
-2621,16,12,16,Advanced Degree
-2623,12,10,8,Some College
-2624,16,16,12,Advanced Degree
-2626,12,12,11,Some College
-2627,12,8,6,Some College
-2629,16,14,16,Advanced Degree
-2630,19,16,18,Advanced Degree
-2631,13,12,12,Some College
-2632,16,16,20,Advanced Degree
-2634,13,12,8,Some College
-2635,16,12,14,Advanced Degree
-2636,12,14,14,Some College
-2637,14,10,14,Some College
-2639,16,10,14,Advanced Degree
-2640,16,18,18,Advanced Degree
-2642,14,12,12,Some College
-2643,14,12,14,Some College
-2644,14,20,12,Some College
-2645,15,8,11,College
-2648,18,12,12,Advanced Degree
-2649,14,12,7,Some College
-2650,13,12,7,Some College
-2651,12,3,2,Some College
-2652,19,12,8,Advanced Degree
-2653,20,10,17,Advanced Degree
-2655,8,6,8,High School
-2656,17,15,16,Advanced Degree
-2658,17,11,10,Advanced Degree
-2660,10,12,12,High School
-2661,13,10,2,Some College
-2662,12,12,12,Some College
-2664,18,12,16,Advanced Degree
-2665,12,0,0,Some College
-2666,13,12,12,Some College
-2668,12,12,12,Some College
-2671,16,16,15,Advanced Degree
-2674,16,15,16,Advanced Degree
-2675,19,12,13,Advanced Degree
-2678,15,0,0,College
-2679,12,12,11,Some College
-2680,12,12,8,Some College
-2681,12,8,8,Some College
-2682,12,8,3,Some College
-2684,12,14,8,Some College
-2685,14,12,12,Some College
-2686,16,15,13,Advanced Degree
-2687,16,16,16,Advanced Degree
-2688,13,12,12,Some College
-2689,16,12,12,Advanced Degree
-2690,18,14,16,Advanced Degree
-2692,18,6,2,Advanced Degree
-2695,14,13,13,Some College
-2696,12,12,12,Some College
-2698,17,14,17,Advanced Degree
-2699,16,12,14,Advanced Degree
-2700,16,12,12,Advanced Degree
-2702,15,12,12,College
-2703,16,16,12,Advanced Degree
-2705,16,12,12,Advanced Degree
-2706,12,12,12,Some College
-2707,18,14,12,Advanced Degree
-2710,16,13,12,Advanced Degree
-2711,16,12,8,Advanced Degree
-2712,14,16,18,Some College
-2713,16,12,12,Advanced Degree
-2714,14,12,20,Some College
-2717,18,16,16,Advanced Degree
-2718,12,14,12,Some College
-2722,16,12,12,Advanced Degree
-2723,16,12,16,Advanced Degree
-2725,16,9,12,Advanced Degree
-2726,16,12,16,Advanced Degree
-2727,16,16,20,Advanced Degree
-2729,9,12,8,High School
-2733,14,12,8,Some College
-2734,18,10,12,Advanced Degree
-2735,13,12,1,Some College
-2736,2,0,2,< High School
-2737,16,16,16,Advanced Degree
-2738,13,12,8,Some College
-2740,12,8,8,Some College
-2742,20,13,13,Advanced Degree
-2743,12,16,18,Some College
-2745,13,13,14,Some College
-2746,12,14,14,Some College
-2747,18,12,12,Advanced Degree
-2748,11,11,12,High School
-2749,20,16,20,Advanced Degree
-2750,12,10,12,Some College
-2751,13,3,3,Some College
-2754,12,12,12,Some College
-2759,19,19,19,Advanced Degree
-2760,14,16,20,Some College
-2761,17,14,6,Advanced Degree
-2762,12,12,12,Some College
-2763,14,16,14,Some College
-2764,13,11,6,Some College
-2766,12,12,8,Some College
-2771,16,14,12,Advanced Degree
-2772,12,12,7,Some College
-2773,12,15,11,Some College
-2774,17,12,12,Advanced Degree
-2776,16,11,8,Advanced Degree
-2777,16,12,12,Advanced Degree
-2778,13,12,8,Some College
-2781,13,12,12,Some College
-2784,12,12,12,Some College
-2785,16,12,12,Advanced Degree
-2786,12,10,8,Some College
-2787,18,8,10,Advanced Degree
-2790,20,12,19,Advanced Degree
-2791,12,12,16,Some College
-2793,14,8,8,Some College
-2794,16,16,16,Advanced Degree
-2797,18,16,16,Advanced Degree
-2800,11,10,8,High School
-2801,12,14,12,Some College
-2804,16,16,16,Advanced Degree
-2805,18,14,17,Advanced Degree
-2806,17,10,8,Advanced Degree
-2807,16,13,12,Advanced Degree
-2809,17,18,18,Advanced Degree
-2810,14,11,12,Some College
-2813,14,14,12,Some College
-2816,8,9,9,High School
-2817,12,16,18,Some College
-2819,16,8,14,Advanced Degree
-2820,12,9,12,Some College
-2821,16,14,14,Advanced Degree
-2822,12,12,12,Some College
-2824,20,14,20,Advanced Degree
-2825,18,12,8,Advanced Degree
-2826,12,12,12,Some College
-2828,3,8,16,< High School
-2829,9,10,4,High School
-2831,12,8,6,Some College
-2832,14,12,12,Some College
-2833,13,8,12,Some College
-2835,16,14,16,Advanced Degree
-2836,14,12,12,Some College
-2838,17,18,15,Advanced Degree
-2839,14,12,14,Some College
-2840,16,11,12,Advanced Degree
-2841,12,12,12,Some College
-2843,20,12,14,Advanced Degree
-2844,17,12,12,Advanced Degree
-2846,16,12,12,Advanced Degree
-2847,17,10,16,Advanced Degree
-2848,18,16,16,Advanced Degree
-2849,18,10,13,Advanced Degree
-2850,16,16,20,Advanced Degree
-2852,15,12,12,College
-2853,16,12,8,Advanced Degree
-2854,17,12,12,Advanced Degree
-2857,16,12,12,Advanced Degree
-2858,14,15,12,Some College
-2859,13,12,9,Some College
-2860,14,12,13,Some College
-2861,12,12,10,Some College
-2864,16,12,12,Advanced Degree
-2865,12,20,12,Some College
-2866,15,14,14,College
-2867,17,13,10,Advanced Degree
-2869,18,12,12,Advanced Degree
-2870,20,16,20,Advanced Degree
-2871,9,12,11,High School
-2872,15,13,12,College
-2873,20,13,12,Advanced Degree
-2874,18,8,12,Advanced Degree
-2875,16,6,12,Advanced Degree
-2876,12,13,17,Some College
-2877,12,12,12,Some College
-2878,13,12,11,Some College
-2880,12,16,12,Some College
-2882,16,12,14,Advanced Degree
-2883,14,12,12,Some College
-2886,16,16,16,Advanced Degree
-2887,16,12,12,Advanced Degree
-2889,12,12,12,Some College
-2891,14,12,8,Some College
-2892,14,13,12,Some College
-2895,12,12,12,Some College
-2896,14,12,12,Some College
-2897,13,12,12,Some College
-2898,9,3,4,High School
-2900,17,13,12,Advanced Degree
-2901,18,16,14,Advanced Degree
-2902,19,14,19,Advanced Degree
-2903,12,14,12,Some College
-2905,19,16,16,Advanced Degree
-2909,18,14,16,Advanced Degree
-2910,19,16,16,Advanced Degree
-2911,12,17,17,Some College
-2912,15,17,14,College
-2914,16,14,12,Advanced Degree
-2915,16,16,16,Advanced Degree
-2918,12,12,12,Some College
-2919,12,12,12,Some College
-2920,16,16,20,Advanced Degree
-2921,16,12,2,Advanced Degree
-2922,13,12,8,Some College
-2923,17,12,14,Advanced Degree
-2925,14,12,12,Some College
-2926,17,18,18,Advanced Degree
-2927,16,16,12,Advanced Degree
-2928,17,12,12,Advanced Degree
-2929,14,12,12,Some College
-2930,17,15,12,Advanced Degree
-2931,18,10,16,Advanced Degree
-2936,19,16,18,Advanced Degree
-2937,19,7,9,Advanced Degree
-2938,14,12,12,Some College
-2940,16,15,10,Advanced Degree
-2941,12,6,6,Some College
-2943,18,14,13,Advanced Degree
-2944,18,17,16,Advanced Degree
-2945,12,16,18,Some College
-2946,14,12,12,Some College
-2948,18,18,12,Advanced Degree
-2949,20,14,12,Advanced Degree
-2950,17,14,16,Advanced Degree
-2951,12,12,12,Some College
-2952,15,14,14,College
-2953,12,14,16,Some College
-2954,13,14,14,Some College
-2957,16,20,13,Advanced Degree
-2960,14,8,12,Some College
-2962,18,16,16,Advanced Degree
-2964,16,14,16,Advanced Degree
-2965,17,13,12,Advanced Degree
-2967,14,18,16,Some College
-2968,12,8,6,Some College
-2972,16,14,20,Advanced Degree
-2973,12,12,8,Some College
-2974,16,12,14,Advanced Degree
-2975,12,12,8,Some College
-2978,16,18,18,Advanced Degree
-2979,14,12,12,Some College
-2980,14,12,12,Some College
-2981,12,9,9,Some College
-2984,17,12,18,Advanced Degree
-2985,12,10,8,Some College
-2988,14,15,16,Some College
-2990,13,12,12,Some College
-2992,12,12,16,Some College
-2993,16,8,8,Advanced Degree
-2994,15,18,16,College
-2995,13,6,7,Some College
-2996,12,12,12,Some College
-2998,12,12,8,Some College
-2999,16,16,16,Advanced Degree
-3000,16,20,16,Advanced Degree
-3002,16,16,16,Advanced Degree
-3003,20,16,16,Advanced Degree
-3005,16,16,16,Advanced Degree
-3007,16,12,16,Advanced Degree
-3008,13,12,12,Some College
-3009,12,12,9,Some College
-3011,16,12,8,Advanced Degree
-3012,18,12,12,Advanced Degree
-3014,9,16,14,High School
-3015,12,5,5,Some College
-3016,16,12,9,Advanced Degree
-3019,16,16,14,Advanced Degree
-3020,20,14,19,Advanced Degree
-3021,13,8,8,Some College
-3022,19,10,9,Advanced Degree
-3023,16,6,9,Advanced Degree
-3024,15,12,14,College
-3025,14,12,10,Some College
-3028,14,12,12,Some College
-3030,16,15,13,Advanced Degree
-3033,18,12,10,Advanced Degree
-3035,14,12,12,Some College
-3036,16,12,16,Advanced Degree
-3038,12,6,12,Some College
-3040,12,12,12,Some College
-3043,17,14,18,Advanced Degree
-3044,18,17,20,Advanced Degree
-3045,12,13,12,Some College
-3046,12,16,16,Some College
-3047,17,12,12,Advanced Degree
-3049,12,12,8,Some College
-3050,20,13,12,Advanced Degree
-3051,15,12,12,College
-3052,19,12,14,Advanced Degree
-3053,13,12,9,Some College
-3054,16,16,18,Advanced Degree
-3055,12,8,12,Some College
-3056,12,12,12,Some College
-3057,14,14,11,Some College
-3060,19,12,14,Advanced Degree
-3061,14,12,12,Some College
-3062,17,12,12,Advanced Degree
-3063,16,10,16,Advanced Degree
-3064,11,12,12,High School
-3065,12,14,10,Some College
-3066,16,12,12,Advanced Degree
-3067,12,14,12,Some College
-3068,16,19,18,Advanced Degree
-3070,16,8,12,Advanced Degree
-3071,17,15,12,Advanced Degree
-3072,16,12,12,Advanced Degree
-3074,13,12,12,Some College
-3075,18,14,16,Advanced Degree
-3076,16,12,12,Advanced Degree
-3077,12,16,15,Some College
-3078,12,11,10,Some College
-3079,16,14,10,Advanced Degree
-3080,14,12,12,Some College
-3081,16,14,12,Advanced Degree
-3083,18,12,12,Advanced Degree
-3084,17,16,16,Advanced Degree
-3085,20,16,16,Advanced Degree
-3088,12,12,12,Some College
-3091,18,16,19,Advanced Degree
-3094,14,8,12,Some College
-3097,14,12,17,Some College
-3098,12,12,8,Some College
-3100,17,12,12,Advanced Degree
-3101,18,15,16,Advanced Degree
-3103,13,0,15,Some College
-3104,20,12,14,Advanced Degree
-3105,16,12,12,Advanced Degree
-3109,16,20,12,Advanced Degree
-3112,16,17,16,Advanced Degree
-3114,15,12,8,College
-3116,14,14,14,Some College
-3117,19,20,20,Advanced Degree
-3119,16,11,12,Advanced Degree
-3120,18,17,14,Advanced Degree
-3121,14,12,16,Some College
-3124,14,14,12,Some College
-3125,17,16,11,Advanced Degree
-3127,16,12,16,Advanced Degree
-3130,16,12,12,Advanced Degree
-3132,16,16,12,Advanced Degree
-3133,17,12,6,Advanced Degree
-3134,7,12,10,< High School
-3138,18,12,12,Advanced Degree
-3139,16,15,16,Advanced Degree
-3140,13,17,12,Some College
-3141,20,13,12,Advanced Degree
-3142,16,16,16,Advanced Degree
-3144,15,12,12,College
-3146,15,14,14,College
-3147,16,8,13,Advanced Degree
-3149,14,14,12,Some College
-3150,17,12,12,Advanced Degree
-3151,18,12,8,Advanced Degree
-3152,18,12,18,Advanced Degree
-3153,19,12,10,Advanced Degree
-3154,17,16,16,Advanced Degree
-3155,16,16,16,Advanced Degree
-3159,14,14,12,Some College
-3160,13,13,14,Some College
-3161,9,12,12,High School
-3162,14,14,10,Some College
-3163,12,17,12,Some College
-3164,18,8,8,Advanced Degree
-3167,17,10,15,Advanced Degree
-3170,20,16,12,Advanced Degree
-3173,14,12,12,Some College
-3174,12,9,9,Some College
-3176,12,12,12,Some College
-3177,14,20,12,Some College
-3178,16,12,12,Advanced Degree
-3179,16,6,8,Advanced Degree
-3180,10,12,12,High School
-3181,16,15,16,Advanced Degree
-3182,20,16,18,Advanced Degree
-3186,20,16,16,Advanced Degree
-3187,18,12,16,Advanced Degree
-3191,16,16,16,Advanced Degree
-3193,16,16,16,Advanced Degree
-3194,12,12,12,Some College
-3195,19,12,12,Advanced Degree
-3197,9,8,6,High School
-3198,14,12,12,Some College
-3200,16,10,9,Advanced Degree
-3201,8,7,3,High School
-3205,17,16,16,Advanced Degree
-3206,12,12,12,Some College
-3207,12,8,7,Some College
-3208,12,10,9,Some College
-3209,6,0,0,< High School
-3210,16,13,14,Advanced Degree
-3211,17,17,16,Advanced Degree
-3213,16,12,12,Advanced Degree
-3214,13,12,10,Some College
-3215,16,10,16,Advanced Degree
-3218,18,13,16,Advanced Degree
-3219,19,18,12,Advanced Degree
-3221,19,8,7,Advanced Degree
-3222,19,16,19,Advanced Degree
-3224,14,12,12,Some College
-3225,12,12,12,Some College
-3229,11,8,8,High School
-3230,14,12,12,Some College
-3232,16,16,19,Advanced Degree
-3233,16,12,16,Advanced Degree
-3238,16,13,16,Advanced Degree
-3239,16,12,12,Advanced Degree
-3242,14,14,14,Some College
-3243,13,12,12,Some College
-3244,16,12,16,Advanced Degree
-3245,12,12,16,Some College
-3246,15,14,6,College
-3248,20,0,12,Advanced Degree
-3249,16,12,10,Advanced Degree
-3250,17,12,12,Advanced Degree
-3253,12,9,12,Some College
-3254,16,14,16,Advanced Degree
-3255,12,12,12,Some College
-3256,12,12,12,Some College
-3258,12,12,12,Some College
-3260,16,12,16,Advanced Degree
-3261,19,6,4,Advanced Degree
-3263,17,16,17,Advanced Degree
-3264,12,9,10,Some College
-3265,16,12,13,Advanced Degree
-3266,20,16,16,Advanced Degree
-3268,12,12,8,Some College
-3269,17,16,17,Advanced Degree
-3271,16,13,12,Advanced Degree
-3272,19,14,12,Advanced Degree
-3273,18,16,20,Advanced Degree
-3274,16,12,11,Advanced Degree
-3275,18,12,12,Advanced Degree
-3276,14,12,13,Some College
-3283,18,12,14,Advanced Degree
-3286,12,13,12,Some College
-3287,14,12,12,Some College
-3288,17,16,18,Advanced Degree
-3289,16,16,16,Advanced Degree
-3291,12,11,12,Some College
-3292,12,14,12,Some College
-3293,14,12,3,Some College
-3295,18,14,12,Advanced Degree
-3297,17,9,9,Advanced Degree
-3298,12,18,16,Some College
-3299,19,15,19,Advanced Degree
-3302,12,10,13,Some College
-3303,20,18,18,Advanced Degree
-3305,14,12,12,Some College
-3307,17,12,12,Advanced Degree
-3310,14,16,16,Some College
-3312,12,12,12,Some College
-3313,16,12,14,Advanced Degree
-3314,20,15,13,Advanced Degree
-3315,16,12,16,Advanced Degree
-3316,17,20,20,Advanced Degree
-3317,10,20,20,High School
-3318,16,16,16,Advanced Degree
-3320,16,13,14,Advanced Degree
-3321,20,14,12,Advanced Degree
-3322,13,7,5,Some College
-3323,12,2,4,Some College
-3326,17,12,12,Advanced Degree
-3328,14,12,16,Some College
-3330,15,12,16,College
-3331,20,12,12,Advanced Degree
-3332,17,8,8,Advanced Degree
-3333,16,16,16,Advanced Degree
-3335,16,12,12,Advanced Degree
-3337,16,12,13,Advanced Degree
-3339,15,20,14,College
-3340,12,12,6,Some College
-3341,15,19,16,College
-3343,12,12,12,Some College
-3344,18,14,14,Advanced Degree
-3347,12,12,12,Some College
-3348,17,14,13,Advanced Degree
-3349,16,16,16,Advanced Degree
-3351,20,13,13,Advanced Degree
-3352,16,15,17,Advanced Degree
-3354,19,18,18,Advanced Degree
-3355,20,12,17,Advanced Degree
-3356,17,0,17,Advanced Degree
-3357,10,12,12,High School
-3360,16,12,17,Advanced Degree
-3362,19,14,16,Advanced Degree
-3363,15,14,10,College
-3365,18,20,20,Advanced Degree
-3367,16,12,14,Advanced Degree
-3368,18,18,18,Advanced Degree
-3371,15,12,12,College
-3372,15,12,12,College
-3373,16,16,16,Advanced Degree
-3374,14,12,15,Some College
-3376,12,12,12,Some College
-3377,12,11,12,Some College
-3378,18,14,13,Advanced Degree
-3379,12,12,12,Some College
-3384,12,7,12,Some College
-3385,16,12,10,Advanced Degree
-3386,16,12,3,Advanced Degree
-3388,14,16,14,Some College
-3389,18,4,5,Advanced Degree
-3393,20,12,12,Advanced Degree
-3394,12,12,12,Some College
-3395,14,15,12,Some College
-3396,17,19,18,Advanced Degree
-3397,15,20,20,College
-3398,16,12,11,Advanced Degree
-3400,12,12,8,Some College
-3401,13,12,12,Some College
-3403,17,12,12,Advanced Degree
-3404,13,12,12,Some College
-3407,16,14,9,Advanced Degree
-3408,20,12,16,Advanced Degree
-3409,18,12,11,Advanced Degree
-3410,15,12,16,College
-3411,18,12,12,Advanced Degree
-3413,12,12,12,Some College
-3414,20,12,12,Advanced Degree
-3415,12,12,3,Some College
-3416,17,17,15,Advanced Degree
-3418,18,12,12,Advanced Degree
-3420,14,16,20,Some College
-3421,13,14,12,Some College
-3423,17,16,12,Advanced Degree
-3424,12,14,14,Some College
-3425,17,12,16,Advanced Degree
-3426,19,14,12,Advanced Degree
-3428,16,4,6,Advanced Degree
-3429,13,12,16,Some College
-3430,12,7,9,Some College
-3431,13,10,12,Some College
-3432,15,12,12,College
-3433,13,9,8,Some College
-3436,13,12,12,Some College
-3438,16,12,16,Advanced Degree
-3440,20,8,8,Advanced Degree
-3441,20,12,12,Advanced Degree
-3444,16,14,16,Advanced Degree
-3446,15,9,9,College
-3447,16,14,12,Advanced Degree
-3448,12,12,12,Some College
-3449,16,12,16,Advanced Degree
-3450,13,12,12,Some College
-3452,12,12,8,Some College
-3453,13,16,16,Some College
-3455,14,12,11,Some College
-3456,16,16,14,Advanced Degree
-3458,15,16,16,College
-3461,14,12,16,Some College
-3462,14,14,17,Some College
-3465,17,16,16,Advanced Degree
-3466,20,8,10,Advanced Degree
-3469,14,14,12,Some College
-3473,12,12,6,Some College
-3475,13,12,8,Some College
-3476,16,5,6,Advanced Degree
-3477,12,12,16,Some College
-3480,18,12,12,Advanced Degree
-3481,14,12,14,Some College
-3482,16,16,16,Advanced Degree
-3483,16,12,12,Advanced Degree
-3485,12,12,6,Some College
-3487,16,12,12,Advanced Degree
-3490,18,14,18,Advanced Degree
-3491,11,0,6,High School
-3492,20,12,12,Advanced Degree
-3493,16,14,16,Advanced Degree
-3494,12,14,9,Some College
-3495,20,16,16,Advanced Degree
-3496,14,12,8,Some College
-3500,20,12,20,Advanced Degree
-3501,16,10,6,Advanced Degree
-3503,15,8,20,College
-3504,11,12,7,High School
-3505,20,12,12,Advanced Degree
-3506,14,16,16,Some College
-3507,13,12,12,Some College
-3508,17,0,5,Advanced Degree
-3509,16,12,12,Advanced Degree
-3510,16,12,13,Advanced Degree
-3511,18,12,16,Advanced Degree
-3513,18,12,16,Advanced Degree
-3514,14,12,12,Some College
-3516,16,16,16,Advanced Degree
-3517,16,12,16,Advanced Degree
-3521,13,12,12,Some College
-3523,12,12,12,Some College
-3524,12,12,10,Some College
-3525,17,12,18,Advanced Degree
-3526,19,17,19,Advanced Degree
-3527,14,5,5,Some College
-3529,12,12,14,Some College
-3530,20,14,15,Advanced Degree
-3531,15,12,12,College
-3532,14,15,18,Some College
-3533,18,16,18,Advanced Degree
-3534,14,6,13,Some College
-3537,14,12,12,Some College
-3538,20,8,12,Advanced Degree
-3539,20,15,12,Advanced Degree
-3540,16,12,12,Advanced Degree
-3542,20,12,12,Advanced Degree
-3544,15,14,12,College
-3546,8,12,12,High School
-3548,14,8,8,Some College
-3550,14,12,12,Some College
-3551,20,17,20,Advanced Degree
-3557,18,0,16,Advanced Degree
-3558,16,12,12,Advanced Degree
-3559,17,16,16,Advanced Degree
-3561,16,12,20,Advanced Degree
-3564,12,16,16,Some College
-3565,15,16,20,College
-3566,17,16,16,Advanced Degree
-3568,18,12,18,Advanced Degree
-3570,14,12,14,Some College
-3571,18,18,16,Advanced Degree
-3572,16,10,16,Advanced Degree
-3573,14,11,7,Some College
-3576,14,12,14,Some College
-3577,16,12,12,Advanced Degree
-3578,20,12,10,Advanced Degree
-3579,12,6,9,Some College
-3580,17,9,9,Advanced Degree
-3581,16,9,16,Advanced Degree
-3584,14,14,0,Some College
-3586,16,12,16,Advanced Degree
-3587,12,11,2,Some College
-3588,18,15,15,Advanced Degree
-3589,14,12,12,Some College
-3590,16,12,12,Advanced Degree
-3592,16,12,20,Advanced Degree
-3596,12,16,16,Some College
-3597,16,12,12,Advanced Degree
-3598,13,12,12,Some College
-3603,16,4,4,Advanced Degree
-3604,20,12,12,Advanced Degree
-3605,13,16,16,Some College
-3608,15,14,13,College
-3609,16,16,12,Advanced Degree
-3610,11,12,12,High School
-3615,13,12,15,Some College
-3616,14,12,13,Some College
-3617,16,12,14,Advanced Degree
-3618,18,11,10,Advanced Degree
-3619,12,12,12,Some College
-3620,18,14,14,Advanced Degree
-3623,13,18,12,Some College
-3626,12,16,12,Some College
-3627,18,14,16,Advanced Degree
-3630,14,12,12,Some College
-3631,16,16,13,Advanced Degree
-3632,12,9,9,Some College
-3635,17,16,13,Advanced Degree
-3636,12,12,16,Some College
-3637,14,16,12,Some College
-3638,17,16,18,Advanced Degree
-3639,13,12,12,Some College
-3641,16,12,12,Advanced Degree
-3643,16,9,12,Advanced Degree
-3645,16,18,16,Advanced Degree
-3646,16,12,12,Advanced Degree
-3649,14,14,12,Some College
-3650,12,8,8,Some College
-3651,18,12,16,Advanced Degree
-3652,16,9,12,Advanced Degree
-3653,13,12,12,Some College
-3656,14,12,12,Some College
-3657,16,8,14,Advanced Degree
-3659,16,18,19,Advanced Degree
-3660,18,16,19,Advanced Degree
-3661,16,20,20,Advanced Degree
-3662,12,8,12,Some College
-3664,16,16,16,Advanced Degree
-3666,12,8,7,Some College
-3667,16,12,12,Advanced Degree
-3668,14,8,14,Some College
-3670,15,16,12,College
-3672,8,12,5,High School
-3673,18,12,16,Advanced Degree
-3674,15,12,16,College
-3675,10,5,5,High School
-3677,18,16,12,Advanced Degree
-3678,19,14,16,Advanced Degree
-3679,19,12,16,Advanced Degree
-3680,20,11,6,Advanced Degree
-3681,16,18,16,Advanced Degree
-3686,12,13,20,Some College
-3688,16,13,16,Advanced Degree
-3689,17,20,20,Advanced Degree
-3691,19,12,12,Advanced Degree
-3692,20,16,16,Advanced Degree
-3693,16,16,6,Advanced Degree
-3694,16,17,18,Advanced Degree
-3695,19,12,12,Advanced Degree
-3700,12,12,12,Some College
-3701,12,12,17,Some College
-3702,16,12,16,Advanced Degree
-3703,14,6,6,Some College
-3705,18,1,4,Advanced Degree
-3706,17,18,18,Advanced Degree
-3708,16,8,9,Advanced Degree
-3709,14,12,16,Some College
-3710,20,17,15,Advanced Degree
-3711,12,12,16,Some College
-3712,16,12,16,Advanced Degree
-3713,14,15,20,Some College
-3714,17,12,12,Advanced Degree
-3715,12,10,6,Some College
-3717,14,16,12,Some College
-3718,14,12,16,Some College
-3724,12,9,8,Some College
-3725,12,12,4,Some College
-3727,12,12,14,Some College
-3728,16,12,12,Advanced Degree
-3729,15,13,12,College
-3731,16,16,14,Advanced Degree
-3732,12,8,5,Some College
-3733,12,16,12,Some College
-3735,16,16,12,Advanced Degree
-3736,16,16,16,Advanced Degree
-3737,13,5,3,Some College
-3739,8,0,0,High School
-3741,12,12,12,Some College
-3742,17,14,20,Advanced Degree
-3743,16,16,14,Advanced Degree
-3745,13,12,0,Some College
-3746,13,10,8,Some College
-3747,20,8,13,Advanced Degree
-3748,13,12,8,Some College
-3749,11,12,8,High School
-3751,18,12,12,Advanced Degree
-3752,16,20,16,Advanced Degree
-3753,16,12,12,Advanced Degree
-3754,13,12,12,Some College
-3755,13,12,12,Some College
-3756,14,12,11,Some College
-3757,18,12,12,Advanced Degree
-3758,16,18,20,Advanced Degree
-3759,18,13,12,Advanced Degree
-3760,16,12,12,Advanced Degree
-3762,15,16,16,College
-3764,12,12,16,Some College
-3765,16,16,16,Advanced Degree
-3767,16,16,16,Advanced Degree
-3768,18,18,8,Advanced Degree
-3771,16,16,18,Advanced Degree
-3772,15,8,8,College
-3773,16,13,16,Advanced Degree
-3774,12,9,12,Some College
-3776,13,12,12,Some College
-3777,13,12,12,Some College
-3780,13,16,12,Some College
-3784,14,12,12,Some College
-3786,12,12,12,Some College
-3787,16,12,12,Advanced Degree
-3789,12,11,8,Some College
-3790,18,16,19,Advanced Degree
-3795,17,4,12,Advanced Degree
-3796,20,16,16,Advanced Degree
-3799,16,18,12,Advanced Degree
-3804,16,16,16,Advanced Degree
-3805,17,16,17,Advanced Degree
-3806,15,16,16,College
-3807,16,12,14,Advanced Degree
-3810,18,12,20,Advanced Degree
-3811,14,12,17,Some College
-3814,12,12,12,Some College
-3815,14,13,7,Some College
-3817,16,16,16,Advanced Degree
-3819,14,12,12,Some College
-3820,15,11,17,College
-3821,15,16,16,College
-3823,16,14,12,Advanced Degree
-3824,16,12,12,Advanced Degree
-3825,20,12,12,Advanced Degree
-3827,16,16,16,Advanced Degree
-3829,16,14,16,Advanced Degree
-3832,12,12,8,Some College
-3834,16,16,16,Advanced Degree
-3835,12,12,8,Some College
-3837,16,16,17,Advanced Degree
-3840,14,6,16,Some College
-3843,16,16,16,Advanced Degree
-3844,13,12,12,Some College
-3845,16,12,16,Advanced Degree
-3848,14,12,8,Some College
-3849,16,12,12,Advanced Degree
-3850,12,8,8,Some College
-3851,13,12,12,Some College
-3853,16,12,16,Advanced Degree
-3855,16,12,12,Advanced Degree
-3857,12,14,12,Some College
-3858,13,10,16,Some College
-3859,16,15,17,Advanced Degree
-3860,18,14,12,Advanced Degree
-3861,16,13,12,Advanced Degree
-3862,14,13,12,Some College
-3863,12,12,12,Some College
-3864,19,12,14,Advanced Degree
-3865,17,12,10,Advanced Degree
-3866,12,12,12,Some College
-3868,18,16,16,Advanced Degree
-3874,12,17,12,Some College
-3875,18,6,13,Advanced Degree
-3876,18,12,12,Advanced Degree
-3877,18,12,14,Advanced Degree
-3878,12,12,12,Some College
-3881,12,16,3,Some College
-3883,20,7,10,Advanced Degree
-3884,16,20,20,Advanced Degree
-3885,16,12,20,Advanced Degree
-3886,16,12,12,Advanced Degree
-3889,17,19,13,Advanced Degree
-3890,17,16,16,Advanced Degree
-3891,19,17,17,Advanced Degree
-3892,12,12,10,Some College
-3894,14,14,16,Some College
-3895,18,16,14,Advanced Degree
-3896,16,12,18,Advanced Degree
-3897,18,17,14,Advanced Degree
-3899,9,12,12,High School
-3901,14,12,16,Some College
-3906,12,10,11,Some College
-3908,16,12,12,Advanced Degree
-3911,15,7,6,College
-3912,16,12,12,Advanced Degree
-3913,6,12,12,< High School
-3914,14,0,6,Some College
-3915,16,16,16,Advanced Degree
-3918,20,12,12,Advanced Degree
-3920,17,16,16,Advanced Degree
-3921,17,12,20,Advanced Degree
-3922,18,12,12,Advanced Degree
-3923,14,20,16,Some College
-3924,12,8,12,Some College
-3925,20,12,8,Advanced Degree
-3926,10,12,12,High School
-3928,16,16,15,Advanced Degree
-3930,15,5,7,College
-3932,18,13,7,Advanced Degree
-3934,16,12,16,Advanced Degree
-3935,16,10,8,Advanced Degree
-3936,16,2,3,Advanced Degree
-3937,13,3,7,Some College
-3938,19,12,12,Advanced Degree
-3943,15,9,11,College
-3944,16,12,12,Advanced Degree
-3945,16,16,16,Advanced Degree
-3946,16,10,16,Advanced Degree
-3949,20,16,13,Advanced Degree
-3950,19,18,20,Advanced Degree
-3951,16,12,12,Advanced Degree
-3953,18,14,16,Advanced Degree
-3954,13,12,16,Some College
-3955,13,12,12,Some College
-3956,16,12,12,Advanced Degree
-3958,12,12,12,Some College
-3959,13,12,12,Some College
-3963,16,16,14,Advanced Degree
-3964,18,7,2,Advanced Degree
-3965,12,0,12,Some College
-3966,20,12,20,Advanced Degree
-3973,20,9,8,Advanced Degree
-3974,14,12,12,Some College
-3975,16,20,20,Advanced Degree
-3976,16,12,16,Advanced Degree
-3977,12,12,12,Some College
-3978,12,12,12,Some College
-3979,12,12,0,Some College
-3980,16,12,12,Advanced Degree
-3981,12,12,14,Some College
-3982,16,12,12,Advanced Degree
-3983,17,12,8,Advanced Degree
-3986,16,14,12,Advanced Degree
-3988,16,16,16,Advanced Degree
-3989,16,12,12,Advanced Degree
-3990,18,14,16,Advanced Degree
-3992,18,16,16,Advanced Degree
-3995,17,12,9,Advanced Degree
-3996,13,12,12,Some College
-3997,12,12,12,Some College
-3998,17,12,8,Advanced Degree
-3999,14,13,7,Some College
-4001,15,12,18,College
-4002,18,15,12,Advanced Degree
-4003,17,12,10,Advanced Degree
-4006,18,13,12,Advanced Degree
-4007,16,12,16,Advanced Degree
-4008,15,12,12,College
-4010,12,12,8,Some College
-4012,15,12,12,College
-4013,13,12,10,Some College
-4015,20,12,12,Advanced Degree
-4016,12,10,12,Some College
-4018,16,12,16,Advanced Degree
-4019,12,9,9,Some College
-4020,16,9,15,Advanced Degree
-4021,16,20,16,Advanced Degree
-4023,13,12,12,Some College
-4024,12,12,12,Some College
-4026,16,16,8,Advanced Degree
-4027,16,10,15,Advanced Degree
-4028,14,14,12,Some College
-4029,14,12,12,Some College
-4031,18,14,16,Advanced Degree
-4033,14,12,12,Some College
-4035,16,16,16,Advanced Degree
-4039,18,20,12,Advanced Degree
-4042,12,16,8,Some College
-4043,14,6,0,Some College
-4045,12,6,9,Some College
-4046,12,12,12,Some College
-4050,14,10,10,Some College
-4052,16,12,15,Advanced Degree
-4053,12,12,8,Some College
-4055,16,14,14,Advanced Degree
-4056,13,12,14,Some College
-4058,18,12,12,Advanced Degree
-4059,16,14,16,Advanced Degree
-4060,18,17,17,Advanced Degree
-4061,12,12,5,Some College
-4062,20,12,12,Advanced Degree
-4064,16,18,18,Advanced Degree
-4066,16,16,14,Advanced Degree
-4070,15,16,16,College
-4071,16,14,12,Advanced Degree
-4072,12,16,16,Some College
-4073,12,4,3,Some College
-4074,17,17,18,Advanced Degree
-4076,16,12,12,Advanced Degree
-4077,10,6,6,High School
-4079,13,12,12,Some College
-4080,12,12,16,Some College
-4081,16,6,6,Advanced Degree
-4082,15,12,12,College
-4084,16,12,12,Advanced Degree
-4085,16,16,16,Advanced Degree
-4086,12,13,12,Some College
-4087,13,16,12,Some College
-4089,18,16,16,Advanced Degree
-4090,16,8,10,Advanced Degree
-4094,13,12,11,Some College
-4095,13,14,16,Some College
-4096,13,19,20,Some College
-4097,8,10,8,High School
-4098,17,16,18,Advanced Degree
-4100,18,14,12,Advanced Degree
-4101,18,12,12,Advanced Degree
-4102,12,12,12,Some College
-4103,12,18,12,Some College
-4105,14,20,6,Some College
-4106,16,19,15,Advanced Degree
-4107,12,12,12,Some College
-4110,12,12,3,Some College
-4112,16,14,12,Advanced Degree
-4113,12,12,0,Some College
-4116,18,13,18,Advanced Degree
-4117,16,14,16,Advanced Degree
-4118,16,10,14,Advanced Degree
-4121,16,16,16,Advanced Degree
-4122,18,10,11,Advanced Degree
-4124,9,4,6,High School
-4125,16,12,16,Advanced Degree
-4128,12,12,12,Some College
-4129,16,12,14,Advanced Degree
-4130,16,16,16,Advanced Degree
-4132,12,11,4,Some College
-4135,15,12,13,College
-4136,5,16,12,< High School
-4137,18,13,13,Advanced Degree
-4138,20,20,13,Advanced Degree
-4139,16,14,12,Advanced Degree
-4140,12,9,6,Some College
-4141,12,14,16,Some College
-4142,14,12,12,Some College
-4143,16,12,12,Advanced Degree
-4144,19,12,14,Advanced Degree
-4145,12,16,12,Some College
-4147,12,10,12,Some College
-4148,16,16,14,Advanced Degree
-4150,16,12,16,Advanced Degree
-4152,12,12,8,Some College
-4153,14,12,12,Some College
-4154,20,12,8,Advanced Degree
-4155,12,12,12,Some College
-4156,16,12,12,Advanced Degree
-4157,14,12,12,Some College
-4158,14,16,16,Some College
-4160,15,12,12,College
-4161,16,16,16,Advanced Degree
-4164,20,12,12,Advanced Degree
-4165,18,16,16,Advanced Degree
-4168,14,12,16,Some College
-4170,18,16,16,Advanced Degree
-4171,12,12,12,Some College
-4172,16,15,15,Advanced Degree
-4173,16,11,12,Advanced Degree
-4174,17,10,12,Advanced Degree
-4175,14,12,16,Some College
-4179,12,12,12,Some College
-4180,12,12,12,Some College
-4181,13,12,12,Some College
-4182,16,16,12,Advanced Degree
-4183,15,8,9,College
-4184,18,12,12,Advanced Degree
-4185,18,6,4,Advanced Degree
-4190,16,12,16,Advanced Degree
-4191,18,12,12,Advanced Degree
-4193,12,10,12,Some College
-4194,12,13,12,Some College
-4196,17,5,6,Advanced Degree
-4197,17,12,12,Advanced Degree
-4198,17,16,16,Advanced Degree
-4199,16,14,12,Advanced Degree
-4200,18,16,18,Advanced Degree
-4201,19,16,16,Advanced Degree
-4202,16,13,12,Advanced Degree
-4204,20,14,13,Advanced Degree
-4205,19,12,12,Advanced Degree
-4208,16,16,18,Advanced Degree
-4210,12,12,12,Some College
-4211,14,12,6,Some College
-4214,16,12,12,Advanced Degree
-4215,13,13,12,Some College
-4217,12,11,12,Some College
-4220,16,13,12,Advanced Degree
-4221,18,14,16,Advanced Degree
-4222,14,12,12,Some College
-4223,19,11,11,Advanced Degree
-4225,12,11,9,Some College
-4227,14,14,14,Some College
-4228,16,13,16,Advanced Degree
-4229,14,16,12,Some College
-4231,17,12,12,Advanced Degree
-4235,15,8,12,College
-4236,16,9,12,Advanced Degree
-4238,18,16,16,Advanced Degree
-4239,14,15,12,Some College
-4240,12,12,10,Some College
-4241,14,12,12,Some College
-4242,17,18,10,Advanced Degree
-4243,20,12,16,Advanced Degree
-4244,16,12,11,Advanced Degree
-4246,16,12,9,Advanced Degree
-4247,14,9,6,Some College
-4248,18,12,16,Advanced Degree
-4249,16,12,8,Advanced Degree
-4250,16,12,12,Advanced Degree
-4251,12,14,11,Some College
-4253,13,16,12,Some College
-4254,17,12,9,Advanced Degree
-4255,16,12,12,Advanced Degree
-4256,19,12,16,Advanced Degree
-4257,16,12,12,Advanced Degree
-4258,12,12,12,Some College
-4260,15,16,12,College
-4262,18,16,12,Advanced Degree
-4263,17,10,10,Advanced Degree
-4265,13,12,13,Some College
-4266,16,16,16,Advanced Degree
-4267,16,5,16,Advanced Degree
-4268,19,16,16,Advanced Degree
-4272,18,14,6,Advanced Degree
-4277,12,8,8,Some College
-4279,8,11,12,High School
-4280,12,16,16,Some College
-4281,13,7,5,Some College
-4282,16,12,10,Advanced Degree
-4283,12,12,12,Some College
-4284,12,9,6,Some College
-4287,17,15,12,Advanced Degree
-4288,17,18,14,Advanced Degree
-4289,16,12,12,Advanced Degree
-4290,14,11,12,Some College
-4293,15,10,10,College
-4296,12,12,12,Some College
-4297,16,12,14,Advanced Degree
-4304,18,12,12,Advanced Degree
-4305,12,14,12,Some College
-4307,20,7,12,Advanced Degree
-4308,16,16,13,Advanced Degree
-4311,14,12,14,Some College
-4312,12,12,12,Some College
-4313,14,14,12,Some College
-4314,16,0,0,Advanced Degree
-4315,14,8,8,Some College
-4316,14,8,8,Some College
-4320,17,18,12,Advanced Degree
-4323,17,16,14,Advanced Degree
-4324,16,12,12,Advanced Degree
-4325,16,12,12,Advanced Degree
-4326,14,14,16,Some College
-4327,16,17,20,Advanced Degree
-4328,16,17,16,Advanced Degree
-4329,16,12,16,Advanced Degree
-4331,17,20,20,Advanced Degree
-4332,16,12,12,Advanced Degree
-4333,11,0,0,High School
-4334,19,12,17,Advanced Degree
-4336,11,12,3,High School
-4337,13,11,12,Some College
-4338,20,16,20,Advanced Degree
-4340,18,12,14,Advanced Degree
-4342,18,10,12,Advanced Degree
-4344,16,12,14,Advanced Degree
-4345,16,16,16,Advanced Degree
-4347,20,18,18,Advanced Degree
-4348,11,12,12,High School
-4349,12,15,12,Some College
-4352,19,20,14,Advanced Degree
-4353,18,17,12,Advanced Degree
-4354,16,16,12,Advanced Degree
-4355,12,12,0,Some College
-4356,17,12,18,Advanced Degree
-4358,16,14,17,Advanced Degree
-4359,12,12,16,Some College
-4360,16,14,16,Advanced Degree
-4361,20,14,16,Advanced Degree
-4364,11,12,12,High School
-4366,12,8,8,Some College
-4367,14,12,14,Some College
-4368,15,13,12,College
-4369,16,12,12,Advanced Degree
-4370,13,12,12,Some College
-4373,10,16,16,High School
-4374,20,9,12,Advanced Degree
-4375,16,13,12,Advanced Degree
-4376,13,13,13,Some College
-4377,16,16,12,Advanced Degree
-4378,16,14,16,Advanced Degree
-4379,18,12,12,Advanced Degree
-4380,12,12,14,Some College
-4381,19,16,18,Advanced Degree
-4382,9,6,12,High School
-4384,20,16,14,Advanced Degree
-4385,12,14,16,Some College
-4386,20,16,14,Advanced Degree
-4388,12,14,12,Some College
-4391,15,14,12,College
-4392,16,12,12,Advanced Degree
-4395,16,14,16,Advanced Degree
-4396,16,12,14,Advanced Degree
-4397,17,20,16,Advanced Degree
-4399,18,12,15,Advanced Degree
-4401,16,12,12,Advanced Degree
-4402,18,14,15,Advanced Degree
-4404,16,12,16,Advanced Degree
-4406,16,18,16,Advanced Degree
-4407,15,12,10,College
-4409,16,12,16,Advanced Degree
-4411,16,20,20,Advanced Degree
-4412,17,12,14,Advanced Degree
-4414,12,10,12,Some College
-4416,14,12,9,Some College
-4417,16,16,16,Advanced Degree
-4418,12,12,12,Some College
-4419,16,16,16,Advanced Degree
-4423,20,13,16,Advanced Degree
-4425,14,18,14,Some College
-4427,16,12,12,Advanced Degree
-4428,17,12,14,Advanced Degree
-4429,19,8,14,Advanced Degree
-4430,16,12,12,Advanced Degree
-4433,20,20,20,Advanced Degree
-4436,16,12,18,Advanced Degree
-4437,16,9,9,Advanced Degree
-4439,16,13,14,Advanced Degree
-4440,16,16,12,Advanced Degree
-4441,12,12,12,Some College
-4442,12,13,12,Some College
-4443,20,18,12,Advanced Degree
-4444,16,14,14,Advanced Degree
-4445,17,18,14,Advanced Degree
-4447,15,12,12,College
-4448,13,10,12,Some College
-4451,14,12,13,Some College
-4452,14,12,12,Some College
-4453,19,12,18,Advanced Degree
-4454,16,16,13,Advanced Degree
-4455,12,15,8,Some College
-4456,14,0,3,Some College
-4457,18,18,16,Advanced Degree
-4458,17,12,12,Advanced Degree
-4459,17,0,4,Advanced Degree
-4460,13,12,12,Some College
-4461,13,12,12,Some College
-4462,19,20,20,Advanced Degree
-4463,16,12,16,Advanced Degree
-4464,18,8,6,Advanced Degree
-4466,14,16,16,Some College
-4467,14,16,16,Some College
-4468,16,16,16,Advanced Degree
-4469,16,16,16,Advanced Degree
-4470,20,14,16,Advanced Degree
+id,educ,education
+1,12,High School
+2,16,4 Years of College
+7,17,> 4 years of college
+8,12,High School
+9,19,> 4 years of college
+12,16,4 Years of College
+16,14,Some College
+17,18,> 4 years of college
+22,15,Some College
+23,17,> 4 years of college
+24,16,4 Years of College
+25,16,4 Years of College
+26,16,4 Years of College
+31,16,4 Years of College
+36,16,4 Years of College
+38,20,> 4 years of college
+39,16,4 Years of College
+41,13,Some College
+42,8,< High School
+43,13,Some College
+46,16,4 Years of College
+47,16,4 Years of College
+48,16,4 Years of College
+49,20,> 4 years of college
+50,12,High School
+52,14,Some College
+53,14,Some College
+56,16,4 Years of College
+57,16,4 Years of College
+59,13,Some College
+60,16,4 Years of College
+61,14,Some College
+64,3,< High School
+66,14,Some College
+67,16,4 Years of College
+68,20,> 4 years of college
+69,14,Some College
+70,17,> 4 years of college
+74,15,Some College
+75,16,4 Years of College
+76,6,< High School
+77,14,Some College
+78,12,High School
+80,16,4 Years of College
+81,12,High School
+82,12,High School
+83,12,High School
+85,16,4 Years of College
+86,16,4 Years of College
+91,12,High School
+92,16,4 Years of College
+93,16,4 Years of College
+94,15,Some College
+95,16,4 Years of College
+96,12,High School
+97,13,Some College
+98,14,Some College
+100,16,4 Years of College
+101,14,Some College
+103,18,> 4 years of college
+104,17,> 4 years of college
+105,18,> 4 years of college
+107,18,> 4 years of college
+108,14,Some College
+111,16,4 Years of College
+113,12,High School
+114,14,Some College
+115,20,> 4 years of college
+116,15,Some College
+117,20,> 4 years of college
+118,20,> 4 years of college
+119,18,> 4 years of college
+120,16,4 Years of College
+121,20,> 4 years of college
+124,18,> 4 years of college
+125,18,> 4 years of college
+127,13,Some College
+128,13,Some College
+130,16,4 Years of College
+131,16,4 Years of College
+136,16,4 Years of College
+137,12,High School
+139,17,> 4 years of college
+140,16,4 Years of College
+142,16,4 Years of College
+143,19,> 4 years of college
+144,18,> 4 years of college
+145,18,> 4 years of college
+146,16,4 Years of College
+147,16,4 Years of College
+148,12,High School
+149,16,4 Years of College
+151,11,< High School
+154,19,> 4 years of college
+155,16,4 Years of College
+158,20,> 4 years of college
+159,14,Some College
+160,16,4 Years of College
+164,14,Some College
+165,16,4 Years of College
+167,17,> 4 years of college
+168,14,Some College
+169,19,> 4 years of college
+170,20,> 4 years of college
+171,16,4 Years of College
+172,16,4 Years of College
+173,18,> 4 years of college
+174,16,4 Years of College
+175,14,Some College
+176,16,4 Years of College
+177,16,4 Years of College
+179,12,High School
+183,18,> 4 years of college
+184,12,High School
+188,12,High School
+190,10,< High School
+192,14,Some College
+194,13,Some College
+195,16,4 Years of College
+196,17,> 4 years of college
+198,16,4 Years of College
+201,16,4 Years of College
+203,20,> 4 years of college
+206,12,High School
+207,14,Some College
+209,16,4 Years of College
+210,12,High School
+213,14,Some College
+215,17,> 4 years of college
+216,6,< High School
+217,12,High School
+220,14,Some College
+221,13,Some College
+224,16,4 Years of College
+226,15,Some College
+230,12,High School
+231,17,> 4 years of college
+233,18,> 4 years of college
+235,12,High School
+236,20,> 4 years of college
+239,16,4 Years of College
+242,16,4 Years of College
+244,16,4 Years of College
+246,12,High School
+247,15,Some College
+253,17,> 4 years of college
+254,16,4 Years of College
+255,16,4 Years of College
+256,16,4 Years of College
+257,16,4 Years of College
+258,14,Some College
+259,19,> 4 years of college
+260,14,Some College
+261,13,Some College
+262,20,> 4 years of college
+263,12,High School
+264,15,Some College
+265,16,4 Years of College
+267,12,High School
+268,18,> 4 years of college
+269,16,4 Years of College
+270,14,Some College
+271,16,4 Years of College
+272,18,> 4 years of college
+273,14,Some College
+275,12,High School
+276,12,High School
+279,16,4 Years of College
+281,16,4 Years of College
+282,20,> 4 years of college
+284,20,> 4 years of college
+285,19,> 4 years of college
+287,12,High School
+288,16,4 Years of College
+289,12,High School
+291,12,High School
+292,16,4 Years of College
+293,15,Some College
+294,16,4 Years of College
+296,11,< High School
+297,16,4 Years of College
+300,15,Some College
+301,13,Some College
+302,12,High School
+303,18,> 4 years of college
+304,19,> 4 years of college
+305,18,> 4 years of college
+306,18,> 4 years of college
+307,15,Some College
+309,15,Some College
+310,16,4 Years of College
+312,18,> 4 years of college
+313,13,Some College
+314,13,Some College
+315,16,4 Years of College
+316,13,Some College
+317,15,Some College
+320,20,> 4 years of college
+321,16,4 Years of College
+322,16,4 Years of College
+323,17,> 4 years of college
+326,17,> 4 years of college
+327,16,4 Years of College
+329,16,4 Years of College
+330,19,> 4 years of college
+331,16,4 Years of College
+333,18,> 4 years of college
+334,16,4 Years of College
+335,15,Some College
+336,16,4 Years of College
+337,12,High School
+338,13,Some College
+339,12,High School
+340,18,> 4 years of college
+342,16,4 Years of College
+343,12,High School
+344,16,4 Years of College
+345,20,> 4 years of college
+346,13,Some College
+348,12,High School
+349,19,> 4 years of college
+350,13,Some College
+352,17,> 4 years of college
+354,19,> 4 years of college
+356,16,4 Years of College
+357,19,> 4 years of college
+358,15,Some College
+359,14,Some College
+360,13,Some College
+361,13,Some College
+362,17,> 4 years of college
+363,14,Some College
+365,16,4 Years of College
+366,14,Some College
+367,18,> 4 years of college
+369,16,4 Years of College
+370,14,Some College
+371,14,Some College
+372,17,> 4 years of college
+375,18,> 4 years of college
+377,12,High School
+379,18,> 4 years of college
+380,18,> 4 years of college
+383,16,4 Years of College
+384,14,Some College
+386,15,Some College
+388,14,Some College
+389,16,4 Years of College
+390,14,Some College
+391,20,> 4 years of college
+392,14,Some College
+396,14,Some College
+397,12,High School
+398,14,Some College
+402,13,Some College
+405,18,> 4 years of college
+407,13,Some College
+408,16,4 Years of College
+409,15,Some College
+411,17,> 4 years of college
+412,18,> 4 years of college
+413,16,4 Years of College
+414,18,> 4 years of college
+415,17,> 4 years of college
+417,16,4 Years of College
+418,18,> 4 years of college
+420,18,> 4 years of college
+422,18,> 4 years of college
+424,19,> 4 years of college
+425,16,4 Years of College
+427,14,Some College
+428,18,> 4 years of college
+430,12,High School
+431,12,High School
+433,18,> 4 years of college
+434,18,> 4 years of college
+435,12,High School
+437,12,High School
+438,0,< High School
+439,15,Some College
+441,12,High School
+443,19,> 4 years of college
+445,20,> 4 years of college
+446,17,> 4 years of college
+447,16,4 Years of College
+448,16,4 Years of College
+449,17,> 4 years of college
+450,15,Some College
+451,16,4 Years of College
+452,12,High School
+453,18,> 4 years of college
+454,14,Some College
+456,19,> 4 years of college
+457,18,> 4 years of college
+458,18,> 4 years of college
+459,20,> 4 years of college
+460,16,4 Years of College
+461,17,> 4 years of college
+462,20,> 4 years of college
+463,14,Some College
+464,14,Some College
+465,16,4 Years of College
+468,17,> 4 years of college
+469,20,> 4 years of college
+470,11,< High School
+473,16,4 Years of College
+474,16,4 Years of College
+478,12,High School
+480,13,Some College
+481,12,High School
+483,12,High School
+484,18,> 4 years of college
+485,17,> 4 years of college
+486,15,Some College
+488,12,High School
+491,16,4 Years of College
+493,14,Some College
+495,12,High School
+496,15,Some College
+497,16,4 Years of College
+498,16,4 Years of College
+499,15,Some College
+502,14,Some College
+503,12,High School
+505,20,> 4 years of college
+508,15,Some College
+510,17,> 4 years of college
+512,14,Some College
+513,14,Some College
+514,17,> 4 years of college
+517,15,Some College
+518,18,> 4 years of college
+520,14,Some College
+523,10,< High School
+525,12,High School
+526,14,Some College
+527,19,> 4 years of college
+528,18,> 4 years of college
+529,16,4 Years of College
+530,14,Some College
+531,17,> 4 years of college
+532,18,> 4 years of college
+533,18,> 4 years of college
+535,17,> 4 years of college
+536,12,High School
+537,15,Some College
+539,12,High School
+540,12,High School
+541,16,4 Years of College
+542,14,Some College
+544,12,High School
+547,18,> 4 years of college
+548,14,Some College
+549,11,< High School
+550,12,High School
+552,14,Some College
+553,16,4 Years of College
+554,19,> 4 years of college
+555,16,4 Years of College
+556,16,4 Years of College
+557,20,> 4 years of college
+559,18,> 4 years of college
+560,12,High School
+561,17,> 4 years of college
+566,12,High School
+568,16,4 Years of College
+571,16,4 Years of College
+572,12,High School
+573,12,High School
+576,14,Some College
+577,13,Some College
+583,12,High School
+584,14,Some College
+585,12,High School
+586,16,4 Years of College
+587,20,> 4 years of college
+588,17,> 4 years of college
+590,12,High School
+594,16,4 Years of College
+595,18,> 4 years of college
+599,17,> 4 years of college
+602,15,Some College
+604,11,< High School
+606,15,Some College
+610,14,Some College
+611,16,4 Years of College
+612,12,High School
+613,12,High School
+614,14,Some College
+615,14,Some College
+616,12,High School
+617,13,Some College
+618,15,Some College
+619,14,Some College
+621,12,High School
+622,11,< High School
+623,13,Some College
+625,16,4 Years of College
+626,12,High School
+627,15,Some College
+628,12,High School
+629,19,> 4 years of college
+633,14,Some College
+635,12,High School
+636,20,> 4 years of college
+639,17,> 4 years of college
+641,16,4 Years of College
+642,16,4 Years of College
+643,13,Some College
+644,12,High School
+645,12,High School
+646,16,4 Years of College
+647,16,4 Years of College
+649,14,Some College
+650,12,High School
+651,17,> 4 years of college
+652,12,High School
+654,16,4 Years of College
+656,14,Some College
+657,17,> 4 years of college
+658,13,Some College
+659,12,High School
+660,16,4 Years of College
+661,16,4 Years of College
+662,12,High School
+663,14,Some College
+664,12,High School
+665,20,> 4 years of college
+666,16,4 Years of College
+667,12,High School
+668,16,4 Years of College
+669,14,Some College
+670,12,High School
+671,12,High School
+672,11,< High School
+675,13,Some College
+676,12,High School
+678,12,High School
+680,14,Some College
+681,12,High School
+684,18,> 4 years of college
+685,12,High School
+686,12,High School
+687,12,High School
+690,12,High School
+691,13,Some College
+692,14,Some College
+693,16,4 Years of College
+696,14,Some College
+699,12,High School
+701,15,Some College
+702,18,> 4 years of college
+704,18,> 4 years of college
+705,20,> 4 years of college
+707,18,> 4 years of college
+708,19,> 4 years of college
+709,17,> 4 years of college
+710,13,Some College
+711,14,Some College
+713,20,> 4 years of college
+714,20,> 4 years of college
+715,13,Some College
+717,18,> 4 years of college
+718,16,4 Years of College
+719,18,> 4 years of college
+720,16,4 Years of College
+721,16,4 Years of College
+723,16,4 Years of College
+724,16,4 Years of College
+725,12,High School
+726,14,Some College
+728,16,4 Years of College
+730,20,> 4 years of college
+733,16,4 Years of College
+734,18,> 4 years of college
+735,16,4 Years of College
+738,15,Some College
+739,18,> 4 years of college
+740,19,> 4 years of college
+741,13,Some College
+742,10,< High School
+745,12,High School
+746,12,High School
+747,12,High School
+748,17,> 4 years of college
+749,16,4 Years of College
+750,14,Some College
+752,14,Some College
+753,14,Some College
+754,18,> 4 years of college
+755,20,> 4 years of college
+756,12,High School
+759,15,Some College
+760,12,High School
+765,18,> 4 years of college
+766,13,Some College
+767,18,> 4 years of college
+768,12,High School
+772,16,4 Years of College
+773,15,Some College
+776,12,High School
+777,12,High School
+778,12,High School
+779,16,4 Years of College
+780,15,Some College
+782,12,High School
+783,14,Some College
+784,12,High School
+785,17,> 4 years of college
+786,19,> 4 years of college
+788,20,> 4 years of college
+792,18,> 4 years of college
+793,14,Some College
+796,16,4 Years of College
+797,18,> 4 years of college
+798,20,> 4 years of college
+799,14,Some College
+801,16,4 Years of College
+802,14,Some College
+804,18,> 4 years of college
+805,16,4 Years of College
+807,15,Some College
+808,12,High School
+809,13,Some College
+813,16,4 Years of College
+816,16,4 Years of College
+817,17,> 4 years of college
+818,16,4 Years of College
+819,12,High School
+820,12,High School
+825,14,Some College
+827,15,Some College
+829,12,High School
+831,17,> 4 years of college
+832,15,Some College
+834,16,4 Years of College
+838,12,High School
+839,18,> 4 years of college
+842,16,4 Years of College
+843,15,Some College
+845,16,4 Years of College
+846,17,> 4 years of college
+850,14,Some College
+852,14,Some College
+853,14,Some College
+857,16,4 Years of College
+859,12,High School
+864,14,Some College
+865,12,High School
+866,13,Some College
+867,15,Some College
+871,14,Some College
+872,12,High School
+873,19,> 4 years of college
+874,12,High School
+878,16,4 Years of College
+880,15,Some College
+881,20,> 4 years of college
+882,18,> 4 years of college
+883,20,> 4 years of college
+884,16,4 Years of College
+885,16,4 Years of College
+886,13,Some College
+887,16,4 Years of College
+888,12,High School
+890,17,> 4 years of college
+892,16,4 Years of College
+894,20,> 4 years of college
+895,12,High School
+896,16,4 Years of College
+897,18,> 4 years of college
+898,19,> 4 years of college
+899,18,> 4 years of college
+901,16,4 Years of College
+902,14,Some College
+903,16,4 Years of College
+904,18,> 4 years of college
+906,16,4 Years of College
+910,16,4 Years of College
+915,18,> 4 years of college
+916,18,> 4 years of college
+917,19,> 4 years of college
+918,13,Some College
+919,16,4 Years of College
+923,12,High School
+924,12,High School
+925,16,4 Years of College
+926,15,Some College
+927,18,> 4 years of college
+928,15,Some College
+929,16,4 Years of College
+931,16,4 Years of College
+933,12,High School
+935,14,Some College
+938,12,High School
+941,16,4 Years of College
+942,16,4 Years of College
+943,20,> 4 years of college
+944,18,> 4 years of college
+945,12,High School
+946,18,> 4 years of college
+947,17,> 4 years of college
+948,16,4 Years of College
+949,15,Some College
+950,16,4 Years of College
+952,16,4 Years of College
+953,18,> 4 years of college
+954,20,> 4 years of college
+956,16,4 Years of College
+957,16,4 Years of College
+960,12,High School
+961,12,High School
+964,18,> 4 years of college
+965,12,High School
+969,16,4 Years of College
+972,18,> 4 years of college
+973,15,Some College
+975,17,> 4 years of college
+977,12,High School
+980,14,Some College
+981,18,> 4 years of college
+983,17,> 4 years of college
+985,18,> 4 years of college
+986,20,> 4 years of college
+988,16,4 Years of College
+989,17,> 4 years of college
+990,15,Some College
+991,16,4 Years of College
+992,14,Some College
+993,17,> 4 years of college
+995,14,Some College
+996,14,Some College
+997,18,> 4 years of college
+998,15,Some College
+999,16,4 Years of College
+1000,16,4 Years of College
+1001,16,4 Years of College
+1002,14,Some College
+1003,16,4 Years of College
+1004,14,Some College
+1005,19,> 4 years of college
+1008,13,Some College
+1009,8,< High School
+1013,19,> 4 years of college
+1014,16,4 Years of College
+1015,17,> 4 years of college
+1018,16,4 Years of College
+1019,16,4 Years of College
+1021,17,> 4 years of college
+1022,16,4 Years of College
+1023,16,4 Years of College
+1024,16,4 Years of College
+1025,19,> 4 years of college
+1026,17,> 4 years of college
+1030,12,High School
+1034,12,High School
+1036,14,Some College
+1039,16,4 Years of College
+1043,12,High School
+1044,18,> 4 years of college
+1045,18,> 4 years of college
+1046,14,Some College
+1048,13,Some College
+1049,17,> 4 years of college
+1050,14,Some College
+1051,16,4 Years of College
+1052,12,High School
+1055,16,4 Years of College
+1056,16,4 Years of College
+1057,14,Some College
+1059,12,High School
+1060,12,High School
+1061,16,4 Years of College
+1062,18,> 4 years of college
+1063,14,Some College
+1065,19,> 4 years of college
+1066,13,Some College
+1068,16,4 Years of College
+1069,12,High School
+1071,16,4 Years of College
+1072,12,High School
+1074,18,> 4 years of college
+1075,13,Some College
+1079,17,> 4 years of college
+1080,12,High School
+1081,13,Some College
+1084,19,> 4 years of college
+1085,12,High School
+1086,10,< High School
+1087,12,High School
+1088,12,High School
+1089,12,High School
+1091,14,Some College
+1092,13,Some College
+1093,14,Some College
+1094,16,4 Years of College
+1095,15,Some College
+1096,14,Some College
+1097,16,4 Years of College
+1100,12,High School
+1102,18,> 4 years of college
+1103,18,> 4 years of college
+1106,12,High School
+1108,12,High School
+1109,10,< High School
+1110,20,> 4 years of college
+1111,14,Some College
+1112,15,Some College
+1115,20,> 4 years of college
+1117,12,High School
+1118,19,> 4 years of college
+1119,18,> 4 years of college
+1120,17,> 4 years of college
+1121,16,4 Years of College
+1122,11,< High School
+1123,16,4 Years of College
+1124,15,Some College
+1127,16,4 Years of College
+1129,20,> 4 years of college
+1130,16,4 Years of College
+1131,16,4 Years of College
+1132,16,4 Years of College
+1133,16,4 Years of College
+1134,16,4 Years of College
+1136,16,4 Years of College
+1137,16,4 Years of College
+1138,16,4 Years of College
+1139,18,> 4 years of college
+1140,16,4 Years of College
+1141,18,> 4 years of college
+1142,16,4 Years of College
+1143,20,> 4 years of college
+1144,18,> 4 years of college
+1145,14,Some College
+1146,17,> 4 years of college
+1147,16,4 Years of College
+1149,14,Some College
+1150,8,< High School
+1152,14,Some College
+1154,19,> 4 years of college
+1155,17,> 4 years of college
+1156,20,> 4 years of college
+1157,14,Some College
+1159,16,4 Years of College
+1161,12,High School
+1162,16,4 Years of College
+1164,16,4 Years of College
+1165,18,> 4 years of college
+1166,16,4 Years of College
+1169,13,Some College
+1171,20,> 4 years of college
+1172,14,Some College
+1173,14,Some College
+1176,18,> 4 years of college
+1181,14,Some College
+1183,12,High School
+1185,15,Some College
+1186,16,4 Years of College
+1187,14,Some College
+1190,17,> 4 years of college
+1191,13,Some College
+1192,13,Some College
+1193,16,4 Years of College
+1194,18,> 4 years of college
+1195,16,4 Years of College
+1196,18,> 4 years of college
+1197,16,4 Years of College
+1198,16,4 Years of College
+1199,20,> 4 years of college
+1200,16,4 Years of College
+1201,18,> 4 years of college
+1203,15,Some College
+1204,18,> 4 years of college
+1205,14,Some College
+1206,18,> 4 years of college
+1207,16,4 Years of College
+1208,19,> 4 years of college
+1209,20,> 4 years of college
+1210,14,Some College
+1211,16,4 Years of College
+1213,20,> 4 years of college
+1215,16,4 Years of College
+1216,16,4 Years of College
+1217,16,4 Years of College
+1218,11,< High School
+1219,14,Some College
+1220,16,4 Years of College
+1222,12,High School
+1223,17,> 4 years of college
+1224,20,> 4 years of college
+1225,12,High School
+1228,12,High School
+1229,14,Some College
+1230,20,> 4 years of college
+1231,12,High School
+1232,12,High School
+1235,13,Some College
+1237,14,Some College
+1239,12,High School
+1244,15,Some College
+1245,12,High School
+1246,13,Some College
+1247,12,High School
+1248,10,< High School
+1249,19,> 4 years of college
+1250,18,> 4 years of college
+1251,12,High School
+1253,16,4 Years of College
+1254,13,Some College
+1255,16,4 Years of College
+1257,15,Some College
+1259,17,> 4 years of college
+1261,15,Some College
+1263,16,4 Years of College
+1265,20,> 4 years of college
+1266,18,> 4 years of college
+1267,17,> 4 years of college
+1268,19,> 4 years of college
+1269,20,> 4 years of college
+1270,17,> 4 years of college
+1271,14,Some College
+1272,20,> 4 years of college
+1273,16,4 Years of College
+1275,13,Some College
+1276,16,4 Years of College
+1277,13,Some College
+1278,16,4 Years of College
+1279,16,4 Years of College
+1285,19,> 4 years of college
+1287,20,> 4 years of college
+1289,16,4 Years of College
+1290,16,4 Years of College
+1291,16,4 Years of College
+1292,16,4 Years of College
+1294,13,Some College
+1295,18,> 4 years of college
+1297,18,> 4 years of college
+1298,17,> 4 years of college
+1299,18,> 4 years of college
+1304,14,Some College
+1305,12,High School
+1306,16,4 Years of College
+1312,18,> 4 years of college
+1314,12,High School
+1315,17,> 4 years of college
+1316,14,Some College
+1317,17,> 4 years of college
+1318,17,> 4 years of college
+1319,14,Some College
+1320,14,Some College
+1322,12,High School
+1323,16,4 Years of College
+1324,15,Some College
+1325,14,Some College
+1326,16,4 Years of College
+1327,16,4 Years of College
+1328,18,> 4 years of college
+1329,16,4 Years of College
+1330,12,High School
+1331,18,> 4 years of college
+1332,20,> 4 years of college
+1333,12,High School
+1334,17,> 4 years of college
+1336,17,> 4 years of college
+1337,12,High School
+1338,13,Some College
+1340,20,> 4 years of college
+1342,19,> 4 years of college
+1343,12,High School
+1344,19,> 4 years of college
+1345,12,High School
+1346,17,> 4 years of college
+1347,12,High School
+1349,14,Some College
+1350,17,> 4 years of college
+1351,16,4 Years of College
+1355,13,Some College
+1356,12,High School
+1357,16,4 Years of College
+1358,16,4 Years of College
+1359,16,4 Years of College
+1360,17,> 4 years of college
+1361,16,4 Years of College
+1363,16,4 Years of College
+1364,12,High School
+1365,16,4 Years of College
+1367,12,High School
+1368,17,> 4 years of college
+1369,12,High School
+1370,18,> 4 years of college
+1371,14,Some College
+1372,13,Some College
+1373,16,4 Years of College
+1374,20,> 4 years of college
+1381,16,4 Years of College
+1384,12,High School
+1385,16,4 Years of College
+1386,12,High School
+1388,18,> 4 years of college
+1389,13,Some College
+1391,19,> 4 years of college
+1392,14,Some College
+1393,16,4 Years of College
+1395,14,Some College
+1396,12,High School
+1397,14,Some College
+1399,20,> 4 years of college
+1400,16,4 Years of College
+1401,16,4 Years of College
+1402,18,> 4 years of college
+1403,12,High School
+1405,15,Some College
+1406,11,< High School
+1407,15,Some College
+1408,12,High School
+1411,12,High School
+1413,12,High School
+1414,14,Some College
+1416,16,4 Years of College
+1417,12,High School
+1418,16,4 Years of College
+1419,14,Some College
+1425,17,> 4 years of college
+1426,16,4 Years of College
+1427,16,4 Years of College
+1428,17,> 4 years of college
+1429,17,> 4 years of college
+1430,13,Some College
+1431,16,4 Years of College
+1432,14,Some College
+1433,12,High School
+1434,12,High School
+1437,15,Some College
+1438,13,Some College
+1440,16,4 Years of College
+1442,13,Some College
+1444,17,> 4 years of college
+1445,19,> 4 years of college
+1447,13,Some College
+1448,17,> 4 years of college
+1449,18,> 4 years of college
+1451,19,> 4 years of college
+1452,16,4 Years of College
+1453,12,High School
+1454,18,> 4 years of college
+1455,14,Some College
+1456,14,Some College
+1458,14,Some College
+1459,15,Some College
+1466,12,High School
+1467,16,4 Years of College
+1468,18,> 4 years of college
+1469,16,4 Years of College
+1470,18,> 4 years of college
+1472,15,Some College
+1474,18,> 4 years of college
+1475,20,> 4 years of college
+1477,20,> 4 years of college
+1478,12,High School
+1479,17,> 4 years of college
+1480,12,High School
+1481,14,Some College
+1482,14,Some College
+1483,17,> 4 years of college
+1484,10,< High School
+1487,17,> 4 years of college
+1489,16,4 Years of College
+1490,12,High School
+1491,20,> 4 years of college
+1493,11,< High School
+1495,16,4 Years of College
+1496,16,4 Years of College
+1499,8,< High School
+1502,14,Some College
+1505,16,4 Years of College
+1506,8,< High School
+1507,15,Some College
+1508,16,4 Years of College
+1509,14,Some College
+1512,14,Some College
+1513,12,High School
+1514,16,4 Years of College
+1516,11,< High School
+1517,16,4 Years of College
+1518,0,< High School
+1519,16,4 Years of College
+1522,13,Some College
+1523,12,High School
+1524,19,> 4 years of college
+1525,18,> 4 years of college
+1528,16,4 Years of College
+1534,12,High School
+1535,12,High School
+1537,16,4 Years of College
+1538,16,4 Years of College
+1539,16,4 Years of College
+1540,16,4 Years of College
+1541,13,Some College
+1542,20,> 4 years of college
+1543,16,4 Years of College
+1547,16,4 Years of College
+1548,14,Some College
+1549,18,> 4 years of college
+1552,12,High School
+1554,17,> 4 years of college
+1555,12,High School
+1557,16,4 Years of College
+1558,13,Some College
+1560,16,4 Years of College
+1561,14,Some College
+1562,12,High School
+1563,12,High School
+1564,16,4 Years of College
+1567,14,Some College
+1568,12,High School
+1569,15,Some College
+1570,11,< High School
+1572,16,4 Years of College
+1573,12,High School
+1575,16,4 Years of College
+1577,9,< High School
+1580,12,High School
+1582,16,4 Years of College
+1584,16,4 Years of College
+1585,18,> 4 years of college
+1586,18,> 4 years of college
+1587,14,Some College
+1588,16,4 Years of College
+1590,14,Some College
+1591,12,High School
+1592,16,4 Years of College
+1593,13,Some College
+1594,16,4 Years of College
+1596,16,4 Years of College
+1597,10,< High School
+1598,12,High School
+1601,14,Some College
+1602,13,Some College
+1603,16,4 Years of College
+1604,16,4 Years of College
+1606,13,Some College
+1607,17,> 4 years of college
+1608,12,High School
+1610,14,Some College
+1612,13,Some College
+1614,11,< High School
+1616,14,Some College
+1617,14,Some College
+1618,18,> 4 years of college
+1619,12,High School
+1620,14,Some College
+1624,11,< High School
+1625,16,4 Years of College
+1626,16,4 Years of College
+1627,20,> 4 years of college
+1628,16,4 Years of College
+1631,11,< High School
+1632,13,Some College
+1634,20,> 4 years of college
+1638,14,Some College
+1640,12,High School
+1643,20,> 4 years of college
+1646,12,High School
+1647,12,High School
+1648,17,> 4 years of college
+1649,15,Some College
+1650,16,4 Years of College
+1653,20,> 4 years of college
+1657,14,Some College
+1658,16,4 Years of College
+1660,14,Some College
+1661,12,High School
+1662,16,4 Years of College
+1664,18,> 4 years of college
+1665,14,Some College
+1669,20,> 4 years of college
+1671,12,High School
+1672,16,4 Years of College
+1673,14,Some College
+1675,12,High School
+1676,9,< High School
+1677,12,High School
+1678,11,< High School
+1681,18,> 4 years of college
+1683,17,> 4 years of college
+1684,18,> 4 years of college
+1685,16,4 Years of College
+1686,16,4 Years of College
+1688,16,4 Years of College
+1689,12,High School
+1691,18,> 4 years of college
+1692,16,4 Years of College
+1694,14,Some College
+1695,13,Some College
+1696,12,High School
+1697,16,4 Years of College
+1699,14,Some College
+1701,13,Some College
+1702,16,4 Years of College
+1703,13,Some College
+1704,16,4 Years of College
+1705,14,Some College
+1707,16,4 Years of College
+1709,18,> 4 years of college
+1710,12,High School
+1711,9,< High School
+1712,12,High School
+1714,13,Some College
+1715,13,Some College
+1716,18,> 4 years of college
+1717,16,4 Years of College
+1719,16,4 Years of College
+1720,14,Some College
+1721,15,Some College
+1722,16,4 Years of College
+1723,16,4 Years of College
+1726,16,4 Years of College
+1727,16,4 Years of College
+1728,18,> 4 years of college
+1729,13,Some College
+1731,18,> 4 years of college
+1733,18,> 4 years of college
+1734,20,> 4 years of college
+1735,12,High School
+1736,18,> 4 years of college
+1741,13,Some College
+1742,15,Some College
+1743,12,High School
+1745,16,4 Years of College
+1746,14,Some College
+1747,16,4 Years of College
+1748,16,4 Years of College
+1750,14,Some College
+1751,14,Some College
+1752,12,High School
+1753,13,Some College
+1754,14,Some College
+1756,16,4 Years of College
+1757,18,> 4 years of college
+1758,16,4 Years of College
+1759,20,> 4 years of college
+1760,12,High School
+1761,16,4 Years of College
+1762,14,Some College
+1764,14,Some College
+1766,16,4 Years of College
+1767,13,Some College
+1769,13,Some College
+1770,14,Some College
+1771,12,High School
+1772,12,High School
+1773,14,Some College
+1774,12,High School
+1776,16,4 Years of College
+1782,12,High School
+1783,17,> 4 years of college
+1784,20,> 4 years of college
+1785,16,4 Years of College
+1786,16,4 Years of College
+1788,20,> 4 years of college
+1789,17,> 4 years of college
+1790,12,High School
+1791,16,4 Years of College
+1792,17,> 4 years of college
+1794,15,Some College
+1796,12,High School
+1797,16,4 Years of College
+1798,16,4 Years of College
+1802,12,High School
+1803,15,Some College
+1806,13,Some College
+1807,16,4 Years of College
+1808,12,High School
+1809,16,4 Years of College
+1811,16,4 Years of College
+1812,13,Some College
+1813,16,4 Years of College
+1814,15,Some College
+1815,12,High School
+1816,12,High School
+1817,16,4 Years of College
+1818,15,Some College
+1819,16,4 Years of College
+1822,14,Some College
+1824,16,4 Years of College
+1826,12,High School
+1827,12,High School
+1829,17,> 4 years of college
+1830,12,High School
+1837,15,Some College
+1838,16,4 Years of College
+1840,12,High School
+1841,11,< High School
+1842,11,< High School
+1845,18,> 4 years of college
+1847,17,> 4 years of college
+1848,16,4 Years of College
+1849,12,High School
+1850,14,Some College
+1851,16,4 Years of College
+1852,16,4 Years of College
+1853,12,High School
+1854,14,Some College
+1856,13,Some College
+1857,16,4 Years of College
+1858,13,Some College
+1859,16,4 Years of College
+1860,20,> 4 years of college
+1861,14,Some College
+1862,14,Some College
+1863,18,> 4 years of college
+1864,18,> 4 years of college
+1865,14,Some College
+1866,10,< High School
+1867,13,Some College
+1868,12,High School
+1869,12,High School
+1871,12,High School
+1872,12,High School
+1875,14,Some College
+1876,12,High School
+1877,14,Some College
+1878,18,> 4 years of college
+1879,12,High School
+1881,12,High School
+1882,16,4 Years of College
+1883,16,4 Years of College
+1884,16,4 Years of College
+1885,12,High School
+1887,13,Some College
+1888,13,Some College
+1889,18,> 4 years of college
+1890,13,Some College
+1891,18,> 4 years of college
+1892,12,High School
+1894,12,High School
+1895,20,> 4 years of college
+1897,14,Some College
+1898,12,High School
+1899,16,4 Years of College
+1901,16,4 Years of College
+1903,12,High School
+1904,15,Some College
+1905,18,> 4 years of college
+1908,17,> 4 years of college
+1909,14,Some College
+1910,19,> 4 years of college
+1912,20,> 4 years of college
+1914,16,4 Years of College
+1915,14,Some College
+1916,16,4 Years of College
+1918,18,> 4 years of college
+1922,20,> 4 years of college
+1923,18,> 4 years of college
+1924,16,4 Years of College
+1925,18,> 4 years of college
+1926,16,4 Years of College
+1929,16,4 Years of College
+1932,14,Some College
+1933,16,4 Years of College
+1934,12,High School
+1935,15,Some College
+1936,16,4 Years of College
+1937,18,> 4 years of college
+1938,18,> 4 years of college
+1939,16,4 Years of College
+1942,15,Some College
+1943,14,Some College
+1946,10,< High School
+1947,12,High School
+1950,16,4 Years of College
+1951,17,> 4 years of college
+1953,16,4 Years of College
+1954,18,> 4 years of college
+1959,12,High School
+1960,19,> 4 years of college
+1961,12,High School
+1962,18,> 4 years of college
+1965,12,High School
+1966,12,High School
+1967,18,> 4 years of college
+1968,13,Some College
+1969,16,4 Years of College
+1970,20,> 4 years of college
+1971,12,High School
+1973,14,Some College
+1976,17,> 4 years of college
+1978,12,High School
+1979,14,Some College
+1980,16,4 Years of College
+1981,14,Some College
+1984,16,4 Years of College
+1985,16,4 Years of College
+1986,20,> 4 years of college
+1988,16,4 Years of College
+1989,16,4 Years of College
+1990,12,High School
+1992,13,Some College
+1993,12,High School
+1996,16,4 Years of College
+1998,13,Some College
+1999,14,Some College
+2000,12,High School
+2001,13,Some College
+2003,16,4 Years of College
+2005,14,Some College
+2011,12,High School
+2012,13,Some College
+2018,12,High School
+2019,16,4 Years of College
+2021,14,Some College
+2022,12,High School
+2023,12,High School
+2027,19,> 4 years of college
+2028,13,Some College
+2029,16,4 Years of College
+2030,12,High School
+2031,12,High School
+2034,19,> 4 years of college
+2035,12,High School
+2036,12,High School
+2037,14,Some College
+2038,16,4 Years of College
+2039,12,High School
+2040,12,High School
+2048,16,4 Years of College
+2049,12,High School
+2050,17,> 4 years of college
+2053,15,Some College
+2057,12,High School
+2058,14,Some College
+2067,13,Some College
+2069,15,Some College
+2070,12,High School
+2071,12,High School
+2072,18,> 4 years of college
+2074,16,4 Years of College
+2076,12,High School
+2077,16,4 Years of College
+2079,17,> 4 years of college
+2080,13,Some College
+2082,12,High School
+2084,11,< High School
+2087,12,High School
+2089,17,> 4 years of college
+2091,16,4 Years of College
+2092,16,4 Years of College
+2094,17,> 4 years of college
+2095,13,Some College
+2097,19,> 4 years of college
+2098,16,4 Years of College
+2100,15,Some College
+2101,14,Some College
+2108,20,> 4 years of college
+2109,16,4 Years of College
+2110,12,High School
+2111,14,Some College
+2112,16,4 Years of College
+2113,11,< High School
+2114,12,High School
+2115,16,4 Years of College
+2118,14,Some College
+2120,16,4 Years of College
+2121,16,4 Years of College
+2122,16,4 Years of College
+2123,16,4 Years of College
+2124,19,> 4 years of college
+2125,12,High School
+2126,15,Some College
+2127,16,4 Years of College
+2129,18,> 4 years of college
+2131,16,4 Years of College
+2132,20,> 4 years of college
+2134,12,High School
+2135,18,> 4 years of college
+2141,20,> 4 years of college
+2142,16,4 Years of College
+2143,16,4 Years of College
+2144,12,High School
+2148,16,4 Years of College
+2150,16,4 Years of College
+2151,18,> 4 years of college
+2152,16,4 Years of College
+2153,17,> 4 years of college
+2154,16,4 Years of College
+2156,18,> 4 years of college
+2157,14,Some College
+2158,14,Some College
+2159,18,> 4 years of college
+2160,12,High School
+2161,14,Some College
+2162,16,4 Years of College
+2163,12,High School
+2164,16,4 Years of College
+2165,20,> 4 years of college
+2166,12,High School
+2169,12,High School
+2170,6,< High School
+2172,16,4 Years of College
+2173,14,Some College
+2175,14,Some College
+2176,11,< High School
+2177,17,> 4 years of college
+2178,16,4 Years of College
+2179,12,High School
+2183,10,< High School
+2184,15,Some College
+2186,16,4 Years of College
+2187,18,> 4 years of college
+2191,20,> 4 years of college
+2194,13,Some College
+2195,20,> 4 years of college
+2197,14,Some College
+2198,12,High School
+2201,20,> 4 years of college
+2202,14,Some College
+2204,15,Some College
+2205,11,< High School
+2207,18,> 4 years of college
+2209,18,> 4 years of college
+2210,13,Some College
+2212,18,> 4 years of college
+2215,18,> 4 years of college
+2217,18,> 4 years of college
+2220,14,Some College
+2221,15,Some College
+2222,14,Some College
+2223,13,Some College
+2224,14,Some College
+2225,20,> 4 years of college
+2228,9,< High School
+2231,14,Some College
+2232,14,Some College
+2233,16,4 Years of College
+2234,16,4 Years of College
+2236,12,High School
+2237,12,High School
+2238,13,Some College
+2239,12,High School
+2241,13,Some College
+2242,10,< High School
+2243,16,4 Years of College
+2244,13,Some College
+2246,20,> 4 years of college
+2247,16,4 Years of College
+2250,16,4 Years of College
+2254,18,> 4 years of college
+2256,16,4 Years of College
+2259,18,> 4 years of college
+2260,16,4 Years of College
+2261,16,4 Years of College
+2262,18,> 4 years of college
+2263,20,> 4 years of college
+2264,18,> 4 years of college
+2265,12,High School
+2266,17,> 4 years of college
+2267,16,4 Years of College
+2269,14,Some College
+2270,17,> 4 years of college
+2271,13,Some College
+2272,12,High School
+2274,15,Some College
+2275,15,Some College
+2276,18,> 4 years of college
+2277,14,Some College
+2279,13,Some College
+2280,12,High School
+2283,14,Some College
+2285,16,4 Years of College
+2286,18,> 4 years of college
+2287,16,4 Years of College
+2288,17,> 4 years of college
+2290,18,> 4 years of college
+2292,15,Some College
+2293,16,4 Years of College
+2294,16,4 Years of College
+2295,12,High School
+2297,13,Some College
+2298,18,> 4 years of college
+2299,20,> 4 years of college
+2301,16,4 Years of College
+2303,14,Some College
+2306,15,Some College
+2307,20,> 4 years of college
+2309,18,> 4 years of college
+2310,14,Some College
+2311,12,High School
+2312,13,Some College
+2313,12,High School
+2314,20,> 4 years of college
+2315,14,Some College
+2316,14,Some College
+2317,13,Some College
+2318,17,> 4 years of college
+2319,16,4 Years of College
+2320,18,> 4 years of college
+2325,16,4 Years of College
+2327,11,< High School
+2330,14,Some College
+2331,19,> 4 years of college
+2332,19,> 4 years of college
+2337,20,> 4 years of college
+2343,16,4 Years of College
+2345,12,High School
+2346,18,> 4 years of college
+2347,17,> 4 years of college
+2349,17,> 4 years of college
+2350,12,High School
+2351,10,< High School
+2354,17,> 4 years of college
+2357,16,4 Years of College
+2358,15,Some College
+2360,12,High School
+2363,13,Some College
+2364,16,4 Years of College
+2366,13,Some College
+2369,17,> 4 years of college
+2371,15,Some College
+2374,15,Some College
+2375,14,Some College
+2379,14,Some College
+2381,12,High School
+2382,14,Some College
+2383,17,> 4 years of college
+2386,12,High School
+2387,16,4 Years of College
+2388,12,High School
+2389,17,> 4 years of college
+2391,16,4 Years of College
+2392,16,4 Years of College
+2393,18,> 4 years of college
+2394,14,Some College
+2396,11,< High School
+2397,20,> 4 years of college
+2404,16,4 Years of College
+2405,18,> 4 years of college
+2406,14,Some College
+2407,12,High School
+2408,16,4 Years of College
+2411,12,High School
+2416,16,4 Years of College
+2417,19,> 4 years of college
+2418,18,> 4 years of college
+2419,14,Some College
+2421,16,4 Years of College
+2422,12,High School
+2424,16,4 Years of College
+2425,14,Some College
+2426,14,Some College
+2433,16,4 Years of College
+2434,16,4 Years of College
+2436,17,> 4 years of college
+2437,16,4 Years of College
+2438,17,> 4 years of college
+2439,16,4 Years of College
+2440,20,> 4 years of college
+2441,17,> 4 years of college
+2443,15,Some College
+2445,14,Some College
+2446,15,Some College
+2447,0,< High School
+2448,17,> 4 years of college
+2449,14,Some College
+2450,15,Some College
+2451,12,High School
+2454,15,Some College
+2455,13,Some College
+2457,13,Some College
+2459,16,4 Years of College
+2460,12,High School
+2463,16,4 Years of College
+2465,12,High School
+2466,12,High School
+2467,16,4 Years of College
+2468,16,4 Years of College
+2469,20,> 4 years of college
+2470,14,Some College
+2471,18,> 4 years of college
+2472,14,Some College
+2474,16,4 Years of College
+2475,12,High School
+2478,20,> 4 years of college
+2479,20,> 4 years of college
+2481,17,> 4 years of college
+2487,14,Some College
+2488,20,> 4 years of college
+2489,14,Some College
+2490,14,Some College
+2494,20,> 4 years of college
+2495,13,Some College
+2496,17,> 4 years of college
+2497,18,> 4 years of college
+2498,20,> 4 years of college
+2499,20,> 4 years of college
+2501,12,High School
+2502,16,4 Years of College
+2503,17,> 4 years of college
+2504,17,> 4 years of college
+2505,17,> 4 years of college
+2506,14,Some College
+2507,16,4 Years of College
+2511,16,4 Years of College
+2514,20,> 4 years of college
+2515,12,High School
+2516,17,> 4 years of college
+2517,14,Some College
+2519,17,> 4 years of college
+2520,16,4 Years of College
+2521,14,Some College
+2522,18,> 4 years of college
+2524,16,4 Years of College
+2525,16,4 Years of College
+2526,16,4 Years of College
+2527,12,High School
+2528,12,High School
+2529,16,4 Years of College
+2530,14,Some College
+2531,14,Some College
+2537,12,High School
+2539,12,High School
+2540,14,Some College
+2541,20,> 4 years of college
+2542,18,> 4 years of college
+2544,14,Some College
+2547,14,Some College
+2548,13,Some College
+2550,20,> 4 years of college
+2551,16,4 Years of College
+2552,15,Some College
+2555,11,< High School
+2556,20,> 4 years of college
+2557,16,4 Years of College
+2559,16,4 Years of College
+2560,16,4 Years of College
+2561,17,> 4 years of college
+2565,14,Some College
+2567,12,High School
+2568,14,Some College
+2569,10,< High School
+2571,16,4 Years of College
+2572,12,High School
+2573,8,< High School
+2574,20,> 4 years of college
+2575,13,Some College
+2576,6,< High School
+2578,16,4 Years of College
+2579,16,4 Years of College
+2580,16,4 Years of College
+2581,16,4 Years of College
+2582,17,> 4 years of college
+2583,17,> 4 years of college
+2584,12,High School
+2585,12,High School
+2586,20,> 4 years of college
+2587,12,High School
+2589,12,High School
+2590,12,High School
+2591,17,> 4 years of college
+2592,20,> 4 years of college
+2593,20,> 4 years of college
+2594,16,4 Years of College
+2595,16,4 Years of College
+2596,16,4 Years of College
+2598,17,> 4 years of college
+2599,16,4 Years of College
+2600,14,Some College
+2601,17,> 4 years of college
+2602,18,> 4 years of college
+2604,16,4 Years of College
+2606,12,High School
+2607,12,High School
+2608,16,4 Years of College
+2609,17,> 4 years of college
+2611,19,> 4 years of college
+2612,20,> 4 years of college
+2613,13,Some College
+2614,12,High School
+2615,14,Some College
+2617,12,High School
+2618,16,4 Years of College
+2619,16,4 Years of College
+2620,12,High School
+2621,16,4 Years of College
+2623,12,High School
+2624,16,4 Years of College
+2626,12,High School
+2627,12,High School
+2629,16,4 Years of College
+2630,19,> 4 years of college
+2631,13,Some College
+2632,16,4 Years of College
+2634,13,Some College
+2635,16,4 Years of College
+2636,12,High School
+2637,14,Some College
+2639,16,4 Years of College
+2640,16,4 Years of College
+2642,14,Some College
+2643,14,Some College
+2644,14,Some College
+2645,15,Some College
+2648,18,> 4 years of college
+2649,14,Some College
+2650,13,Some College
+2651,12,High School
+2652,19,> 4 years of college
+2653,20,> 4 years of college
+2655,8,< High School
+2656,17,> 4 years of college
+2658,17,> 4 years of college
+2660,10,< High School
+2661,13,Some College
+2662,12,High School
+2664,18,> 4 years of college
+2665,12,High School
+2666,13,Some College
+2668,12,High School
+2671,16,4 Years of College
+2674,16,4 Years of College
+2675,19,> 4 years of college
+2678,15,Some College
+2679,12,High School
+2680,12,High School
+2681,12,High School
+2682,12,High School
+2684,12,High School
+2685,14,Some College
+2686,16,4 Years of College
+2687,16,4 Years of College
+2688,13,Some College
+2689,16,4 Years of College
+2690,18,> 4 years of college
+2692,18,> 4 years of college
+2695,14,Some College
+2696,12,High School
+2698,17,> 4 years of college
+2699,16,4 Years of College
+2700,16,4 Years of College
+2702,15,Some College
+2703,16,4 Years of College
+2705,16,4 Years of College
+2706,12,High School
+2707,18,> 4 years of college
+2710,16,4 Years of College
+2711,16,4 Years of College
+2712,14,Some College
+2713,16,4 Years of College
+2714,14,Some College
+2717,18,> 4 years of college
+2718,12,High School
+2722,16,4 Years of College
+2723,16,4 Years of College
+2725,16,4 Years of College
+2726,16,4 Years of College
+2727,16,4 Years of College
+2729,9,< High School
+2733,14,Some College
+2734,18,> 4 years of college
+2735,13,Some College
+2736,2,< High School
+2737,16,4 Years of College
+2738,13,Some College
+2740,12,High School
+2742,20,> 4 years of college
+2743,12,High School
+2745,13,Some College
+2746,12,High School
+2747,18,> 4 years of college
+2748,11,< High School
+2749,20,> 4 years of college
+2750,12,High School
+2751,13,Some College
+2754,12,High School
+2759,19,> 4 years of college
+2760,14,Some College
+2761,17,> 4 years of college
+2762,12,High School
+2763,14,Some College
+2764,13,Some College
+2766,12,High School
+2771,16,4 Years of College
+2772,12,High School
+2773,12,High School
+2774,17,> 4 years of college
+2776,16,4 Years of College
+2777,16,4 Years of College
+2778,13,Some College
+2781,13,Some College
+2784,12,High School
+2785,16,4 Years of College
+2786,12,High School
+2787,18,> 4 years of college
+2790,20,> 4 years of college
+2791,12,High School
+2793,14,Some College
+2794,16,4 Years of College
+2797,18,> 4 years of college
+2800,11,< High School
+2801,12,High School
+2804,16,4 Years of College
+2805,18,> 4 years of college
+2806,17,> 4 years of college
+2807,16,4 Years of College
+2809,17,> 4 years of college
+2810,14,Some College
+2813,14,Some College
+2816,8,< High School
+2817,12,High School
+2819,16,4 Years of College
+2820,12,High School
+2821,16,4 Years of College
+2822,12,High School
+2824,20,> 4 years of college
+2825,18,> 4 years of college
+2826,12,High School
+2828,3,< High School
+2829,9,< High School
+2831,12,High School
+2832,14,Some College
+2833,13,Some College
+2835,16,4 Years of College
+2836,14,Some College
+2838,17,> 4 years of college
+2839,14,Some College
+2840,16,4 Years of College
+2841,12,High School
+2843,20,> 4 years of college
+2844,17,> 4 years of college
+2846,16,4 Years of College
+2847,17,> 4 years of college
+2848,18,> 4 years of college
+2849,18,> 4 years of college
+2850,16,4 Years of College
+2852,15,Some College
+2853,16,4 Years of College
+2854,17,> 4 years of college
+2857,16,4 Years of College
+2858,14,Some College
+2859,13,Some College
+2860,14,Some College
+2861,12,High School
+2864,16,4 Years of College
+2865,12,High School
+2866,15,Some College
+2867,17,> 4 years of college
+2869,18,> 4 years of college
+2870,20,> 4 years of college
+2871,9,< High School
+2872,15,Some College
+2873,20,> 4 years of college
+2874,18,> 4 years of college
+2875,16,4 Years of College
+2876,12,High School
+2877,12,High School
+2878,13,Some College
+2880,12,High School
+2882,16,4 Years of College
+2883,14,Some College
+2886,16,4 Years of College
+2887,16,4 Years of College
+2889,12,High School
+2891,14,Some College
+2892,14,Some College
+2895,12,High School
+2896,14,Some College
+2897,13,Some College
+2898,9,< High School
+2900,17,> 4 years of college
+2901,18,> 4 years of college
+2902,19,> 4 years of college
+2903,12,High School
+2905,19,> 4 years of college
+2909,18,> 4 years of college
+2910,19,> 4 years of college
+2911,12,High School
+2912,15,Some College
+2914,16,4 Years of College
+2915,16,4 Years of College
+2918,12,High School
+2919,12,High School
+2920,16,4 Years of College
+2921,16,4 Years of College
+2922,13,Some College
+2923,17,> 4 years of college
+2925,14,Some College
+2926,17,> 4 years of college
+2927,16,4 Years of College
+2928,17,> 4 years of college
+2929,14,Some College
+2930,17,> 4 years of college
+2931,18,> 4 years of college
+2936,19,> 4 years of college
+2937,19,> 4 years of college
+2938,14,Some College
+2940,16,4 Years of College
+2941,12,High School
+2943,18,> 4 years of college
+2944,18,> 4 years of college
+2945,12,High School
+2946,14,Some College
+2948,18,> 4 years of college
+2949,20,> 4 years of college
+2950,17,> 4 years of college
+2951,12,High School
+2952,15,Some College
+2953,12,High School
+2954,13,Some College
+2957,16,4 Years of College
+2960,14,Some College
+2962,18,> 4 years of college
+2964,16,4 Years of College
+2965,17,> 4 years of college
+2967,14,Some College
+2968,12,High School
+2972,16,4 Years of College
+2973,12,High School
+2974,16,4 Years of College
+2975,12,High School
+2978,16,4 Years of College
+2979,14,Some College
+2980,14,Some College
+2981,12,High School
+2984,17,> 4 years of college
+2985,12,High School
+2988,14,Some College
+2990,13,Some College
+2992,12,High School
+2993,16,4 Years of College
+2994,15,Some College
+2995,13,Some College
+2996,12,High School
+2998,12,High School
+2999,16,4 Years of College
+3000,16,4 Years of College
+3002,16,4 Years of College
+3003,20,> 4 years of college
+3005,16,4 Years of College
+3007,16,4 Years of College
+3008,13,Some College
+3009,12,High School
+3011,16,4 Years of College
+3012,18,> 4 years of college
+3014,9,< High School
+3015,12,High School
+3016,16,4 Years of College
+3019,16,4 Years of College
+3020,20,> 4 years of college
+3021,13,Some College
+3022,19,> 4 years of college
+3023,16,4 Years of College
+3024,15,Some College
+3025,14,Some College
+3028,14,Some College
+3030,16,4 Years of College
+3033,18,> 4 years of college
+3035,14,Some College
+3036,16,4 Years of College
+3038,12,High School
+3040,12,High School
+3043,17,> 4 years of college
+3044,18,> 4 years of college
+3045,12,High School
+3046,12,High School
+3047,17,> 4 years of college
+3049,12,High School
+3050,20,> 4 years of college
+3051,15,Some College
+3052,19,> 4 years of college
+3053,13,Some College
+3054,16,4 Years of College
+3055,12,High School
+3056,12,High School
+3057,14,Some College
+3060,19,> 4 years of college
+3061,14,Some College
+3062,17,> 4 years of college
+3063,16,4 Years of College
+3064,11,< High School
+3065,12,High School
+3066,16,4 Years of College
+3067,12,High School
+3068,16,4 Years of College
+3070,16,4 Years of College
+3071,17,> 4 years of college
+3072,16,4 Years of College
+3074,13,Some College
+3075,18,> 4 years of college
+3076,16,4 Years of College
+3077,12,High School
+3078,12,High School
+3079,16,4 Years of College
+3080,14,Some College
+3081,16,4 Years of College
+3083,18,> 4 years of college
+3084,17,> 4 years of college
+3085,20,> 4 years of college
+3088,12,High School
+3091,18,> 4 years of college
+3094,14,Some College
+3097,14,Some College
+3098,12,High School
+3100,17,> 4 years of college
+3101,18,> 4 years of college
+3103,13,Some College
+3104,20,> 4 years of college
+3105,16,4 Years of College
+3109,16,4 Years of College
+3112,16,4 Years of College
+3114,15,Some College
+3116,14,Some College
+3117,19,> 4 years of college
+3119,16,4 Years of College
+3120,18,> 4 years of college
+3121,14,Some College
+3124,14,Some College
+3125,17,> 4 years of college
+3127,16,4 Years of College
+3130,16,4 Years of College
+3132,16,4 Years of College
+3133,17,> 4 years of college
+3134,7,< High School
+3138,18,> 4 years of college
+3139,16,4 Years of College
+3140,13,Some College
+3141,20,> 4 years of college
+3142,16,4 Years of College
+3144,15,Some College
+3146,15,Some College
+3147,16,4 Years of College
+3149,14,Some College
+3150,17,> 4 years of college
+3151,18,> 4 years of college
+3152,18,> 4 years of college
+3153,19,> 4 years of college
+3154,17,> 4 years of college
+3155,16,4 Years of College
+3159,14,Some College
+3160,13,Some College
+3161,9,< High School
+3162,14,Some College
+3163,12,High School
+3164,18,> 4 years of college
+3167,17,> 4 years of college
+3170,20,> 4 years of college
+3173,14,Some College
+3174,12,High School
+3176,12,High School
+3177,14,Some College
+3178,16,4 Years of College
+3179,16,4 Years of College
+3180,10,< High School
+3181,16,4 Years of College
+3182,20,> 4 years of college
+3186,20,> 4 years of college
+3187,18,> 4 years of college
+3191,16,4 Years of College
+3193,16,4 Years of College
+3194,12,High School
+3195,19,> 4 years of college
+3197,9,< High School
+3198,14,Some College
+3200,16,4 Years of College
+3201,8,< High School
+3205,17,> 4 years of college
+3206,12,High School
+3207,12,High School
+3208,12,High School
+3209,6,< High School
+3210,16,4 Years of College
+3211,17,> 4 years of college
+3213,16,4 Years of College
+3214,13,Some College
+3215,16,4 Years of College
+3218,18,> 4 years of college
+3219,19,> 4 years of college
+3221,19,> 4 years of college
+3222,19,> 4 years of college
+3224,14,Some College
+3225,12,High School
+3229,11,< High School
+3230,14,Some College
+3232,16,4 Years of College
+3233,16,4 Years of College
+3238,16,4 Years of College
+3239,16,4 Years of College
+3242,14,Some College
+3243,13,Some College
+3244,16,4 Years of College
+3245,12,High School
+3246,15,Some College
+3248,20,> 4 years of college
+3249,16,4 Years of College
+3250,17,> 4 years of college
+3253,12,High School
+3254,16,4 Years of College
+3255,12,High School
+3256,12,High School
+3258,12,High School
+3260,16,4 Years of College
+3261,19,> 4 years of college
+3263,17,> 4 years of college
+3264,12,High School
+3265,16,4 Years of College
+3266,20,> 4 years of college
+3268,12,High School
+3269,17,> 4 years of college
+3271,16,4 Years of College
+3272,19,> 4 years of college
+3273,18,> 4 years of college
+3274,16,4 Years of College
+3275,18,> 4 years of college
+3276,14,Some College
+3283,18,> 4 years of college
+3286,12,High School
+3287,14,Some College
+3288,17,> 4 years of college
+3289,16,4 Years of College
+3291,12,High School
+3292,12,High School
+3293,14,Some College
+3295,18,> 4 years of college
+3297,17,> 4 years of college
+3298,12,High School
+3299,19,> 4 years of college
+3302,12,High School
+3303,20,> 4 years of college
+3305,14,Some College
+3307,17,> 4 years of college
+3310,14,Some College
+3312,12,High School
+3313,16,4 Years of College
+3314,20,> 4 years of college
+3315,16,4 Years of College
+3316,17,> 4 years of college
+3317,10,< High School
+3318,16,4 Years of College
+3320,16,4 Years of College
+3321,20,> 4 years of college
+3322,13,Some College
+3323,12,High School
+3326,17,> 4 years of college
+3328,14,Some College
+3330,15,Some College
+3331,20,> 4 years of college
+3332,17,> 4 years of college
+3333,16,4 Years of College
+3335,16,4 Years of College
+3337,16,4 Years of College
+3339,15,Some College
+3340,12,High School
+3341,15,Some College
+3343,12,High School
+3344,18,> 4 years of college
+3347,12,High School
+3348,17,> 4 years of college
+3349,16,4 Years of College
+3351,20,> 4 years of college
+3352,16,4 Years of College
+3354,19,> 4 years of college
+3355,20,> 4 years of college
+3356,17,> 4 years of college
+3357,10,< High School
+3360,16,4 Years of College
+3362,19,> 4 years of college
+3363,15,Some College
+3365,18,> 4 years of college
+3367,16,4 Years of College
+3368,18,> 4 years of college
+3371,15,Some College
+3372,15,Some College
+3373,16,4 Years of College
+3374,14,Some College
+3376,12,High School
+3377,12,High School
+3378,18,> 4 years of college
+3379,12,High School
+3384,12,High School
+3385,16,4 Years of College
+3386,16,4 Years of College
+3388,14,Some College
+3389,18,> 4 years of college
+3393,20,> 4 years of college
+3394,12,High School
+3395,14,Some College
+3396,17,> 4 years of college
+3397,15,Some College
+3398,16,4 Years of College
+3400,12,High School
+3401,13,Some College
+3403,17,> 4 years of college
+3404,13,Some College
+3407,16,4 Years of College
+3408,20,> 4 years of college
+3409,18,> 4 years of college
+3410,15,Some College
+3411,18,> 4 years of college
+3413,12,High School
+3414,20,> 4 years of college
+3415,12,High School
+3416,17,> 4 years of college
+3418,18,> 4 years of college
+3420,14,Some College
+3421,13,Some College
+3423,17,> 4 years of college
+3424,12,High School
+3425,17,> 4 years of college
+3426,19,> 4 years of college
+3428,16,4 Years of College
+3429,13,Some College
+3430,12,High School
+3431,13,Some College
+3432,15,Some College
+3433,13,Some College
+3436,13,Some College
+3438,16,4 Years of College
+3440,20,> 4 years of college
+3441,20,> 4 years of college
+3444,16,4 Years of College
+3446,15,Some College
+3447,16,4 Years of College
+3448,12,High School
+3449,16,4 Years of College
+3450,13,Some College
+3452,12,High School
+3453,13,Some College
+3455,14,Some College
+3456,16,4 Years of College
+3458,15,Some College
+3461,14,Some College
+3462,14,Some College
+3465,17,> 4 years of college
+3466,20,> 4 years of college
+3469,14,Some College
+3473,12,High School
+3475,13,Some College
+3476,16,4 Years of College
+3477,12,High School
+3480,18,> 4 years of college
+3481,14,Some College
+3482,16,4 Years of College
+3483,16,4 Years of College
+3485,12,High School
+3487,16,4 Years of College
+3490,18,> 4 years of college
+3491,11,< High School
+3492,20,> 4 years of college
+3493,16,4 Years of College
+3494,12,High School
+3495,20,> 4 years of college
+3496,14,Some College
+3500,20,> 4 years of college
+3501,16,4 Years of College
+3503,15,Some College
+3504,11,< High School
+3505,20,> 4 years of college
+3506,14,Some College
+3507,13,Some College
+3508,17,> 4 years of college
+3509,16,4 Years of College
+3510,16,4 Years of College
+3511,18,> 4 years of college
+3513,18,> 4 years of college
+3514,14,Some College
+3516,16,4 Years of College
+3517,16,4 Years of College
+3521,13,Some College
+3523,12,High School
+3524,12,High School
+3525,17,> 4 years of college
+3526,19,> 4 years of college
+3527,14,Some College
+3529,12,High School
+3530,20,> 4 years of college
+3531,15,Some College
+3532,14,Some College
+3533,18,> 4 years of college
+3534,14,Some College
+3537,14,Some College
+3538,20,> 4 years of college
+3539,20,> 4 years of college
+3540,16,4 Years of College
+3542,20,> 4 years of college
+3544,15,Some College
+3546,8,< High School
+3548,14,Some College
+3550,14,Some College
+3551,20,> 4 years of college
+3557,18,> 4 years of college
+3558,16,4 Years of College
+3559,17,> 4 years of college
+3561,16,4 Years of College
+3564,12,High School
+3565,15,Some College
+3566,17,> 4 years of college
+3568,18,> 4 years of college
+3570,14,Some College
+3571,18,> 4 years of college
+3572,16,4 Years of College
+3573,14,Some College
+3576,14,Some College
+3577,16,4 Years of College
+3578,20,> 4 years of college
+3579,12,High School
+3580,17,> 4 years of college
+3581,16,4 Years of College
+3584,14,Some College
+3586,16,4 Years of College
+3587,12,High School
+3588,18,> 4 years of college
+3589,14,Some College
+3590,16,4 Years of College
+3592,16,4 Years of College
+3596,12,High School
+3597,16,4 Years of College
+3598,13,Some College
+3603,16,4 Years of College
+3604,20,> 4 years of college
+3605,13,Some College
+3608,15,Some College
+3609,16,4 Years of College
+3610,11,< High School
+3615,13,Some College
+3616,14,Some College
+3617,16,4 Years of College
+3618,18,> 4 years of college
+3619,12,High School
+3620,18,> 4 years of college
+3623,13,Some College
+3626,12,High School
+3627,18,> 4 years of college
+3630,14,Some College
+3631,16,4 Years of College
+3632,12,High School
+3635,17,> 4 years of college
+3636,12,High School
+3637,14,Some College
+3638,17,> 4 years of college
+3639,13,Some College
+3641,16,4 Years of College
+3643,16,4 Years of College
+3645,16,4 Years of College
+3646,16,4 Years of College
+3649,14,Some College
+3650,12,High School
+3651,18,> 4 years of college
+3652,16,4 Years of College
+3653,13,Some College
+3656,14,Some College
+3657,16,4 Years of College
+3659,16,4 Years of College
+3660,18,> 4 years of college
+3661,16,4 Years of College
+3662,12,High School
+3664,16,4 Years of College
+3666,12,High School
+3667,16,4 Years of College
+3668,14,Some College
+3670,15,Some College
+3672,8,< High School
+3673,18,> 4 years of college
+3674,15,Some College
+3675,10,< High School
+3677,18,> 4 years of college
+3678,19,> 4 years of college
+3679,19,> 4 years of college
+3680,20,> 4 years of college
+3681,16,4 Years of College
+3686,12,High School
+3688,16,4 Years of College
+3689,17,> 4 years of college
+3691,19,> 4 years of college
+3692,20,> 4 years of college
+3693,16,4 Years of College
+3694,16,4 Years of College
+3695,19,> 4 years of college
+3700,12,High School
+3701,12,High School
+3702,16,4 Years of College
+3703,14,Some College
+3705,18,> 4 years of college
+3706,17,> 4 years of college
+3708,16,4 Years of College
+3709,14,Some College
+3710,20,> 4 years of college
+3711,12,High School
+3712,16,4 Years of College
+3713,14,Some College
+3714,17,> 4 years of college
+3715,12,High School
+3717,14,Some College
+3718,14,Some College
+3724,12,High School
+3725,12,High School
+3727,12,High School
+3728,16,4 Years of College
+3729,15,Some College
+3731,16,4 Years of College
+3732,12,High School
+3733,12,High School
+3735,16,4 Years of College
+3736,16,4 Years of College
+3737,13,Some College
+3739,8,< High School
+3741,12,High School
+3742,17,> 4 years of college
+3743,16,4 Years of College
+3745,13,Some College
+3746,13,Some College
+3747,20,> 4 years of college
+3748,13,Some College
+3749,11,< High School
+3751,18,> 4 years of college
+3752,16,4 Years of College
+3753,16,4 Years of College
+3754,13,Some College
+3755,13,Some College
+3756,14,Some College
+3757,18,> 4 years of college
+3758,16,4 Years of College
+3759,18,> 4 years of college
+3760,16,4 Years of College
+3762,15,Some College
+3764,12,High School
+3765,16,4 Years of College
+3767,16,4 Years of College
+3768,18,> 4 years of college
+3771,16,4 Years of College
+3772,15,Some College
+3773,16,4 Years of College
+3774,12,High School
+3776,13,Some College
+3777,13,Some College
+3780,13,Some College
+3784,14,Some College
+3786,12,High School
+3787,16,4 Years of College
+3789,12,High School
+3790,18,> 4 years of college
+3795,17,> 4 years of college
+3796,20,> 4 years of college
+3799,16,4 Years of College
+3804,16,4 Years of College
+3805,17,> 4 years of college
+3806,15,Some College
+3807,16,4 Years of College
+3810,18,> 4 years of college
+3811,14,Some College
+3814,12,High School
+3815,14,Some College
+3817,16,4 Years of College
+3819,14,Some College
+3820,15,Some College
+3821,15,Some College
+3823,16,4 Years of College
+3824,16,4 Years of College
+3825,20,> 4 years of college
+3827,16,4 Years of College
+3829,16,4 Years of College
+3832,12,High School
+3834,16,4 Years of College
+3835,12,High School
+3837,16,4 Years of College
+3840,14,Some College
+3843,16,4 Years of College
+3844,13,Some College
+3845,16,4 Years of College
+3848,14,Some College
+3849,16,4 Years of College
+3850,12,High School
+3851,13,Some College
+3853,16,4 Years of College
+3855,16,4 Years of College
+3857,12,High School
+3858,13,Some College
+3859,16,4 Years of College
+3860,18,> 4 years of college
+3861,16,4 Years of College
+3862,14,Some College
+3863,12,High School
+3864,19,> 4 years of college
+3865,17,> 4 years of college
+3866,12,High School
+3868,18,> 4 years of college
+3874,12,High School
+3875,18,> 4 years of college
+3876,18,> 4 years of college
+3877,18,> 4 years of college
+3878,12,High School
+3881,12,High School
+3883,20,> 4 years of college
+3884,16,4 Years of College
+3885,16,4 Years of College
+3886,16,4 Years of College
+3889,17,> 4 years of college
+3890,17,> 4 years of college
+3891,19,> 4 years of college
+3892,12,High School
+3894,14,Some College
+3895,18,> 4 years of college
+3896,16,4 Years of College
+3897,18,> 4 years of college
+3899,9,< High School
+3901,14,Some College
+3906,12,High School
+3908,16,4 Years of College
+3911,15,Some College
+3912,16,4 Years of College
+3913,6,< High School
+3914,14,Some College
+3915,16,4 Years of College
+3918,20,> 4 years of college
+3920,17,> 4 years of college
+3921,17,> 4 years of college
+3922,18,> 4 years of college
+3923,14,Some College
+3924,12,High School
+3925,20,> 4 years of college
+3926,10,< High School
+3928,16,4 Years of College
+3930,15,Some College
+3932,18,> 4 years of college
+3934,16,4 Years of College
+3935,16,4 Years of College
+3936,16,4 Years of College
+3937,13,Some College
+3938,19,> 4 years of college
+3943,15,Some College
+3944,16,4 Years of College
+3945,16,4 Years of College
+3946,16,4 Years of College
+3949,20,> 4 years of college
+3950,19,> 4 years of college
+3951,16,4 Years of College
+3953,18,> 4 years of college
+3954,13,Some College
+3955,13,Some College
+3956,16,4 Years of College
+3958,12,High School
+3959,13,Some College
+3963,16,4 Years of College
+3964,18,> 4 years of college
+3965,12,High School
+3966,20,> 4 years of college
+3973,20,> 4 years of college
+3974,14,Some College
+3975,16,4 Years of College
+3976,16,4 Years of College
+3977,12,High School
+3978,12,High School
+3979,12,High School
+3980,16,4 Years of College
+3981,12,High School
+3982,16,4 Years of College
+3983,17,> 4 years of college
+3986,16,4 Years of College
+3988,16,4 Years of College
+3989,16,4 Years of College
+3990,18,> 4 years of college
+3992,18,> 4 years of college
+3995,17,> 4 years of college
+3996,13,Some College
+3997,12,High School
+3998,17,> 4 years of college
+3999,14,Some College
+4001,15,Some College
+4002,18,> 4 years of college
+4003,17,> 4 years of college
+4006,18,> 4 years of college
+4007,16,4 Years of College
+4008,15,Some College
+4010,12,High School
+4012,15,Some College
+4013,13,Some College
+4015,20,> 4 years of college
+4016,12,High School
+4018,16,4 Years of College
+4019,12,High School
+4020,16,4 Years of College
+4021,16,4 Years of College
+4023,13,Some College
+4024,12,High School
+4026,16,4 Years of College
+4027,16,4 Years of College
+4028,14,Some College
+4029,14,Some College
+4031,18,> 4 years of college
+4033,14,Some College
+4035,16,4 Years of College
+4039,18,> 4 years of college
+4042,12,High School
+4043,14,Some College
+4045,12,High School
+4046,12,High School
+4050,14,Some College
+4052,16,4 Years of College
+4053,12,High School
+4055,16,4 Years of College
+4056,13,Some College
+4058,18,> 4 years of college
+4059,16,4 Years of College
+4060,18,> 4 years of college
+4061,12,High School
+4062,20,> 4 years of college
+4064,16,4 Years of College
+4066,16,4 Years of College
+4070,15,Some College
+4071,16,4 Years of College
+4072,12,High School
+4073,12,High School
+4074,17,> 4 years of college
+4076,16,4 Years of College
+4077,10,< High School
+4079,13,Some College
+4080,12,High School
+4081,16,4 Years of College
+4082,15,Some College
+4084,16,4 Years of College
+4085,16,4 Years of College
+4086,12,High School
+4087,13,Some College
+4089,18,> 4 years of college
+4090,16,4 Years of College
+4094,13,Some College
+4095,13,Some College
+4096,13,Some College
+4097,8,< High School
+4098,17,> 4 years of college
+4100,18,> 4 years of college
+4101,18,> 4 years of college
+4102,12,High School
+4103,12,High School
+4105,14,Some College
+4106,16,4 Years of College
+4107,12,High School
+4110,12,High School
+4112,16,4 Years of College
+4113,12,High School
+4116,18,> 4 years of college
+4117,16,4 Years of College
+4118,16,4 Years of College
+4121,16,4 Years of College
+4122,18,> 4 years of college
+4124,9,< High School
+4125,16,4 Years of College
+4128,12,High School
+4129,16,4 Years of College
+4130,16,4 Years of College
+4132,12,High School
+4135,15,Some College
+4136,5,< High School
+4137,18,> 4 years of college
+4138,20,> 4 years of college
+4139,16,4 Years of College
+4140,12,High School
+4141,12,High School
+4142,14,Some College
+4143,16,4 Years of College
+4144,19,> 4 years of college
+4145,12,High School
+4147,12,High School
+4148,16,4 Years of College
+4150,16,4 Years of College
+4152,12,High School
+4153,14,Some College
+4154,20,> 4 years of college
+4155,12,High School
+4156,16,4 Years of College
+4157,14,Some College
+4158,14,Some College
+4160,15,Some College
+4161,16,4 Years of College
+4164,20,> 4 years of college
+4165,18,> 4 years of college
+4168,14,Some College
+4170,18,> 4 years of college
+4171,12,High School
+4172,16,4 Years of College
+4173,16,4 Years of College
+4174,17,> 4 years of college
+4175,14,Some College
+4179,12,High School
+4180,12,High School
+4181,13,Some College
+4182,16,4 Years of College
+4183,15,Some College
+4184,18,> 4 years of college
+4185,18,> 4 years of college
+4190,16,4 Years of College
+4191,18,> 4 years of college
+4193,12,High School
+4194,12,High School
+4196,17,> 4 years of college
+4197,17,> 4 years of college
+4198,17,> 4 years of college
+4199,16,4 Years of College
+4200,18,> 4 years of college
+4201,19,> 4 years of college
+4202,16,4 Years of College
+4204,20,> 4 years of college
+4205,19,> 4 years of college
+4208,16,4 Years of College
+4210,12,High School
+4211,14,Some College
+4214,16,4 Years of College
+4215,13,Some College
+4217,12,High School
+4220,16,4 Years of College
+4221,18,> 4 years of college
+4222,14,Some College
+4223,19,> 4 years of college
+4225,12,High School
+4227,14,Some College
+4228,16,4 Years of College
+4229,14,Some College
+4231,17,> 4 years of college
+4235,15,Some College
+4236,16,4 Years of College
+4238,18,> 4 years of college
+4239,14,Some College
+4240,12,High School
+4241,14,Some College
+4242,17,> 4 years of college
+4243,20,> 4 years of college
+4244,16,4 Years of College
+4246,16,4 Years of College
+4247,14,Some College
+4248,18,> 4 years of college
+4249,16,4 Years of College
+4250,16,4 Years of College
+4251,12,High School
+4253,13,Some College
+4254,17,> 4 years of college
+4255,16,4 Years of College
+4256,19,> 4 years of college
+4257,16,4 Years of College
+4258,12,High School
+4260,15,Some College
+4262,18,> 4 years of college
+4263,17,> 4 years of college
+4265,13,Some College
+4266,16,4 Years of College
+4267,16,4 Years of College
+4268,19,> 4 years of college
+4272,18,> 4 years of college
+4277,12,High School
+4279,8,< High School
+4280,12,High School
+4281,13,Some College
+4282,16,4 Years of College
+4283,12,High School
+4284,12,High School
+4287,17,> 4 years of college
+4288,17,> 4 years of college
+4289,16,4 Years of College
+4290,14,Some College
+4293,15,Some College
+4296,12,High School
+4297,16,4 Years of College
+4304,18,> 4 years of college
+4305,12,High School
+4307,20,> 4 years of college
+4308,16,4 Years of College
+4311,14,Some College
+4312,12,High School
+4313,14,Some College
+4314,16,4 Years of College
+4315,14,Some College
+4316,14,Some College
+4320,17,> 4 years of college
+4323,17,> 4 years of college
+4324,16,4 Years of College
+4325,16,4 Years of College
+4326,14,Some College
+4327,16,4 Years of College
+4328,16,4 Years of College
+4329,16,4 Years of College
+4331,17,> 4 years of college
+4332,16,4 Years of College
+4333,11,< High School
+4334,19,> 4 years of college
+4336,11,< High School
+4337,13,Some College
+4338,20,> 4 years of college
+4340,18,> 4 years of college
+4342,18,> 4 years of college
+4344,16,4 Years of College
+4345,16,4 Years of College
+4347,20,> 4 years of college
+4348,11,< High School
+4349,12,High School
+4352,19,> 4 years of college
+4353,18,> 4 years of college
+4354,16,4 Years of College
+4355,12,High School
+4356,17,> 4 years of college
+4358,16,4 Years of College
+4359,12,High School
+4360,16,4 Years of College
+4361,20,> 4 years of college
+4364,11,< High School
+4366,12,High School
+4367,14,Some College
+4368,15,Some College
+4369,16,4 Years of College
+4370,13,Some College
+4373,10,< High School
+4374,20,> 4 years of college
+4375,16,4 Years of College
+4376,13,Some College
+4377,16,4 Years of College
+4378,16,4 Years of College
+4379,18,> 4 years of college
+4380,12,High School
+4381,19,> 4 years of college
+4382,9,< High School
+4384,20,> 4 years of college
+4385,12,High School
+4386,20,> 4 years of college
+4388,12,High School
+4391,15,Some College
+4392,16,4 Years of College
+4395,16,4 Years of College
+4396,16,4 Years of College
+4397,17,> 4 years of college
+4399,18,> 4 years of college
+4401,16,4 Years of College
+4402,18,> 4 years of college
+4404,16,4 Years of College
+4406,16,4 Years of College
+4407,15,Some College
+4409,16,4 Years of College
+4411,16,4 Years of College
+4412,17,> 4 years of college
+4414,12,High School
+4416,14,Some College
+4417,16,4 Years of College
+4418,12,High School
+4419,16,4 Years of College
+4423,20,> 4 years of college
+4425,14,Some College
+4427,16,4 Years of College
+4428,17,> 4 years of college
+4429,19,> 4 years of college
+4430,16,4 Years of College
+4433,20,> 4 years of college
+4436,16,4 Years of College
+4437,16,4 Years of College
+4439,16,4 Years of College
+4440,16,4 Years of College
+4441,12,High School
+4442,12,High School
+4443,20,> 4 years of college
+4444,16,4 Years of College
+4445,17,> 4 years of college
+4447,15,Some College
+4448,13,Some College
+4451,14,Some College
+4452,14,Some College
+4453,19,> 4 years of college
+4454,16,4 Years of College
+4455,12,High School
+4456,14,Some College
+4457,18,> 4 years of college
+4458,17,> 4 years of college
+4459,17,> 4 years of college
+4460,13,Some College
+4461,13,Some College
+4462,19,> 4 years of college
+4463,16,4 Years of College
+4464,18,> 4 years of college
+4466,14,Some College
+4467,14,Some College
+4468,16,4 Years of College
+4469,16,4 Years of College
+4470,20,> 4 years of college
