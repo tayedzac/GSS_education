@@ -31,7 +31,7 @@ The data used in this paper is obtained from the General Social Survey (GSS), wh
 ## Attributes
 In this analysis, we used an individual year dataset which summarizes variables specific to the year 2021. Through data cleaning, we chose to keep the following variables: EDUC (Respondent’s education), PAEDUC (Father’s education), and MAEDUC (Mother’s education). While all of these variables are within one dataset, the Quick Guide to Variables in the 2021 GSS Cross-section document classifies and organizes these variables: EDUC goes under ‘Demographic, Household Characteristics, Paradata, and Process Data’, and PAEDUC and MAEDUC go under ‘Parental/Social Origin Data’.
 
-# Results
+## Exploration
 ```{r}
 #| include: false
 #| warning: false
@@ -129,7 +129,7 @@ clean_data_respondent |>
        y = "Number of Participants",
        title = "Education Level of the Respondant.")
 ```
-@fig-1 presents a bar graph showing the highest degree of education completed by the survey respondents by 2021. We can see that the largest number of respondents, close to 800 respondents, have obtained more than 4 years of college as their highest level of education. In addition, it can be seen that over 700 respondents have obtained some level of a college education and approximately 750 respondents have completed 4 years of college, which is the traditional number of years to complete a college degree in the United States. Referring to the first two levels of education, we see a large gap between the number of those who have completed high school (over 500 respondents) and those who have not (approximately 100 respondents).
+@fig-1 shows the highest degree of education completed by the survey respondents by 2021. We can see that the largest number of respondents, close to 800 respondents, have obtained more than 4 years of college as their highest level of education. In addition, it can be seen that over 700 respondents have obtained some level of a college education and approximately 750 respondents have completed 4 years of college, which is the traditional number of years to complete a college degree in the United States. Referring to the first two levels of education, we see a large gap between the number of those who have completed high school (over 500 respondents) and those who have not (approximately 100 respondents).
 
 ```{r}
 #| label: fig-2
@@ -147,7 +147,7 @@ clean_data_mom |>
        y = "Number of Participants",
        title = "Education Level of Respondants' Mother.")
 ```
-@fig-2 presents a bar graph showing the highest degree of education completed by respondents’ mothers, by 2021. We see that the majority of respondents’ mothers earned a high school degree as their highest degree of education. We also see that the number of mothers who obtain an education level beyond a high school degree becomes progressively lower as just under 500 mothers have some college education and less than 250 mothers with more than 4 years of college.
+@fig-2 shows the highest degree of education completed by respondents’ mothers, by 2021. We see that the majority of respondents’ mothers earned a high school degree as their highest degree of education. We also see that the number of mothers who obtain an education level beyond a high school degree becomes progressively lower as just under 500 mothers have some college education and less than 250 mothers with more than 4 years of college.
 
 ```{r}
 #| label: fig-3
@@ -166,7 +166,7 @@ clean_data_dad |>
        title = "Education Level of Respondants' Father.")
 ```
 \newpage 
-@fig-3 presents a bar graph showing the highest degree of education completed by respondents’ fathers, by 2021. The graph shows that the largest number of respondents’ fathers have completed high school as their highest degree of education. It is interesting to note that the number of fathers who have less than a high school education (over 600 fathers) is higher than the number of fathers with an education level beyond high school. When looking at education levels beyond high school, we see that more fathers have completed 4 years of their college education, thus have likely obtained a college degree according to the traditional number of college years in the United States.
+@fig-3 shows the highest degree of education completed by respondents’ fathers, by 2021. The graph shows that the largest number of respondents’ fathers have completed high school as their highest degree of education. It is interesting to note that the number of fathers who have less than a high school education (over 600 fathers) is higher than the number of fathers with an education level beyond high school. When looking at education levels beyond high school, we see that more fathers have completed 4 years of their college education, thus have likely obtained a college degree according to the traditional number of college years in the United States.
 
 ```{r}
 #| label: fig-4
@@ -186,7 +186,7 @@ respondent_and_mum |>
        title = "Education Level of Respondant and Mother.")
 ```
 \newpage
-@fig-4 presents a scatter plot with two discrete variables: the highest education level of respondents and the highest education level of respondents’ mothers, by 2021. For all levels in the respondents’ education level category, there is a general pattern where the most populous levels are when the mothers’ obtained a high school education as their highest level. This makes sense as @fig-2 shows that the majority of mothers have high school as their highest obtained education level and @fig-1 shows that most of the respondents obtained a high school education or beyond. Another interestingly populated area is where both the respondent and mother have 4 years of college as their highest education level.
+@fig-4 explores two discrete variables: the highest education level of respondents and the highest education level of respondents’ mothers, by 2021. For all levels in the respondents’ education level category, there is a general pattern where the most populous levels are when the mothers’ obtained a high school education as their highest level. This makes sense as @fig-2 shows that the majority of mothers have high school as their highest obtained education level and @fig-1 shows that most of the respondents obtained a high school education or beyond. Another interestingly populated area is where both the respondent and mother have 4 years of college as their highest education level.
 
 ```{r}
 #| label: fig-5
@@ -206,12 +206,12 @@ respondent_and_dad |>
        title = "Education Level of Respondant and Father.")
 ```
 \newpage
-@fig-5 presents a scatter plot with two discrete variables: the highest education level of respondents and the highest education level of respondents’ fathers, by 2021. In this scatter plot, we see that the most populated areas are where respondents have their highest education level as high school and beyond, whilst their fathers have high school as their highest education level. This makes sense as the majority of fathers have high school as their highest education level in @fig-3 and @fig-1 shows that most of the respondents obtained a high school education or beyond. Similarly to @fig-4, we see another populated area where both the respondent and father have 4 years of college as their highest education level.
+@fig-5 explores two discrete variables: the highest education level of respondents and the highest education level of respondents’ fathers, by 2021. In this scatter plot, we see that the most populated areas are where respondents have their highest education level as high school and beyond, whilst their fathers have high school as their highest education level. This makes sense as the majority of fathers have high school as their highest education level in @fig-3 and @fig-1 shows that most of the respondents obtained a high school education or beyond. Similarly to @fig-4, we see another populated area where both the respondent and father have 4 years of college as their highest education level.
 
 # Discussion
 
 ## Generational Difference with Highest Obtained Education Level
-Based on patterns shown in both the bar graphs and scatterplots, we find that the greatest number of respondents have more than 4 years of college as their highest education level, while the majority of both mothers and fathers have high school as their highest education level. This may suggest the existence of a generational difference between respondents and their mothers and fathers. Some factors that may contribute to this generational difference include: employees with college degrees in today’s society are more likely to have a significant earning advantage in comparison to those who don’t (@value). Additionally, the requirement of having a master’s-level degree is becoming more common in current entry-level occupations (@employment). Furthermore, more Millennials have a bachelor’s degree or higher compared with a much lower number of Baby Boomers and Gen Xers when they were the same age (@pew). Considering these factors, the difference in the number of respondents versus the number of mothers and fathers who have some college or beyond as their highest education level makes sense. 
+Based on patterns shown in the figures above, we find that the greatest number of respondents have more than 4 years of college as their highest education level, while the majority of both mothers and fathers have high school as their highest education level. This may suggest the existence of a generational difference between respondents and their mothers and fathers. Some factors that may contribute to this generational difference include: employees with college degrees in today’s society are more likely to have a significant earning advantage in comparison to those who don’t (@value). Additionally, the requirement of having a master’s-level degree is becoming more common in current entry-level occupations (@employment). Furthermore, more Millennials have a bachelor’s degree or higher compared with a much lower number of Baby Boomers and Gen Xers when they were the same age (@pew). Considering these factors, the difference in the number of respondents versus the number of mothers and fathers who have some college or beyond as their highest education level makes sense. 
 
 ##Highest Level of Education of Mothers Versus Fathers
 By comparing the results of @fig-2 and @fig-3, presenting the highest education level of respondents’ mothers versus fathers respectively, we see that they both have high school as the highest education level obtained by the majority. However, there are some important differences. We see that a larger number of mothers have high school as their highest level of education in comparison to fathers. In addition, more mothers have some college as their highest education level in comparison to fathers, while more fathers have college as their highest education level in comparison to mothers. Furthermore, we see that a larger number of fathers have more than 4 years of college as their highest level of education in comparison to mothers. These patterns make sense as despite more females graduating high school in 1960, more men were accepted into college in comparison to women [@boomers]. Thus, these differences between respondents’ mothers and fathers suggest the inequalities and barriers that existed and remain in education settings against girls. Going forward, it may be interesting to investigate the respondents and the varying highest level of education obtained by those of different gender identities, and this is stated in the Weaknesses and Next Steps section. 
@@ -220,7 +220,7 @@ By comparing the results of @fig-2 and @fig-3, presenting the highest education 
 In this paper, we looked at the highest education level obtained by respondents, their mothers, and their fathers, by 2021. It was found that the majority of respondents have more than 4 years of college as their highest education level, while both mothers and fathers of respondents have high school as their highest education level. These findings provide significant insight into the generational changes in the highest education level required for occupations in today’s society in comparison to that of respondents’ mothers and fathers.
 
 ## Weaknesses and Next Steps
-Our data does not show whether more than 4 years of college is an extension of one’s college degree or if they have obtained an advanced degree such as a master’s or a PhD. Furthermore, there may be other factors that we did not consider. For example, we found gender inequalities between mothers and fathers. It would be interesting to explore the relationship between one’s gender identity and their highest obtained level of education. Career path is another factor we didn’t consider however, it plays a crucial role in one’s highest level of education as different roles have different requirements. 
+Our data does not show whether more than 4 years of college is an extension of one’s college degree or if they have obtained an advanced degree such as a master’s or a PhD. Furthermore, there may be other factors that we did not consider. For example, we found gender inequalities between mothers and fathers. It would be interesting to explore the relationship between one’s gender identity and their highest obtained level of education. Career path is another factor we didn’t consider however, it plays a crucial role in one’s highest level of education as different roles have different requirements.
 
 \newpage
 
