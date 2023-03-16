@@ -71,7 +71,7 @@ clean_data_respondent <-
       "High School",
       "Some College",
       "4 Years of College",
-      "> 4 years of college"
+      "> 4 Years of College"
     )
   )
 
@@ -85,7 +85,7 @@ clean_data_mom <-
       "High School",
       "Some College",
       "4 Years of College",
-      "> 4 years of college"
+      "> 4 Years of College"
     )
   )
 
@@ -99,7 +99,7 @@ clean_data_dad <-
       "High School",
       "Some College",
       "4 Years of College",
-      "> 4 years of college"
+      "> 4 Years of College"
     )
   )
 
