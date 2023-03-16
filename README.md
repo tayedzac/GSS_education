@@ -1,4 +1,6 @@
-# Overview
+# Exploring the generational difference between education levels
+
+## Overview 
 
 This repository features an exploration of the generational differences in highest obtained education level.
 
@@ -7,4 +9,6 @@ View the GSS Codebook: [https://www.socialsciencereproduction.org/reproductions/
 
 ## File Structure
 
-This repository contains 3 files: 'inputs', 'outputs', and 'scripts'. The 'inputs' folder contains any raw and cleaned data that will be referenced in the analysis. The 'outputs' folder contains the list of references along with the paper. The 'scripts' folder contains data simulation (00-simulate_data), data cleaning (01-data_cleaning), and data testing (02-test_data).
+This repository contains 3 files: `inputs`, `outputs`, and `scripts`. 
+
+The `inputs` folder contains any raw and cleaned data that will be referenced in the analysis. The `outputs` folder contains the list of references along with the paper. The `scripts` folder contains data simulation (`00-simulate_data.R`), data cleaning (`01-data_cleaning.R`), and data testing (`02-test_data.R`).
