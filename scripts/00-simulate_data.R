@@ -1,7 +1,7 @@
 #### Preamble ####
 # Purpose: Simulates a sample data set.
 # Author: Jueun Kang and Tayedza Chikumbirike
-# Data: 16 March 2023
+# Date: 16 March 2023
 # Contact: jueun.kang@mail.utoronto.ca, t.chikumbirike@mail.utoronto.ca
 # Pre-requisites: N/A
 # Any other information needed? N/A
