@@ -1,5 +1,3 @@
-# GSS_education
-
 # Overview
 
 This repository features an exploration of the generational differences in highest obtained education level.
