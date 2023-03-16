@@ -1,5 +1,6 @@
 ---
-title: "Generational Difference in Highest Obtained Education Level"
+title: "Education Analysis of the United States"
+subtitle: "Exploring the Generational Difference in Highest Obtained Education Level in 2021"
 author: 
   - Jueun Kang
   - Tayedza Chikumbirike
@@ -146,7 +147,6 @@ clean_data_mom |>
        y = "Number of Participants",
        title = "Education Level of Respondants' Mother.")
 ```
-\newpage
 @fig-2 presents a bar graph showing the highest degree of education completed by respondents’ mothers, by 2021. We see that the majority of respondents’ mothers earned a high school degree as their highest degree of education. We also see that the number of mothers who obtain an education level beyond a high school degree becomes progressively lower as just under 500 mothers have some college education and less than 250 mothers with more than 4 years of college.
 
 ```{r}
