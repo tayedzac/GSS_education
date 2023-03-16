@@ -21,15 +21,28 @@ Children’s educational outcomes have been found to be strongly correlated with
 
 Most studies conducted around this field of research, however, heavily focus on the correlation between the child’s educational outcomes or educational success and the level of education their parents have obtained. In addition, many studies will also focus on the child’s education and the families’ income level. Thus, this paper aims to look beyond educational outcomes and economic factors and explore the highest education level obtained by one in comparison to their mothers and fathers. We particularly consider the potential of a generational difference, and look at the relationship between the child and their mothers’ and fathers’ highest education level separately, instead of grouping parents as a whole. Through this, we not only get a sense of the way the required level of education for getting a career in our society is changing through generations but also see the gender inequalities that exist in education settings when looking at mothers’ and fathers’ highest education levels individually. 
 
+The remainder of our paper holds four sections. In section 2, we explain the data source and methodology used for data collection, potential bias and ethics issues, and the variables we use. In Section 3, we present our results and the findings. Finally, in Section 4, we discuss what the results we found mean, weaknesses and limitations in our paper, and the next steps we can take to enhance the findings of this report. 
+
 We use R [@citeR] for all data cleaning and analysis, R packages *tidyverse* [@tidyverse], *janitor* [@janitor], *tidyr* [@tidyr], *dplyr* [@dplyr], *ggplot* [@ggplot2], to create the figures, and *haven* [@haven] to read the dta files. 
 
 # Data
 
 ## Data Source and Methodology
-The data used in this paper is obtained from the General Social Survey (GSS), which has been providing a nationally representative survey of adults in the United States since 1972. In this paper, we specifically looked at the data collected in 2021 which was provided by the 2021 General Social Survey Cross-section Codebook. Respondents were invited to participate in an online survey. Within households, respondents were selected by the last birthday method and respondents were all aged 18 or above, located in the United States, and living in non-institutional housing at the time of data collection. The final sample size was 4032 completes from 27591 lines of sample, with a response rate of 17.4%. 
+The data used in this paper is obtained from the General Social Survey (GSS), which has been providing a nationally representative survey of adults in the United States since 1972. In this paper, we specifically looked at data collected in 2021, which was provided by the 2021 General Social Survey Cross-section Codebook. Respondents invited to participate were adults aged 18 or older in the United States, living in non-institutional housing at the time of the interview. Due to concerns with COVID-19 and in-person contact, the 2021 GSS Cross-section survey redesigned the method of outreach and data collection. Instead of the Kish grid method used in previous rounds of the GSS, which required in-person contact, respondents were selected by the last birthday method and both survey invitations and data collection were completed through an online web link or through the phone. The final sample size was 4032 completes from 27591 lines of sample, with a response rate of 17.4%. 88.3% of respondents completed the 2021 GSS Cross-section via a web survey, while 11.7% of respondents completed it through a phone interview.
 
-## Attributes
-In this analysis, we used an individual year dataset which summarizes variables specific to the year 2021. Through data cleaning, we chose to keep the following variables: EDUC (Respondent’s education), PAEDUC (Father’s education), and MAEDUC (Mother’s education). While all of these variables are within one dataset, the Quick Guide to Variables in the 2021 GSS Cross-section document classifies and organizes these variables: EDUC goes under ‘Demographic, Household Characteristics, Paradata, and Process Data’, and PAEDUC and MAEDUC go under ‘Parental/Social Origin Data’.
+### Strengths and Weaknesses of GSS
+A strength of the GSS is that they provide the respondents with multiple options when selecting an answer. For example, when selecting what level of education one has completed, they have the option to select from 20 different choices ranging from having no formal schooling to having 8 years of college experience. This reduces the degree of uncertainty respondents may experience and allows us to get more accurate information from the respondents.
+
+### Potential Ethical and Bias Issues 
+The method of outreach and data collection either by web or over the phone introduces potential ethical and bias concerns. First, there is potential for a non-sample error where participants do not give accurate responses. With online surveys, there is no way to guarantee that respondents understand the survey questions correctly.
+
+Additionally, there is a potential for sampling errors, where the sample group is not representative of the population. As this survey aims to generalize the entire population of the United States, conducting an online survey or phone call assumes that everyone has an internet connection or phone that is easily accessible to them, eliminating the group of those who do not. In addition, all respondents lived in non-institutional housing at the time of data collection, making it difficult to generalize the results as the lifestyle and services provided to residents of non-institutional and institutional housing differ. 
+
+Ethically, family-related questions must be approached cautiously in the survey. The survey fails to consider the potential respondents who have different familial relationships or circumstances in relation to education-related questions, including but not limited to: single-parent households, having no contact with one or more parents, being a foster child, and whether or not their parents are adoptive/step-parents. Although the survey provides respondents the option to state “Don’t Know” or “No Answer”, it can be demotivating for respondents to have to skip through numerous questions that they do not feel comfortable answering or applicable to. 
+
+### Attributes
+In this analysis, we used an individual year dataset which summarizes variables specific to the year 2021. Through data cleaning, we chose to keep the following variables: EDUC (Respondent’s education), PAEDUC (Father’s education), and MAEDUC (Mother’s education). While all of these variables are within one data set, the Quick Guide to Variables in the 2021 GSS Cross-section document classifies and organizes these variables: EDUC goes under ‘Demographic, Household Characteristics, Paradata, and Process Data’, and PAEDUC and MAEDUC go under ‘Parental/Social Origin Data’.
+\newpage
 
 ## Exploration
 ```{r}
@@ -168,6 +181,9 @@ clean_data_dad |>
 \newpage 
 @fig-3 shows the highest degree of education completed by respondents’ fathers, by 2021. The graph shows that the largest number of respondents’ fathers have completed high school as their highest degree of education. It is interesting to note that the number of fathers who have less than a high school education (over 600 fathers) is higher than the number of fathers with an education level beyond high school. When looking at education levels beyond high school, we see that more fathers have completed 4 years of their college education, thus have likely obtained a college degree according to the traditional number of college years in the United States.
 
+\newpage
+
+# Results
 ```{r}
 #| label: fig-4
 #| fig-cap: Comparison Between the Respondant and Mother.
@@ -185,7 +201,6 @@ respondent_and_mum |>
        y = "Highest Education Level - Mother",
        title = "Education Level of Respondant and Mother.")
 ```
-\newpage
 @fig-4 explores two discrete variables: the highest education level of respondents and the highest education level of respondents’ mothers, by 2021. For all levels in the respondents’ education level category, there is a general pattern where the most populous levels are when the mothers’ obtained a high school education as their highest level. This makes sense as @fig-2 shows that the majority of mothers have high school as their highest obtained education level and @fig-1 shows that most of the respondents obtained a high school education or beyond. Another interestingly populated area is where both the respondent and mother have 4 years of college as their highest education level.
 
 ```{r}
@@ -213,15 +228,14 @@ respondent_and_dad |>
 ## Generational Difference with Highest Obtained Education Level
 Based on patterns shown in the figures above, we find that the greatest number of respondents have more than 4 years of college as their highest education level, while the majority of both mothers and fathers have high school as their highest education level. This may suggest the existence of a generational difference between respondents and their mothers and fathers. Some factors that may contribute to this generational difference include: employees with college degrees in today’s society are more likely to have a significant earning advantage in comparison to those who don’t (@value). Additionally, the requirement of having a master’s-level degree is becoming more common in current entry-level occupations (@employment). Furthermore, more Millennials have a bachelor’s degree or higher compared with a much lower number of Baby Boomers and Gen Xers when they were the same age (@pew). Considering these factors, the difference in the number of respondents versus the number of mothers and fathers who have some college or beyond as their highest education level makes sense. 
 
-##Highest Level of Education of Mothers Versus Fathers
+## Highest Level of Education of Mothers Versus Fathers
 By comparing the results of @fig-2 and @fig-3, presenting the highest education level of respondents’ mothers versus fathers respectively, we see that they both have high school as the highest education level obtained by the majority. However, there are some important differences. We see that a larger number of mothers have high school as their highest level of education in comparison to fathers. In addition, more mothers have some college as their highest education level in comparison to fathers, while more fathers have college as their highest education level in comparison to mothers. Furthermore, we see that a larger number of fathers have more than 4 years of college as their highest level of education in comparison to mothers. These patterns make sense as despite more females graduating high school in 1960, more men were accepted into college in comparison to women [@boomers]. Thus, these differences between respondents’ mothers and fathers suggest the inequalities and barriers that existed and remain in education settings against girls. Going forward, it may be interesting to investigate the respondents and the varying highest level of education obtained by those of different gender identities, and this is stated in the Weaknesses and Next Steps section. 
 
 # Conclusion
 In this paper, we looked at the highest education level obtained by respondents, their mothers, and their fathers, by 2021. It was found that the majority of respondents have more than 4 years of college as their highest education level, while both mothers and fathers of respondents have high school as their highest education level. These findings provide significant insight into the generational changes in the highest education level required for occupations in today’s society in comparison to that of respondents’ mothers and fathers.
 
 ## Weaknesses and Next Steps
-Our data does not show whether more than 4 years of college is an extension of one’s college degree or if they have obtained an advanced degree such as a master’s or a PhD. Furthermore, there may be other factors that we did not consider. For example, we found gender inequalities between mothers and fathers. It would be interesting to explore the relationship between one’s gender identity and their highest obtained level of education. Career path is another factor we didn’t consider however, it plays a crucial role in one’s highest level of education as different roles have different requirements.
-
+Our data does not show whether more than 4 years of college is an extension of one’s college degree or if they have obtained an advanced degree such as a master’s or a PhD. Furthermore, there may be other factors that we did not consider. For example, we found gender inequalities between mothers and fathers. It would be interesting to explore the relationship between one’s gender identity and their highest obtained level of education. Career path is another factor we didn’t consider however, it plays a crucial role in one’s highest level of education as different roles have different requirements. Another limitation is that our paper fails to explore respondents who answered “N/A” in any of their responses. As a result, this could potentially eliminate responses from those who have extenuating circumstances including but not limited to: coming from single-parent households, having no contact with one or more parents, being a foster child, and whether or not their parents are adoptive/step-parents.
 \newpage
 
 # Appendix
