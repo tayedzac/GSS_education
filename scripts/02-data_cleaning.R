@@ -38,11 +38,11 @@ clean_data1 <- clean_data |>
   ) |>
   mutate(
     education = case_when(
-      educ < 12 ~ "< High School",
+      educ < 12 ~ "<High School",
       educ == 12 ~ "High School",
       educ < 16 ~ "Some College",
-      educ == 16 ~ "4 Yrs of College",
-      educ <= 20 ~ "> 4 Yrs of College",
+      educ == 16 ~ "4 Yrs College",
+      educ <= 20 ~ ">4 Yrs College",
       TRUE ~ "Other"
     )
   )
@@ -54,11 +54,11 @@ clean_data2 <- clean_data |>
   ) |>
   mutate(
     education = case_when(
-      maeduc < 12 ~ "< High School",
+      maeduc < 12 ~ "<High School",
       maeduc == 12 ~ "High School",
       maeduc < 16 ~ "Some College",
-      maeduc == 16 ~ "4 Yrs of College",
-      maeduc <= 20 ~ "> 4 Yrs of College",
+      maeduc == 16 ~ "4 Yrs College",
+      maeduc <= 20 ~ ">4 Yrs College",
       TRUE ~ "Other"
     )
   )
@@ -70,11 +70,11 @@ clean_data3 <- clean_data |>
   ) |>
   mutate(
     education = case_when(
-      paeduc < 12 ~ "< High School",
+      paeduc < 12 ~ "<High School",
       paeduc == 12 ~ "High School",
       paeduc < 16 ~ "Some College",
-      paeduc == 16 ~ "4 Yrs of College",
-      paeduc <= 20 ~ "> 4 Yrs of College",
+      paeduc == 16 ~ "4 Yrs College",
+      paeduc <= 20 ~ ">4 Yrs College",
       TRUE ~ "Other"
     )
   )
