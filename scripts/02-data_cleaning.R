@@ -41,8 +41,8 @@ clean_data1 <- clean_data |>
       educ < 12 ~ "< High School",
       educ == 12 ~ "High School",
       educ < 16 ~ "Some College",
-      educ == 16 ~ "4 Years of College",
-      educ <= 20 ~ "> 4 years of college",
+      educ == 16 ~ "4 Yrs of College",
+      educ <= 20 ~ "> 4 Yrs of College",
       TRUE ~ "Other"
     )
   )
@@ -57,8 +57,8 @@ clean_data2 <- clean_data |>
       maeduc < 12 ~ "< High School",
       maeduc == 12 ~ "High School",
       maeduc < 16 ~ "Some College",
-      maeduc == 16 ~ "4 Years of College",
-      maeduc <= 20 ~ "> 4 years of college",
+      maeduc == 16 ~ "4 Yrs of College",
+      maeduc <= 20 ~ "> 4 Yrs of College",
       TRUE ~ "Other"
     )
   )
@@ -73,8 +73,8 @@ clean_data3 <- clean_data |>
       paeduc < 12 ~ "< High School",
       paeduc == 12 ~ "High School",
       paeduc < 16 ~ "Some College",
-      paeduc == 16 ~ "4 Years of College",
-      paeduc <= 20 ~ "> 4 years of college",
+      paeduc == 16 ~ "4 Yrs of College",
+      paeduc <= 20 ~ "> 4 Yrs of College",
       TRUE ~ "Other"
     )
   )

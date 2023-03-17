@@ -1,48 +1,48 @@
 id,paeduc,education
-1,9,< High School
-2,16,4 Years of College
+1,9,<High School
+2,16,4 Yrs College
 7,12,High School
 8,14,Some College
-9,16,4 Years of College
+9,16,4 Yrs College
 12,12,High School
-16,18,> 4 years of college
+16,18,>4 Yrs College
 17,12,High School
-22,16,4 Years of College
-23,16,4 Years of College
+22,16,4 Yrs College
+23,16,4 Yrs College
 24,12,High School
-25,16,4 Years of College
+25,16,4 Yrs College
 26,14,Some College
-31,16,4 Years of College
+31,16,4 Yrs College
 36,14,Some College
 38,12,High School
-39,16,4 Years of College
-41,9,< High School
+39,16,4 Yrs College
+41,9,<High School
 42,14,Some College
 43,12,High School
-46,16,4 Years of College
+46,16,4 Yrs College
 47,12,High School
 48,12,High School
-49,18,> 4 years of college
-50,6,< High School
+49,18,>4 Yrs College
+50,6,<High School
 52,12,High School
 53,15,Some College
-56,16,4 Years of College
-57,17,> 4 years of college
-59,10,< High School
+56,16,4 Yrs College
+57,17,>4 Yrs College
+59,10,<High School
 60,13,Some College
-61,16,4 Years of College
-64,0,< High School
-66,9,< High School
-67,8,< High School
+61,16,4 Yrs College
+64,0,<High School
+66,9,<High School
+67,8,<High School
 68,14,Some College
 69,12,High School
-70,18,> 4 years of college
+70,18,>4 Yrs College
 74,12,High School
-75,16,4 Years of College
-76,0,< High School
+75,16,4 Yrs College
+76,0,<High School
 77,12,High School
-78,3,< High School
-80,16,4 Years of College
+78,3,<High School
+80,16,4 Yrs College
 81,14,Some College
 82,12,High School
 83,14,Some College
@@ -51,161 +51,161 @@ id,paeduc,education
 91,13,Some College
 92,12,High School
 93,12,High School
-94,16,4 Years of College
-95,16,4 Years of College
+94,16,4 Yrs College
+95,16,4 Yrs College
 96,12,High School
 97,15,Some College
 98,12,High School
 100,12,High School
 101,12,High School
 103,14,Some College
-104,16,4 Years of College
-105,8,< High School
-107,16,4 Years of College
-108,7,< High School
-111,16,4 Years of College
-113,16,4 Years of College
-114,16,4 Years of College
+104,16,4 Yrs College
+105,8,<High School
+107,16,4 Yrs College
+108,7,<High School
+111,16,4 Yrs College
+113,16,4 Yrs College
+114,16,4 Yrs College
 115,12,High School
-116,16,4 Years of College
-117,10,< High School
+116,16,4 Yrs College
+117,10,<High School
 118,12,High School
-119,18,> 4 years of college
-120,6,< High School
+119,18,>4 Yrs College
+120,6,<High School
 121,12,High School
-124,16,4 Years of College
+124,16,4 Yrs College
 125,12,High School
 127,12,High School
-128,16,4 Years of College
-130,16,4 Years of College
+128,16,4 Yrs College
+130,16,4 Yrs College
 131,12,High School
-136,16,4 Years of College
+136,16,4 Yrs College
 137,12,High School
-139,18,> 4 years of college
+139,18,>4 Yrs College
 140,15,Some College
 142,12,High School
-143,16,4 Years of College
-144,18,> 4 years of college
+143,16,4 Yrs College
+144,18,>4 Yrs College
 145,12,High School
-146,16,4 Years of College
-147,16,4 Years of College
-148,10,< High School
-149,10,< High School
+146,16,4 Yrs College
+147,16,4 Yrs College
+148,10,<High School
+149,10,<High School
 151,12,High School
 154,12,High School
-155,8,< High School
-158,16,4 Years of College
+155,8,<High School
+158,16,4 Yrs College
 159,12,High School
-160,18,> 4 years of college
+160,18,>4 Yrs College
 164,12,High School
-165,6,< High School
-167,20,> 4 years of college
-168,18,> 4 years of college
-169,20,> 4 years of college
-170,18,> 4 years of college
+165,6,<High School
+167,20,>4 Yrs College
+168,18,>4 Yrs College
+169,20,>4 Yrs College
+170,18,>4 Yrs College
 171,15,Some College
-172,10,< High School
+172,10,<High School
 173,14,Some College
-174,16,4 Years of College
-175,0,< High School
-176,19,> 4 years of college
-177,16,4 Years of College
-179,8,< High School
-183,18,> 4 years of college
-184,19,> 4 years of college
-188,18,> 4 years of college
-190,7,< High School
+174,16,4 Yrs College
+175,0,<High School
+176,19,>4 Yrs College
+177,16,4 Yrs College
+179,8,<High School
+183,18,>4 Yrs College
+184,19,>4 Yrs College
+188,18,>4 Yrs College
+190,7,<High School
 192,12,High School
 194,12,High School
-195,9,< High School
-196,18,> 4 years of college
-198,16,4 Years of College
+195,9,<High School
+196,18,>4 Yrs College
+198,16,4 Yrs College
 201,12,High School
-203,16,4 Years of College
-206,5,< High School
+203,16,4 Yrs College
+206,5,<High School
 207,12,High School
 209,12,High School
-210,7,< High School
+210,7,<High School
 213,12,High School
-215,8,< High School
-216,0,< High School
+215,8,<High School
+216,0,<High School
 217,12,High School
 220,12,High School
-221,9,< High School
+221,9,<High School
 224,14,Some College
 226,12,High School
 230,14,Some College
-231,16,4 Years of College
-233,17,> 4 years of college
+231,16,4 Yrs College
+233,17,>4 Yrs College
 235,12,High School
-236,17,> 4 years of college
-239,10,< High School
-242,16,4 Years of College
+236,17,>4 Yrs College
+239,10,<High School
+242,16,4 Yrs College
 244,12,High School
-246,8,< High School
+246,8,<High School
 247,12,High School
-253,17,> 4 years of college
+253,17,>4 Yrs College
 254,14,Some College
-255,16,4 Years of College
+255,16,4 Yrs College
 256,12,High School
 257,13,Some College
 258,12,High School
-259,18,> 4 years of college
+259,18,>4 Yrs College
 260,12,High School
-261,16,4 Years of College
+261,16,4 Yrs College
 262,12,High School
 263,14,Some College
 264,12,High School
-265,16,4 Years of College
+265,16,4 Yrs College
 267,12,High School
 268,12,High School
-269,8,< High School
-270,9,< High School
+269,8,<High School
+270,9,<High School
 271,12,High School
-272,7,< High School
+272,7,<High School
 273,12,High School
 275,12,High School
 276,12,High School
-279,16,4 Years of College
-281,16,4 Years of College
-282,18,> 4 years of college
-284,20,> 4 years of college
-285,20,> 4 years of college
+279,16,4 Yrs College
+281,16,4 Yrs College
+282,18,>4 Yrs College
+284,20,>4 Yrs College
+285,20,>4 Yrs College
 287,12,High School
 288,14,Some College
 289,12,High School
 291,14,Some College
-292,16,4 Years of College
-293,16,4 Years of College
+292,16,4 Yrs College
+293,16,4 Yrs College
 294,13,Some College
 296,12,High School
-297,8,< High School
-300,16,4 Years of College
+297,8,<High School
+300,16,4 Yrs College
 301,13,Some College
-302,9,< High School
-303,20,> 4 years of college
+302,9,<High School
+303,20,>4 Yrs College
 304,12,High School
-305,16,4 Years of College
-306,16,4 Years of College
-307,17,> 4 years of college
-309,8,< High School
-310,5,< High School
-312,18,> 4 years of college
+305,16,4 Yrs College
+306,16,4 Yrs College
+307,17,>4 Yrs College
+309,8,<High School
+310,5,<High School
+312,18,>4 Yrs College
 313,12,High School
-314,10,< High School
-315,16,4 Years of College
-316,0,< High School
+314,10,<High School
+315,16,4 Yrs College
+316,0,<High School
 317,15,Some College
 320,12,High School
 321,12,High School
-322,16,4 Years of College
-323,20,> 4 years of college
-326,16,4 Years of College
+322,16,4 Yrs College
+323,20,>4 Yrs College
+326,16,4 Yrs College
 327,14,Some College
-329,16,4 Years of College
-330,8,< High School
+329,16,4 Yrs College
+330,8,<High School
 331,12,High School
-333,20,> 4 years of college
+333,20,>4 Yrs College
 334,12,High School
 335,14,Some College
 336,12,High School
@@ -213,93 +213,93 @@ id,paeduc,education
 338,12,High School
 339,12,High School
 340,14,Some College
-342,16,4 Years of College
+342,16,4 Yrs College
 343,12,High School
-344,18,> 4 years of college
+344,18,>4 Yrs College
 345,14,Some College
 346,12,High School
 348,12,High School
-349,16,4 Years of College
+349,16,4 Yrs College
 350,12,High School
 352,13,Some College
 354,12,High School
-356,18,> 4 years of college
-357,18,> 4 years of college
+356,18,>4 Yrs College
+357,18,>4 Yrs College
 358,14,Some College
-359,20,> 4 years of college
+359,20,>4 Yrs College
 360,12,High School
 361,12,High School
 362,12,High School
-363,8,< High School
-365,11,< High School
+363,8,<High School
+365,11,<High School
 366,12,High School
 367,12,High School
-369,5,< High School
+369,5,<High School
 370,12,High School
-371,19,> 4 years of college
-372,16,4 Years of College
-375,0,< High School
+371,19,>4 Yrs College
+372,16,4 Yrs College
+375,0,<High School
 377,12,High School
-379,16,4 Years of College
+379,16,4 Yrs College
 380,12,High School
 383,12,High School
 384,12,High School
-386,16,4 Years of College
+386,16,4 Yrs College
 388,12,High School
 389,14,Some College
-390,9,< High School
+390,9,<High School
 391,12,High School
 392,14,Some College
 396,14,Some College
-397,10,< High School
-398,16,4 Years of College
+397,10,<High School
+398,16,4 Yrs College
 402,14,Some College
 405,12,High School
 407,12,High School
-408,16,4 Years of College
-409,4,< High School
+408,16,4 Yrs College
+409,4,<High School
 411,14,Some College
 412,14,Some College
 413,12,High School
-414,20,> 4 years of college
+414,20,>4 Yrs College
 415,12,High School
-417,20,> 4 years of college
-418,18,> 4 years of college
-420,18,> 4 years of college
+417,20,>4 Yrs College
+418,18,>4 Yrs College
+420,18,>4 Yrs College
 422,12,High School
-424,16,4 Years of College
-425,19,> 4 years of college
-427,8,< High School
-428,16,4 Years of College
+424,16,4 Yrs College
+425,19,>4 Yrs College
+427,8,<High School
+428,16,4 Yrs College
 430,12,High School
 431,12,High School
 433,13,Some College
-434,6,< High School
+434,6,<High School
 435,14,Some College
 437,12,High School
-438,0,< High School
-439,16,4 Years of College
+438,0,<High School
+439,16,4 Yrs College
 441,12,High School
 443,14,Some College
 445,12,High School
-446,16,4 Years of College
-447,9,< High School
+446,16,4 Yrs College
+447,9,<High School
 448,14,Some College
-449,19,> 4 years of college
+449,19,>4 Yrs College
 450,12,High School
-451,16,4 Years of College
-452,9,< High School
+451,16,4 Yrs College
+452,9,<High School
 453,12,High School
 454,12,High School
-456,16,4 Years of College
-457,19,> 4 years of college
-458,20,> 4 years of college
-459,16,4 Years of College
-460,20,> 4 years of college
+456,16,4 Yrs College
+457,19,>4 Yrs College
+458,20,>4 Yrs College
+459,16,4 Yrs College
+460,20,>4 Yrs College
 461,12,High School
-462,20,> 4 years of college
-463,8,< High School
-464,17,> 4 years of college
+462,20,>4 Yrs College
+463,8,<High School
+464,17,>4 Yrs College
 465,13,Some College
 468,12,High School
 469,12,High School
@@ -309,57 +309,57 @@ id,paeduc,education
 478,12,High School
 480,12,High School
 481,14,Some College
-483,0,< High School
+483,0,<High School
 484,12,High School
-485,17,> 4 years of college
+485,17,>4 Yrs College
 486,12,High School
 488,12,High School
-491,16,4 Years of College
+491,16,4 Yrs College
 493,12,High School
-495,16,4 Years of College
-496,16,4 Years of College
-497,16,4 Years of College
-498,16,4 Years of College
+495,16,4 Yrs College
+496,16,4 Yrs College
+497,16,4 Yrs College
+498,16,4 Yrs College
 499,12,High School
 502,12,High School
 503,14,Some College
 505,12,High School
 508,14,Some College
-510,16,4 Years of College
-512,16,4 Years of College
-513,6,< High School
+510,16,4 Yrs College
+512,16,4 Yrs College
+513,6,<High School
 514,12,High School
-517,16,4 Years of College
+517,16,4 Yrs College
 518,12,High School
 520,12,High School
 523,12,High School
-525,8,< High School
+525,8,<High School
 526,12,High School
-527,20,> 4 years of college
-528,18,> 4 years of college
+527,20,>4 Yrs College
+528,18,>4 Yrs College
 529,15,Some College
-530,17,> 4 years of college
-531,19,> 4 years of college
+530,17,>4 Yrs College
+531,19,>4 Yrs College
 532,14,Some College
 533,12,High School
 535,12,High School
 536,12,High School
-537,6,< High School
-539,8,< High School
+537,6,<High School
+539,8,<High School
 540,12,High School
 541,14,Some College
-542,19,> 4 years of college
-544,7,< High School
-547,11,< High School
+542,19,>4 Yrs College
+544,7,<High School
+547,11,<High School
 548,12,High School
-549,5,< High School
+549,5,<High School
 550,12,High School
 552,12,High School
 553,12,High School
 554,13,Some College
-555,16,4 Years of College
+555,16,4 Yrs College
 556,12,High School
-557,20,> 4 years of college
+557,20,>4 Yrs College
 559,12,High School
 560,12,High School
 561,12,High School
@@ -368,58 +368,58 @@ id,paeduc,education
 571,12,High School
 572,12,High School
 573,12,High School
-576,10,< High School
+576,10,<High School
 577,12,High School
-583,5,< High School
+583,5,<High School
 584,12,High School
 585,12,High School
 586,12,High School
 587,12,High School
-588,11,< High School
+588,11,<High School
 590,14,Some College
-594,6,< High School
-595,9,< High School
-599,16,4 Years of College
-602,20,> 4 years of college
-604,7,< High School
+594,6,<High School
+595,9,<High School
+599,16,4 Yrs College
+602,20,>4 Yrs College
+604,7,<High School
 606,14,Some College
 610,12,High School
-611,16,4 Years of College
-612,8,< High School
+611,16,4 Yrs College
+612,8,<High School
 613,12,High School
-614,11,< High School
+614,11,<High School
 615,13,Some College
 616,14,Some College
-617,5,< High School
+617,5,<High School
 618,14,Some College
 619,12,High School
 621,12,High School
 622,12,High School
-623,16,4 Years of College
+623,16,4 Yrs College
 625,12,High School
 626,12,High School
-627,11,< High School
+627,11,<High School
 628,12,High School
 629,12,High School
-633,8,< High School
+633,8,<High School
 635,12,High School
 636,12,High School
-639,16,4 Years of College
-641,16,4 Years of College
-642,18,> 4 years of college
+639,16,4 Yrs College
+641,16,4 Yrs College
+642,18,>4 Yrs College
 643,12,High School
 644,12,High School
 645,12,High School
-646,19,> 4 years of college
-647,11,< High School
+646,19,>4 Yrs College
+647,11,<High School
 649,14,Some College
 650,12,High School
 651,13,Some College
-652,8,< High School
-654,16,4 Years of College
+652,8,<High School
+654,16,4 Yrs College
 656,12,High School
 657,12,High School
-658,7,< High School
+658,7,<High School
 659,12,High School
 660,12,High School
 661,12,High School
@@ -427,13 +427,13 @@ id,paeduc,education
 663,12,High School
 664,12,High School
 665,12,High School
-666,8,< High School
+666,8,<High School
 667,12,High School
-668,16,4 Years of College
+668,16,4 Yrs College
 669,12,High School
 670,13,Some College
-671,10,< High School
-672,16,4 Years of College
+671,10,<High School
+672,16,4 Yrs College
 675,12,High School
 676,12,High School
 678,12,High School
@@ -441,333 +441,333 @@ id,paeduc,education
 681,12,High School
 684,15,Some College
 685,12,High School
-686,8,< High School
-687,10,< High School
-690,2,< High School
-691,9,< High School
-692,11,< High School
+686,8,<High School
+687,10,<High School
+690,2,<High School
+691,9,<High School
+692,11,<High School
 693,12,High School
 696,12,High School
-699,0,< High School
-701,11,< High School
-702,16,4 Years of College
+699,0,<High School
+701,11,<High School
+702,16,4 Yrs College
 704,12,High School
 705,12,High School
 707,14,Some College
-708,18,> 4 years of college
-709,18,> 4 years of college
+708,18,>4 Yrs College
+709,18,>4 Yrs College
 710,12,High School
 711,14,Some College
-713,16,4 Years of College
-714,8,< High School
+713,16,4 Yrs College
+714,8,<High School
 715,12,High School
 717,12,High School
-718,17,> 4 years of college
+718,17,>4 Yrs College
 719,12,High School
 720,13,Some College
 721,13,Some College
-723,16,4 Years of College
-724,16,4 Years of College
-725,10,< High School
-726,20,> 4 years of college
-728,16,4 Years of College
+723,16,4 Yrs College
+724,16,4 Yrs College
+725,10,<High School
+726,20,>4 Yrs College
+728,16,4 Yrs College
 730,12,High School
-733,19,> 4 years of college
-734,16,4 Years of College
+733,19,>4 Yrs College
+734,16,4 Yrs College
 735,14,Some College
 738,14,Some College
-739,19,> 4 years of college
-740,18,> 4 years of college
+739,19,>4 Yrs College
+740,18,>4 Yrs College
 741,13,Some College
-742,10,< High School
-745,10,< High School
+742,10,<High School
+745,10,<High School
 746,12,High School
-747,10,< High School
-748,7,< High School
+747,10,<High School
+748,7,<High School
 749,12,High School
-750,16,4 Years of College
-752,8,< High School
+750,16,4 Yrs College
+752,8,<High School
 753,12,High School
-754,20,> 4 years of college
-755,8,< High School
-756,9,< High School
-759,16,4 Years of College
-760,6,< High School
+754,20,>4 Yrs College
+755,8,<High School
+756,9,<High School
+759,16,4 Yrs College
+760,6,<High School
 765,12,High School
 766,12,High School
-767,16,4 Years of College
+767,16,4 Yrs College
 768,12,High School
 772,12,High School
-773,20,> 4 years of college
-776,16,4 Years of College
+773,20,>4 Yrs College
+776,16,4 Yrs College
 777,14,Some College
 778,14,Some College
-779,3,< High School
+779,3,<High School
 780,15,Some College
-782,10,< High School
+782,10,<High School
 783,12,High School
-784,6,< High School
+784,6,<High School
 785,12,High School
 786,12,High School
-788,18,> 4 years of college
-792,16,4 Years of College
+788,18,>4 Yrs College
+792,16,4 Yrs College
 793,12,High School
 796,12,High School
-797,18,> 4 years of college
+797,18,>4 Yrs College
 798,12,High School
 799,12,High School
 801,12,High School
 802,12,High School
-804,20,> 4 years of college
+804,20,>4 Yrs College
 805,14,Some College
 807,12,High School
-808,10,< High School
+808,10,<High School
 809,12,High School
 813,12,High School
-816,16,4 Years of College
+816,16,4 Yrs College
 817,12,High School
-818,20,> 4 years of college
-819,0,< High School
+818,20,>4 Yrs College
+819,0,<High School
 820,12,High School
 825,12,High School
-827,16,4 Years of College
+827,16,4 Yrs College
 829,12,High School
-831,16,4 Years of College
-832,8,< High School
+831,16,4 Yrs College
+832,8,<High School
 834,12,High School
-838,10,< High School
+838,10,<High School
 839,12,High School
-842,0,< High School
-843,8,< High School
+842,0,<High School
+843,8,<High School
 845,12,High School
-846,16,4 Years of College
+846,16,4 Yrs College
 850,15,Some College
-852,6,< High School
-853,3,< High School
-857,6,< High School
+852,6,<High School
+853,3,<High School
+857,6,<High School
 859,12,High School
 864,12,High School
-865,7,< High School
-866,8,< High School
+865,7,<High School
+866,8,<High School
 867,13,Some College
-871,8,< High School
-872,11,< High School
-873,16,4 Years of College
-874,11,< High School
-878,16,4 Years of College
+871,8,<High School
+872,11,<High School
+873,16,4 Yrs College
+874,11,<High School
+878,16,4 Yrs College
 880,12,High School
-881,11,< High School
-882,17,> 4 years of college
-883,20,> 4 years of college
+881,11,<High School
+882,17,>4 Yrs College
+883,20,>4 Yrs College
 884,13,Some College
-885,16,4 Years of College
-886,16,4 Years of College
-887,16,4 Years of College
-888,8,< High School
-890,17,> 4 years of college
-892,20,> 4 years of college
+885,16,4 Yrs College
+886,16,4 Yrs College
+887,16,4 Yrs College
+888,8,<High School
+890,17,>4 Yrs College
+892,20,>4 Yrs College
 894,12,High School
 895,14,Some College
 896,14,Some College
 897,12,High School
 898,15,Some College
-899,18,> 4 years of college
-901,18,> 4 years of college
+899,18,>4 Yrs College
+901,18,>4 Yrs College
 902,12,High School
 903,14,Some College
-904,16,4 Years of College
+904,16,4 Yrs College
 906,15,Some College
-910,8,< High School
+910,8,<High School
 915,12,High School
 916,12,High School
 917,12,High School
 918,12,High School
-919,20,> 4 years of college
+919,20,>4 Yrs College
 923,12,High School
 924,12,High School
-925,8,< High School
-926,6,< High School
+925,8,<High School
+926,6,<High School
 927,12,High School
 928,12,High School
-929,10,< High School
+929,10,<High School
 931,12,High School
 933,12,High School
-935,16,4 Years of College
-938,5,< High School
+935,16,4 Yrs College
+938,5,<High School
 941,12,High School
 942,12,High School
 943,12,High School
 944,12,High School
 945,12,High School
-946,20,> 4 years of college
+946,20,>4 Yrs College
 947,12,High School
-948,10,< High School
+948,10,<High School
 949,12,High School
 950,12,High School
 952,14,Some College
 953,12,High School
 954,12,High School
 956,12,High School
-957,6,< High School
+957,6,<High School
 960,12,High School
 961,12,High School
-964,10,< High School
-965,9,< High School
-969,16,4 Years of College
+964,10,<High School
+965,9,<High School
+969,16,4 Yrs College
 972,12,High School
 973,12,High School
 975,14,Some College
-977,16,4 Years of College
-980,0,< High School
-981,16,4 Years of College
-983,16,4 Years of College
-985,8,< High School
-986,20,> 4 years of college
+977,16,4 Yrs College
+980,0,<High School
+981,16,4 Yrs College
+983,16,4 Yrs College
+985,8,<High School
+986,20,>4 Yrs College
 988,15,Some College
-989,5,< High School
-990,9,< High School
+989,5,<High School
+990,9,<High School
 991,12,High School
 992,15,Some College
 993,12,High School
-995,20,> 4 years of college
-996,20,> 4 years of college
+995,20,>4 Yrs College
+996,20,>4 Yrs College
 997,15,Some College
 998,15,Some College
 999,12,High School
-1000,16,4 Years of College
+1000,16,4 Yrs College
 1001,12,High School
-1002,10,< High School
-1003,16,4 Years of College
+1002,10,<High School
+1003,16,4 Yrs College
 1004,12,High School
-1005,16,4 Years of College
-1008,8,< High School
-1009,3,< High School
-1013,16,4 Years of College
-1014,19,> 4 years of college
+1005,16,4 Yrs College
+1008,8,<High School
+1009,3,<High School
+1013,16,4 Yrs College
+1014,19,>4 Yrs College
 1015,15,Some College
-1018,16,4 Years of College
+1018,16,4 Yrs College
 1019,14,Some College
 1021,13,Some College
-1022,8,< High School
-1023,16,4 Years of College
-1024,16,4 Years of College
-1025,16,4 Years of College
+1022,8,<High School
+1023,16,4 Yrs College
+1024,16,4 Yrs College
+1025,16,4 Yrs College
 1026,12,High School
-1030,5,< High School
-1034,16,4 Years of College
-1036,16,4 Years of College
-1039,16,4 Years of College
+1030,5,<High School
+1034,16,4 Yrs College
+1036,16,4 Yrs College
+1039,16,4 Yrs College
 1043,13,Some College
-1044,16,4 Years of College
-1045,19,> 4 years of college
+1044,16,4 Yrs College
+1045,19,>4 Yrs College
 1046,14,Some College
-1048,8,< High School
-1049,16,4 Years of College
+1048,8,<High School
+1049,16,4 Yrs College
 1050,14,Some College
 1051,12,High School
 1052,12,High School
-1055,16,4 Years of College
+1055,16,4 Yrs College
 1056,12,High School
-1057,16,4 Years of College
+1057,16,4 Yrs College
 1059,12,High School
 1060,12,High School
-1061,16,4 Years of College
-1062,18,> 4 years of college
-1063,9,< High School
+1061,16,4 Yrs College
+1062,18,>4 Yrs College
+1063,9,<High School
 1065,12,High School
 1066,14,Some College
-1068,16,4 Years of College
+1068,16,4 Yrs College
 1069,12,High School
 1071,12,High School
-1072,16,4 Years of College
-1074,18,> 4 years of college
-1075,10,< High School
-1079,6,< High School
+1072,16,4 Yrs College
+1074,18,>4 Yrs College
+1075,10,<High School
+1079,6,<High School
 1080,12,High School
 1081,12,High School
-1084,20,> 4 years of college
+1084,20,>4 Yrs College
 1085,12,High School
 1086,12,High School
-1087,11,< High School
-1088,8,< High School
-1089,6,< High School
+1087,11,<High School
+1088,8,<High School
+1089,6,<High School
 1091,12,High School
-1092,11,< High School
+1092,11,<High School
 1093,15,Some College
 1094,12,High School
 1095,14,Some College
 1096,12,High School
 1097,12,High School
 1100,12,High School
-1102,18,> 4 years of college
+1102,18,>4 Yrs College
 1103,14,Some College
-1106,11,< High School
-1108,18,> 4 years of college
-1109,8,< High School
+1106,11,<High School
+1108,18,>4 Yrs College
+1109,8,<High School
 1110,14,Some College
-1111,11,< High School
+1111,11,<High School
 1112,15,Some College
 1115,12,High School
-1117,11,< High School
+1117,11,<High School
 1118,12,High School
 1119,14,Some College
-1120,16,4 Years of College
+1120,16,4 Yrs College
 1121,12,High School
-1122,16,4 Years of College
+1122,16,4 Yrs College
 1123,12,High School
-1124,16,4 Years of College
-1127,16,4 Years of College
-1129,17,> 4 years of college
-1130,16,4 Years of College
+1124,16,4 Yrs College
+1127,16,4 Yrs College
+1129,17,>4 Yrs College
+1130,16,4 Yrs College
 1131,12,High School
 1132,12,High School
 1133,12,High School
 1134,12,High School
-1136,16,4 Years of College
+1136,16,4 Yrs College
 1137,12,High School
-1138,16,4 Years of College
-1139,16,4 Years of College
-1140,8,< High School
-1141,16,4 Years of College
-1142,8,< High School
-1143,16,4 Years of College
+1138,16,4 Yrs College
+1139,16,4 Yrs College
+1140,8,<High School
+1141,16,4 Yrs College
+1142,8,<High School
+1143,16,4 Yrs College
 1144,12,High School
-1145,16,4 Years of College
+1145,16,4 Yrs College
 1146,12,High School
-1147,16,4 Years of College
-1149,8,< High School
-1150,7,< High School
+1147,16,4 Yrs College
+1149,8,<High School
+1150,7,<High School
 1152,12,High School
 1154,14,Some College
-1155,20,> 4 years of college
-1156,18,> 4 years of college
+1155,20,>4 Yrs College
+1156,18,>4 Yrs College
 1157,12,High School
-1159,6,< High School
+1159,6,<High School
 1161,12,High School
-1162,0,< High School
+1162,0,<High School
 1164,12,High School
-1165,16,4 Years of College
-1166,19,> 4 years of college
-1169,8,< High School
+1165,16,4 Yrs College
+1166,19,>4 Yrs College
+1169,8,<High School
 1171,13,Some College
-1172,16,4 Years of College
-1173,8,< High School
-1176,16,4 Years of College
+1172,16,4 Yrs College
+1173,8,<High School
+1176,16,4 Yrs College
 1181,12,High School
-1183,4,< High School
+1183,4,<High School
 1185,12,High School
 1186,13,Some College
 1187,12,High School
-1190,5,< High School
+1190,5,<High School
 1191,12,High School
-1192,16,4 Years of College
-1193,20,> 4 years of college
+1192,16,4 Yrs College
+1193,20,>4 Yrs College
 1194,14,Some College
-1195,20,> 4 years of college
+1195,20,>4 Yrs College
 1196,12,High School
 1197,12,High School
-1198,16,4 Years of College
-1199,20,> 4 years of college
+1198,16,4 Yrs College
+1199,20,>4 Yrs College
 1200,15,Some College
 1201,12,High School
 1203,12,High School
@@ -776,322 +776,322 @@ id,paeduc,education
 1206,12,High School
 1207,13,Some College
 1208,12,High School
-1209,19,> 4 years of college
-1210,11,< High School
-1211,11,< High School
-1213,5,< High School
-1215,18,> 4 years of college
-1216,17,> 4 years of college
+1209,19,>4 Yrs College
+1210,11,<High School
+1211,11,<High School
+1213,5,<High School
+1215,18,>4 Yrs College
+1216,17,>4 Yrs College
 1217,12,High School
 1218,12,High School
-1219,10,< High School
-1220,18,> 4 years of college
+1219,10,<High School
+1220,18,>4 Yrs College
 1222,12,High School
-1223,16,4 Years of College
-1224,16,4 Years of College
-1225,7,< High School
+1223,16,4 Yrs College
+1224,16,4 Yrs College
+1225,7,<High School
 1228,12,High School
-1229,8,< High School
-1230,9,< High School
-1231,5,< High School
-1232,8,< High School
-1235,7,< High School
-1237,7,< High School
-1239,10,< High School
+1229,8,<High School
+1230,9,<High School
+1231,5,<High School
+1232,8,<High School
+1235,7,<High School
+1237,7,<High School
+1239,10,<High School
 1244,12,High School
 1245,12,High School
-1246,3,< High School
-1247,5,< High School
-1248,16,4 Years of College
-1249,16,4 Years of College
-1250,16,4 Years of College
+1246,3,<High School
+1247,5,<High School
+1248,16,4 Yrs College
+1249,16,4 Yrs College
+1250,16,4 Yrs College
 1251,12,High School
 1253,12,High School
-1254,5,< High School
-1255,16,4 Years of College
-1257,5,< High School
-1259,20,> 4 years of college
+1254,5,<High School
+1255,16,4 Yrs College
+1257,5,<High School
+1259,20,>4 Yrs College
 1261,12,High School
-1263,16,4 Years of College
+1263,16,4 Yrs College
 1265,12,High School
-1266,16,4 Years of College
-1267,0,< High School
+1266,16,4 Yrs College
+1267,0,<High School
 1268,12,High School
 1269,13,Some College
 1270,14,Some College
 1271,15,Some College
-1272,17,> 4 years of college
-1273,16,4 Years of College
+1272,17,>4 Yrs College
+1273,16,4 Yrs College
 1275,12,High School
 1276,12,High School
-1277,10,< High School
+1277,10,<High School
 1278,13,Some College
-1279,16,4 Years of College
-1285,18,> 4 years of college
-1287,16,4 Years of College
-1289,16,4 Years of College
-1290,10,< High School
-1291,16,4 Years of College
-1292,8,< High School
+1279,16,4 Yrs College
+1285,18,>4 Yrs College
+1287,16,4 Yrs College
+1289,16,4 Yrs College
+1290,10,<High School
+1291,16,4 Yrs College
+1292,8,<High School
 1294,12,High School
 1295,12,High School
 1297,14,Some College
-1298,18,> 4 years of college
+1298,18,>4 Yrs College
 1299,14,Some College
 1304,12,High School
-1305,16,4 Years of College
-1306,16,4 Years of College
+1305,16,4 Yrs College
+1306,16,4 Yrs College
 1312,12,High School
 1314,12,High School
 1315,14,Some College
 1316,12,High School
-1317,10,< High School
-1318,16,4 Years of College
+1317,10,<High School
+1318,16,4 Yrs College
 1319,12,High School
 1320,12,High School
 1322,12,High School
-1323,10,< High School
+1323,10,<High School
 1324,15,Some College
 1325,12,High School
-1326,16,4 Years of College
+1326,16,4 Yrs College
 1327,12,High School
 1328,12,High School
-1329,20,> 4 years of college
-1330,11,< High School
-1331,16,4 Years of College
+1329,20,>4 Yrs College
+1330,11,<High School
+1331,16,4 Yrs College
 1332,12,High School
 1333,12,High School
 1334,12,High School
-1336,17,> 4 years of college
+1336,17,>4 Yrs College
 1337,13,Some College
 1338,12,High School
-1340,8,< High School
-1342,16,4 Years of College
-1343,18,> 4 years of college
-1344,16,4 Years of College
-1345,6,< High School
-1346,20,> 4 years of college
-1347,10,< High School
+1340,8,<High School
+1342,16,4 Yrs College
+1343,18,>4 Yrs College
+1344,16,4 Yrs College
+1345,6,<High School
+1346,20,>4 Yrs College
+1347,10,<High School
 1349,12,High School
-1350,8,< High School
+1350,8,<High School
 1351,15,Some College
 1355,12,High School
 1356,14,Some College
 1357,12,High School
-1358,18,> 4 years of college
+1358,18,>4 Yrs College
 1359,13,Some College
-1360,10,< High School
+1360,10,<High School
 1361,14,Some College
 1363,14,Some College
 1364,12,High School
-1365,16,4 Years of College
+1365,16,4 Yrs College
 1367,12,High School
 1368,13,Some College
-1369,8,< High School
+1369,8,<High School
 1370,12,High School
 1371,12,High School
-1372,10,< High School
+1372,10,<High School
 1373,14,Some College
-1374,16,4 Years of College
-1381,16,4 Years of College
+1374,16,4 Yrs College
+1381,16,4 Yrs College
 1384,13,Some College
-1385,8,< High School
+1385,8,<High School
 1386,12,High School
-1388,20,> 4 years of college
-1389,9,< High School
+1388,20,>4 Yrs College
+1389,9,<High School
 1391,12,High School
-1392,3,< High School
-1393,5,< High School
+1392,3,<High School
+1393,5,<High School
 1395,14,Some College
-1396,11,< High School
-1397,6,< High School
+1396,11,<High School
+1397,6,<High School
 1399,12,High School
-1400,16,4 Years of College
-1401,16,4 Years of College
-1402,20,> 4 years of college
-1403,8,< High School
+1400,16,4 Yrs College
+1401,16,4 Yrs College
+1402,20,>4 Yrs College
+1403,8,<High School
 1405,12,High School
-1406,4,< High School
+1406,4,<High School
 1407,14,Some College
-1408,6,< High School
-1411,16,4 Years of College
+1408,6,<High School
+1411,16,4 Yrs College
 1413,12,High School
 1414,12,High School
 1416,12,High School
 1417,12,High School
 1418,14,Some College
-1419,16,4 Years of College
+1419,16,4 Yrs College
 1425,12,High School
-1426,10,< High School
-1427,16,4 Years of College
+1426,10,<High School
+1427,16,4 Yrs College
 1428,13,Some College
-1429,9,< High School
+1429,9,<High School
 1430,12,High School
-1431,16,4 Years of College
-1432,0,< High School
+1431,16,4 Yrs College
+1432,0,<High School
 1433,12,High School
 1434,12,High School
-1437,9,< High School
+1437,9,<High School
 1438,14,Some College
-1440,16,4 Years of College
+1440,16,4 Yrs College
 1442,12,High School
-1444,17,> 4 years of college
+1444,17,>4 Yrs College
 1445,12,High School
 1447,12,High School
-1448,8,< High School
-1449,16,4 Years of College
+1448,8,<High School
+1449,16,4 Yrs College
 1451,12,High School
 1452,12,High School
 1453,12,High School
 1454,12,High School
-1455,16,4 Years of College
-1456,17,> 4 years of college
+1455,16,4 Yrs College
+1456,17,>4 Yrs College
 1458,12,High School
-1459,8,< High School
+1459,8,<High School
 1466,12,High School
 1467,12,High School
-1468,16,4 Years of College
-1469,8,< High School
+1468,16,4 Yrs College
+1469,8,<High School
 1470,12,High School
-1472,9,< High School
+1472,9,<High School
 1474,12,High School
 1475,12,High School
 1477,12,High School
 1478,12,High School
-1479,0,< High School
+1479,0,<High School
 1480,12,High School
-1481,16,4 Years of College
-1482,16,4 Years of College
-1483,17,> 4 years of college
+1481,16,4 Yrs College
+1482,16,4 Yrs College
+1483,17,>4 Yrs College
 1484,12,High School
 1487,13,Some College
-1489,16,4 Years of College
+1489,16,4 Yrs College
 1490,12,High School
-1491,11,< High School
+1491,11,<High School
 1493,14,Some College
-1495,18,> 4 years of college
+1495,18,>4 Yrs College
 1496,12,High School
 1499,14,Some College
 1502,12,High School
-1505,16,4 Years of College
-1506,4,< High School
+1505,16,4 Yrs College
+1506,4,<High School
 1507,14,Some College
 1508,12,High School
 1509,14,Some College
 1512,12,High School
 1513,12,High School
 1514,12,High School
-1516,9,< High School
+1516,9,<High School
 1517,12,High School
-1518,0,< High School
-1519,9,< High School
-1522,5,< High School
-1523,11,< High School
+1518,0,<High School
+1519,9,<High School
+1522,5,<High School
+1523,11,<High School
 1524,13,Some College
 1525,13,Some College
-1528,16,4 Years of College
+1528,16,4 Yrs College
 1534,12,High School
 1535,12,High School
 1537,12,High School
 1538,12,High School
 1539,12,High School
-1540,16,4 Years of College
-1541,0,< High School
-1542,18,> 4 years of college
-1543,16,4 Years of College
-1547,16,4 Years of College
+1540,16,4 Yrs College
+1541,0,<High School
+1542,18,>4 Yrs College
+1543,16,4 Yrs College
+1547,16,4 Yrs College
 1548,12,High School
-1549,7,< High School
-1552,3,< High School
+1549,7,<High School
+1552,3,<High School
 1554,12,High School
 1555,12,High School
-1557,16,4 Years of College
-1558,3,< High School
-1560,8,< High School
+1557,16,4 Yrs College
+1558,3,<High School
+1560,8,<High School
 1561,12,High School
 1562,12,High School
-1563,5,< High School
+1563,5,<High School
 1564,14,Some College
 1567,12,High School
 1568,12,High School
-1569,16,4 Years of College
-1570,8,< High School
-1572,8,< High School
+1569,16,4 Yrs College
+1570,8,<High School
+1572,8,<High School
 1573,14,Some College
 1575,12,High School
 1577,12,High School
 1580,12,High School
 1582,12,High School
-1584,16,4 Years of College
+1584,16,4 Yrs College
 1585,12,High School
 1586,14,Some College
 1587,12,High School
-1588,6,< High School
-1590,6,< High School
+1588,6,<High School
+1590,6,<High School
 1591,12,High School
-1592,16,4 Years of College
-1593,16,4 Years of College
-1594,16,4 Years of College
+1592,16,4 Yrs College
+1593,16,4 Yrs College
+1594,16,4 Yrs College
 1596,12,High School
-1597,10,< High School
-1598,4,< High School
+1597,10,<High School
+1598,4,<High School
 1601,12,High School
-1602,8,< High School
+1602,8,<High School
 1603,12,High School
-1604,16,4 Years of College
+1604,16,4 Yrs College
 1606,12,High School
-1607,3,< High School
-1608,11,< High School
+1607,3,<High School
+1608,11,<High School
 1610,14,Some College
 1612,12,High School
-1614,11,< High School
-1616,8,< High School
-1617,16,4 Years of College
-1618,18,> 4 years of college
+1614,11,<High School
+1616,8,<High School
+1617,16,4 Yrs College
+1618,18,>4 Yrs College
 1619,12,High School
 1620,14,Some College
-1624,0,< High School
-1625,16,4 Years of College
-1626,16,4 Years of College
+1624,0,<High School
+1625,16,4 Yrs College
+1626,16,4 Yrs College
 1627,14,Some College
 1628,12,High School
-1631,16,4 Years of College
+1631,16,4 Yrs College
 1632,12,High School
-1634,16,4 Years of College
+1634,16,4 Yrs College
 1638,13,Some College
-1640,7,< High School
+1640,7,<High School
 1643,12,High School
 1646,12,High School
 1647,12,High School
-1648,16,4 Years of College
-1649,16,4 Years of College
+1648,16,4 Yrs College
+1649,16,4 Yrs College
 1650,13,Some College
 1653,12,High School
 1657,12,High School
 1658,12,High School
 1660,12,High School
 1661,12,High School
-1662,8,< High School
+1662,8,<High School
 1664,12,High School
-1665,11,< High School
+1665,11,<High School
 1669,12,High School
 1671,12,High School
 1672,12,High School
-1673,8,< High School
+1673,8,<High School
 1675,12,High School
 1676,12,High School
-1677,9,< High School
-1678,7,< High School
+1677,9,<High School
+1678,7,<High School
 1681,12,High School
-1683,16,4 Years of College
+1683,16,4 Yrs College
 1684,12,High School
-1685,16,4 Years of College
+1685,16,4 Yrs College
 1686,12,High School
-1688,16,4 Years of College
+1688,16,4 Yrs College
 1689,12,High School
 1691,12,High School
-1692,20,> 4 years of college
-1694,11,< High School
+1692,20,>4 Yrs College
+1694,11,<High School
 1695,12,High School
 1696,13,Some College
 1697,12,High School
@@ -1099,55 +1099,55 @@ id,paeduc,education
 1701,14,Some College
 1702,12,High School
 1703,12,High School
-1704,9,< High School
+1704,9,<High School
 1705,14,Some College
-1707,10,< High School
+1707,10,<High School
 1709,14,Some College
-1710,11,< High School
+1710,11,<High School
 1711,12,High School
 1712,12,High School
 1714,12,High School
 1715,13,Some College
 1716,12,High School
 1717,13,Some College
-1719,16,4 Years of College
-1720,9,< High School
-1721,16,4 Years of College
-1722,11,< High School
+1719,16,4 Yrs College
+1720,9,<High School
+1721,16,4 Yrs College
+1722,11,<High School
 1723,12,High School
 1726,12,High School
-1727,16,4 Years of College
+1727,16,4 Yrs College
 1728,12,High School
 1729,12,High School
 1731,14,Some College
 1733,15,Some College
 1734,12,High School
 1735,12,High School
-1736,20,> 4 years of college
+1736,20,>4 Yrs College
 1741,12,High School
 1742,13,Some College
-1743,9,< High School
+1743,9,<High School
 1745,15,Some College
 1746,12,High School
 1747,12,High School
-1748,10,< High School
+1748,10,<High School
 1750,14,Some College
 1751,12,High School
 1752,12,High School
-1753,10,< High School
-1754,9,< High School
-1756,16,4 Years of College
-1757,16,4 Years of College
+1753,10,<High School
+1754,9,<High School
+1756,16,4 Yrs College
+1757,16,4 Yrs College
 1758,14,Some College
 1759,14,Some College
 1760,12,High School
-1761,16,4 Years of College
-1762,8,< High School
-1764,16,4 Years of College
+1761,16,4 Yrs College
+1762,8,<High School
+1764,16,4 Yrs College
 1766,14,Some College
 1767,12,High School
-1769,8,< High School
-1770,18,> 4 years of college
+1769,8,<High School
+1770,18,>4 Yrs College
 1771,12,High School
 1772,12,High School
 1773,14,Some College
@@ -1159,50 +1159,50 @@ id,paeduc,education
 1785,12,High School
 1786,12,High School
 1788,12,High School
-1789,16,4 Years of College
-1790,11,< High School
-1791,20,> 4 years of college
-1792,6,< High School
+1789,16,4 Yrs College
+1790,11,<High School
+1791,20,>4 Yrs College
+1792,6,<High School
 1794,14,Some College
-1796,8,< High School
+1796,8,<High School
 1797,12,High School
 1798,13,Some College
 1802,12,High School
 1803,12,High School
 1806,12,High School
-1807,8,< High School
+1807,8,<High School
 1808,12,High School
 1809,14,Some College
-1811,16,4 Years of College
+1811,16,4 Yrs College
 1812,12,High School
 1813,12,High School
 1814,12,High School
-1815,11,< High School
+1815,11,<High School
 1816,12,High School
-1817,11,< High School
-1818,20,> 4 years of college
-1819,20,> 4 years of college
+1817,11,<High School
+1818,20,>4 Yrs College
+1819,20,>4 Yrs College
 1822,12,High School
 1824,12,High School
 1826,12,High School
 1827,12,High School
 1829,15,Some College
-1830,8,< High School
+1830,8,<High School
 1837,12,High School
 1838,12,High School
 1840,12,High School
 1841,12,High School
 1842,12,High School
-1845,8,< High School
-1847,8,< High School
+1845,8,<High School
+1847,8,<High School
 1848,12,High School
 1849,12,High School
-1850,6,< High School
-1851,20,> 4 years of college
+1850,6,<High School
+1851,20,>4 Yrs College
 1852,12,High School
 1853,12,High School
 1854,14,Some College
-1856,5,< High School
+1856,5,<High School
 1857,12,High School
 1858,13,Some College
 1859,13,Some College
@@ -1210,531 +1210,531 @@ id,paeduc,education
 1861,12,High School
 1862,12,High School
 1863,12,High School
-1864,20,> 4 years of college
+1864,20,>4 Yrs College
 1865,12,High School
 1866,12,High School
 1867,12,High School
 1868,12,High School
 1869,12,High School
 1871,12,High School
-1872,8,< High School
+1872,8,<High School
 1875,12,High School
 1876,13,Some College
-1877,11,< High School
-1878,8,< High School
-1879,8,< High School
-1881,16,4 Years of College
-1882,7,< High School
+1877,11,<High School
+1878,8,<High School
+1879,8,<High School
+1881,16,4 Yrs College
+1882,7,<High School
 1883,12,High School
-1884,16,4 Years of College
-1885,9,< High School
-1887,10,< High School
+1884,16,4 Yrs College
+1885,9,<High School
+1887,10,<High School
 1888,12,High School
 1889,14,Some College
-1890,11,< High School
-1891,16,4 Years of College
+1890,11,<High School
+1891,16,4 Yrs College
 1892,12,High School
 1894,14,Some College
-1895,20,> 4 years of college
-1897,18,> 4 years of college
+1895,20,>4 Yrs College
+1897,18,>4 Yrs College
 1898,12,High School
-1899,16,4 Years of College
-1901,16,4 Years of College
+1899,16,4 Yrs College
+1901,16,4 Yrs College
 1903,13,Some College
-1904,20,> 4 years of college
-1905,10,< High School
+1904,20,>4 Yrs College
+1905,10,<High School
 1908,12,High School
 1909,13,Some College
 1910,12,High School
 1912,13,Some College
 1914,12,High School
-1915,8,< High School
+1915,8,<High School
 1916,13,Some College
-1918,18,> 4 years of college
-1922,16,4 Years of College
+1918,18,>4 Yrs College
+1922,16,4 Yrs College
 1923,13,Some College
 1924,12,High School
-1925,16,4 Years of College
+1925,16,4 Yrs College
 1926,12,High School
 1929,12,High School
 1932,12,High School
 1933,13,Some College
-1934,3,< High School
-1935,17,> 4 years of college
+1934,3,<High School
+1935,17,>4 Yrs College
 1936,14,Some College
-1937,16,4 Years of College
+1937,16,4 Yrs College
 1938,12,High School
-1939,16,4 Years of College
+1939,16,4 Yrs College
 1942,12,High School
 1943,14,Some College
-1946,10,< High School
+1946,10,<High School
 1947,14,Some College
 1950,12,High School
-1951,8,< High School
+1951,8,<High School
 1953,14,Some College
-1954,6,< High School
+1954,6,<High School
 1959,14,Some College
 1960,12,High School
 1961,12,High School
 1962,12,High School
 1965,12,High School
-1966,0,< High School
-1967,18,> 4 years of college
+1966,0,<High School
+1967,18,>4 Yrs College
 1968,12,High School
 1969,12,High School
-1970,16,4 Years of College
+1970,16,4 Yrs College
 1971,12,High School
-1973,16,4 Years of College
+1973,16,4 Yrs College
 1976,15,Some College
 1978,12,High School
-1979,10,< High School
-1980,18,> 4 years of college
-1981,6,< High School
-1984,18,> 4 years of college
+1979,10,<High School
+1980,18,>4 Yrs College
+1981,6,<High School
+1984,18,>4 Yrs College
 1985,13,Some College
 1986,12,High School
-1988,16,4 Years of College
+1988,16,4 Yrs College
 1989,15,Some College
 1990,12,High School
-1992,11,< High School
+1992,11,<High School
 1993,12,High School
 1996,12,High School
-1998,10,< High School
+1998,10,<High School
 1999,12,High School
 2000,12,High School
 2001,12,High School
 2003,12,High School
 2005,13,Some College
 2011,12,High School
-2012,18,> 4 years of college
+2012,18,>4 Yrs College
 2018,14,Some College
-2019,17,> 4 years of college
-2021,16,4 Years of College
-2022,6,< High School
-2023,6,< High School
+2019,17,>4 Yrs College
+2021,16,4 Yrs College
+2022,6,<High School
+2023,6,<High School
 2027,12,High School
 2028,12,High School
 2029,13,Some College
-2030,16,4 Years of College
-2031,6,< High School
-2034,16,4 Years of College
+2030,16,4 Yrs College
+2031,6,<High School
+2034,16,4 Yrs College
 2035,12,High School
 2036,12,High School
-2037,6,< High School
-2038,16,4 Years of College
-2039,8,< High School
+2037,6,<High School
+2038,16,4 Yrs College
+2039,8,<High School
 2040,12,High School
 2048,15,Some College
-2049,16,4 Years of College
-2050,20,> 4 years of college
-2053,16,4 Years of College
-2057,7,< High School
-2058,11,< High School
-2067,8,< High School
-2069,16,4 Years of College
-2070,8,< High School
-2071,5,< High School
+2049,16,4 Yrs College
+2050,20,>4 Yrs College
+2053,16,4 Yrs College
+2057,7,<High School
+2058,11,<High School
+2067,8,<High School
+2069,16,4 Yrs College
+2070,8,<High School
+2071,5,<High School
 2072,12,High School
-2074,3,< High School
+2074,3,<High School
 2076,12,High School
-2077,7,< High School
+2077,7,<High School
 2079,12,High School
 2080,13,Some College
-2082,0,< High School
+2082,0,<High School
 2084,12,High School
-2087,5,< High School
+2087,5,<High School
 2089,13,Some College
-2091,8,< High School
-2092,16,4 Years of College
+2091,8,<High School
+2092,16,4 Yrs College
 2094,13,Some College
-2095,10,< High School
-2097,16,4 Years of College
+2095,10,<High School
+2097,16,4 Yrs College
 2098,12,High School
 2100,12,High School
-2101,3,< High School
-2108,16,4 Years of College
-2109,18,> 4 years of college
+2101,3,<High School
+2108,16,4 Yrs College
+2109,18,>4 Yrs College
 2110,12,High School
-2111,16,4 Years of College
+2111,16,4 Yrs College
 2112,12,High School
 2113,12,High School
 2114,12,High School
 2115,12,High School
 2118,12,High School
-2120,20,> 4 years of college
-2121,16,4 Years of College
+2120,20,>4 Yrs College
+2121,16,4 Yrs College
 2122,12,High School
 2123,12,High School
-2124,18,> 4 years of college
+2124,18,>4 Yrs College
 2125,12,High School
-2126,16,4 Years of College
-2127,16,4 Years of College
-2129,7,< High School
-2131,16,4 Years of College
-2132,3,< High School
+2126,16,4 Yrs College
+2127,16,4 Yrs College
+2129,7,<High School
+2131,16,4 Yrs College
+2132,3,<High School
 2134,12,High School
 2135,14,Some College
-2141,8,< High School
-2142,16,4 Years of College
-2143,20,> 4 years of college
-2144,8,< High School
+2141,8,<High School
+2142,16,4 Yrs College
+2143,20,>4 Yrs College
+2144,8,<High School
 2148,12,High School
-2150,10,< High School
-2151,16,4 Years of College
-2152,16,4 Years of College
+2150,10,<High School
+2151,16,4 Yrs College
+2152,16,4 Yrs College
 2153,14,Some College
 2154,12,High School
-2156,16,4 Years of College
+2156,16,4 Yrs College
 2157,12,High School
 2158,12,High School
 2159,12,High School
 2160,12,High School
-2161,16,4 Years of College
-2162,16,4 Years of College
-2163,11,< High School
+2161,16,4 Yrs College
+2162,16,4 Yrs College
+2163,11,<High School
 2164,12,High School
 2165,14,Some College
 2166,12,High School
-2169,6,< High School
-2170,2,< High School
-2172,16,4 Years of College
-2173,8,< High School
-2175,18,> 4 years of college
+2169,6,<High School
+2170,2,<High School
+2172,16,4 Yrs College
+2173,8,<High School
+2175,18,>4 Yrs College
 2176,12,High School
 2177,12,High School
 2178,12,High School
 2179,12,High School
-2183,8,< High School
+2183,8,<High School
 2184,12,High School
-2186,18,> 4 years of college
-2187,6,< High School
-2191,7,< High School
-2194,10,< High School
+2186,18,>4 Yrs College
+2187,6,<High School
+2191,7,<High School
+2194,10,<High School
 2195,14,Some College
-2197,9,< High School
+2197,9,<High School
 2198,12,High School
 2201,14,Some College
 2202,12,High School
 2204,12,High School
 2205,12,High School
 2207,14,Some College
-2209,17,> 4 years of college
+2209,17,>4 Yrs College
 2210,12,High School
-2212,10,< High School
-2215,16,4 Years of College
+2212,10,<High School
+2215,16,4 Yrs College
 2217,12,High School
 2220,12,High School
-2221,20,> 4 years of college
-2222,16,4 Years of College
+2221,20,>4 Yrs College
+2222,16,4 Yrs College
 2223,12,High School
 2224,12,High School
-2225,16,4 Years of College
-2228,2,< High School
+2225,16,4 Yrs College
+2228,2,<High School
 2231,12,High School
 2232,12,High School
-2233,16,4 Years of College
+2233,16,4 Yrs College
 2234,12,High School
 2236,12,High School
-2237,5,< High School
+2237,5,<High School
 2238,15,Some College
-2239,9,< High School
-2241,3,< High School
-2242,16,4 Years of College
+2239,9,<High School
+2241,3,<High School
+2242,16,4 Yrs College
 2243,14,Some College
 2244,14,Some College
 2246,15,Some College
-2247,18,> 4 years of college
-2250,10,< High School
-2254,16,4 Years of College
+2247,18,>4 Yrs College
+2250,10,<High School
+2254,16,4 Yrs College
 2256,12,High School
-2259,16,4 Years of College
-2260,16,4 Years of College
-2261,16,4 Years of College
+2259,16,4 Yrs College
+2260,16,4 Yrs College
+2261,16,4 Yrs College
 2262,15,Some College
-2263,16,4 Years of College
+2263,16,4 Yrs College
 2264,13,Some College
-2265,17,> 4 years of college
+2265,17,>4 Yrs College
 2266,12,High School
-2267,18,> 4 years of college
+2267,18,>4 Yrs College
 2269,12,High School
-2270,10,< High School
+2270,10,<High School
 2271,12,High School
-2272,16,4 Years of College
-2274,16,4 Years of College
+2272,16,4 Yrs College
+2274,16,4 Yrs College
 2275,12,High School
-2276,16,4 Years of College
-2277,11,< High School
-2279,3,< High School
+2276,16,4 Yrs College
+2277,11,<High School
+2279,3,<High School
 2280,14,Some College
 2283,12,High School
 2285,12,High School
 2286,14,Some College
-2287,20,> 4 years of college
-2288,18,> 4 years of college
+2287,20,>4 Yrs College
+2288,18,>4 Yrs College
 2290,14,Some College
-2292,16,4 Years of College
+2292,16,4 Yrs College
 2293,12,High School
-2294,16,4 Years of College
+2294,16,4 Yrs College
 2295,12,High School
 2297,12,High School
 2298,12,High School
 2299,12,High School
-2301,10,< High School
-2303,16,4 Years of College
+2301,10,<High School
+2303,16,4 Yrs College
 2306,13,Some College
-2307,11,< High School
-2309,10,< High School
-2310,18,> 4 years of college
+2307,11,<High School
+2309,10,<High School
+2310,18,>4 Yrs College
 2311,12,High School
-2312,20,> 4 years of college
-2313,16,4 Years of College
-2314,20,> 4 years of college
-2315,11,< High School
-2316,16,4 Years of College
-2317,10,< High School
-2318,20,> 4 years of college
+2312,20,>4 Yrs College
+2313,16,4 Yrs College
+2314,20,>4 Yrs College
+2315,11,<High School
+2316,16,4 Yrs College
+2317,10,<High School
+2318,20,>4 Yrs College
 2319,12,High School
-2320,16,4 Years of College
-2325,18,> 4 years of college
-2327,3,< High School
+2320,16,4 Yrs College
+2325,18,>4 Yrs College
+2327,3,<High School
 2330,14,Some College
 2331,12,High School
-2332,20,> 4 years of college
+2332,20,>4 Yrs College
 2337,12,High School
-2343,16,4 Years of College
-2345,7,< High School
+2343,16,4 Yrs College
+2345,7,<High School
 2346,12,High School
-2347,16,4 Years of College
-2349,10,< High School
+2347,16,4 Yrs College
+2349,10,<High School
 2350,12,High School
 2351,14,Some College
 2354,12,High School
 2357,12,High School
-2358,8,< High School
+2358,8,<High School
 2360,12,High School
 2363,12,High School
-2364,3,< High School
-2366,8,< High School
+2364,3,<High School
+2366,8,<High School
 2369,12,High School
-2371,16,4 Years of College
+2371,16,4 Yrs College
 2374,12,High School
-2375,10,< High School
+2375,10,<High School
 2379,12,High School
 2381,12,High School
 2382,12,High School
 2383,12,High School
 2386,12,High School
-2387,20,> 4 years of college
+2387,20,>4 Yrs College
 2388,12,High School
-2389,18,> 4 years of college
+2389,18,>4 Yrs College
 2391,14,Some College
-2392,8,< High School
-2393,18,> 4 years of college
-2394,11,< High School
-2396,3,< High School
+2392,8,<High School
+2393,18,>4 Yrs College
+2394,11,<High School
+2396,3,<High School
 2397,15,Some College
-2404,16,4 Years of College
+2404,16,4 Yrs College
 2405,13,Some College
 2406,12,High School
 2407,12,High School
 2408,12,High School
-2411,6,< High School
+2411,6,<High School
 2416,12,High School
 2417,13,Some College
 2418,12,High School
 2419,12,High School
 2421,13,Some College
-2422,0,< High School
-2424,17,> 4 years of college
+2422,0,<High School
+2424,17,>4 Yrs College
 2425,12,High School
 2426,12,High School
-2433,16,4 Years of College
-2434,18,> 4 years of college
-2436,16,4 Years of College
-2437,16,4 Years of College
-2438,7,< High School
+2433,16,4 Yrs College
+2434,18,>4 Yrs College
+2436,16,4 Yrs College
+2437,16,4 Yrs College
+2438,7,<High School
 2439,12,High School
-2440,16,4 Years of College
-2441,4,< High School
-2443,11,< High School
+2440,16,4 Yrs College
+2441,4,<High School
+2443,11,<High School
 2445,12,High School
-2446,5,< High School
-2447,16,4 Years of College
-2448,5,< High School
-2449,16,4 Years of College
-2450,16,4 Years of College
+2446,5,<High School
+2447,16,4 Yrs College
+2448,5,<High School
+2449,16,4 Yrs College
+2450,16,4 Yrs College
 2451,12,High School
-2454,4,< High School
+2454,4,<High School
 2455,13,Some College
 2457,12,High School
-2459,16,4 Years of College
-2460,16,4 Years of College
-2463,17,> 4 years of college
-2465,19,> 4 years of college
-2466,7,< High School
-2467,18,> 4 years of college
-2468,17,> 4 years of college
-2469,16,4 Years of College
+2459,16,4 Yrs College
+2460,16,4 Yrs College
+2463,17,>4 Yrs College
+2465,19,>4 Yrs College
+2466,7,<High School
+2467,18,>4 Yrs College
+2468,17,>4 Yrs College
+2469,16,4 Yrs College
 2470,12,High School
 2471,12,High School
-2472,10,< High School
-2474,19,> 4 years of college
+2472,10,<High School
+2474,19,>4 Yrs College
 2475,15,Some College
-2478,16,4 Years of College
-2479,8,< High School
-2481,16,4 Years of College
+2478,16,4 Yrs College
+2479,8,<High School
+2481,16,4 Yrs College
 2487,12,High School
-2488,16,4 Years of College
-2489,16,4 Years of College
-2490,16,4 Years of College
+2488,16,4 Yrs College
+2489,16,4 Yrs College
+2490,16,4 Yrs College
 2494,12,High School
 2495,12,High School
 2496,12,High School
-2497,6,< High School
-2498,16,4 Years of College
+2497,6,<High School
+2498,16,4 Yrs College
 2499,12,High School
 2501,12,High School
-2502,8,< High School
-2503,16,4 Years of College
-2504,19,> 4 years of college
-2505,18,> 4 years of college
+2502,8,<High School
+2503,16,4 Yrs College
+2504,19,>4 Yrs College
+2505,18,>4 Yrs College
 2506,12,High School
 2507,12,High School
-2511,4,< High School
-2514,20,> 4 years of college
+2511,4,<High School
+2514,20,>4 Yrs College
 2515,12,High School
-2516,20,> 4 years of college
+2516,20,>4 Yrs College
 2517,12,High School
-2519,17,> 4 years of college
-2520,10,< High School
-2521,16,4 Years of College
-2522,18,> 4 years of college
-2524,16,4 Years of College
-2525,6,< High School
+2519,17,>4 Yrs College
+2520,10,<High School
+2521,16,4 Yrs College
+2522,18,>4 Yrs College
+2524,16,4 Yrs College
+2525,6,<High School
 2526,12,High School
-2527,9,< High School
-2528,6,< High School
+2527,9,<High School
+2528,6,<High School
 2529,12,High School
 2530,12,High School
-2531,11,< High School
-2537,9,< High School
+2531,11,<High School
+2537,9,<High School
 2539,12,High School
 2540,12,High School
-2541,2,< High School
+2541,2,<High School
 2542,14,Some College
-2544,6,< High School
-2547,16,4 Years of College
+2544,6,<High School
+2547,16,4 Yrs College
 2548,13,Some College
 2550,14,Some College
-2551,18,> 4 years of college
-2552,8,< High School
-2555,8,< High School
+2551,18,>4 Yrs College
+2552,8,<High School
+2555,8,<High School
 2556,12,High School
-2557,16,4 Years of College
-2559,16,4 Years of College
-2560,8,< High School
+2557,16,4 Yrs College
+2559,16,4 Yrs College
+2560,8,<High School
 2561,12,High School
-2565,20,> 4 years of college
+2565,20,>4 Yrs College
 2567,13,Some College
-2568,6,< High School
+2568,6,<High School
 2569,14,Some College
-2571,20,> 4 years of college
+2571,20,>4 Yrs College
 2572,12,High School
 2573,14,Some College
-2574,20,> 4 years of college
+2574,20,>4 Yrs College
 2575,12,High School
 2576,13,Some College
 2578,12,High School
 2579,12,High School
-2580,18,> 4 years of college
+2580,18,>4 Yrs College
 2581,12,High School
-2582,18,> 4 years of college
-2583,18,> 4 years of college
-2584,9,< High School
+2582,18,>4 Yrs College
+2583,18,>4 Yrs College
+2584,9,<High School
 2585,12,High School
 2586,14,Some College
 2587,12,High School
 2589,12,High School
 2590,12,High School
-2591,20,> 4 years of college
-2592,10,< High School
-2593,20,> 4 years of college
-2594,18,> 4 years of college
-2595,16,4 Years of College
+2591,20,>4 Yrs College
+2592,10,<High School
+2593,20,>4 Yrs College
+2594,18,>4 Yrs College
+2595,16,4 Yrs College
 2596,12,High School
 2598,12,High School
-2599,16,4 Years of College
-2600,11,< High School
+2599,16,4 Yrs College
+2600,11,<High School
 2601,12,High School
-2602,18,> 4 years of college
-2604,17,> 4 years of college
-2606,16,4 Years of College
+2602,18,>4 Yrs College
+2604,17,>4 Yrs College
+2606,16,4 Yrs College
 2607,12,High School
-2608,16,4 Years of College
+2608,16,4 Yrs College
 2609,14,Some College
-2611,6,< High School
-2612,8,< High School
-2613,16,4 Years of College
+2611,6,<High School
+2612,8,<High School
+2613,16,4 Yrs College
 2614,12,High School
 2615,13,Some College
 2617,12,High School
-2618,18,> 4 years of college
-2619,6,< High School
-2620,9,< High School
-2621,16,4 Years of College
-2623,8,< High School
+2618,18,>4 Yrs College
+2619,6,<High School
+2620,9,<High School
+2621,16,4 Yrs College
+2623,8,<High School
 2624,12,High School
-2626,11,< High School
-2627,6,< High School
-2629,16,4 Years of College
-2630,18,> 4 years of college
+2626,11,<High School
+2627,6,<High School
+2629,16,4 Yrs College
+2630,18,>4 Yrs College
 2631,12,High School
-2632,20,> 4 years of college
-2634,8,< High School
+2632,20,>4 Yrs College
+2634,8,<High School
 2635,14,Some College
 2636,14,Some College
 2637,14,Some College
 2639,14,Some College
-2640,18,> 4 years of college
+2640,18,>4 Yrs College
 2642,12,High School
 2643,14,Some College
 2644,12,High School
-2645,11,< High School
+2645,11,<High School
 2648,12,High School
-2649,7,< High School
-2650,7,< High School
-2651,2,< High School
-2652,8,< High School
-2653,17,> 4 years of college
-2655,8,< High School
-2656,16,4 Years of College
-2658,10,< High School
+2649,7,<High School
+2650,7,<High School
+2651,2,<High School
+2652,8,<High School
+2653,17,>4 Yrs College
+2655,8,<High School
+2656,16,4 Yrs College
+2658,10,<High School
 2660,12,High School
-2661,2,< High School
+2661,2,<High School
 2662,12,High School
-2664,16,4 Years of College
-2665,0,< High School
+2664,16,4 Yrs College
+2665,0,<High School
 2666,12,High School
 2668,12,High School
 2671,15,Some College
-2674,16,4 Years of College
+2674,16,4 Yrs College
 2675,13,Some College
-2678,0,< High School
-2679,11,< High School
-2680,8,< High School
-2681,8,< High School
-2682,3,< High School
-2684,8,< High School
+2678,0,<High School
+2679,11,<High School
+2680,8,<High School
+2681,8,<High School
+2682,3,<High School
+2684,8,<High School
 2685,12,High School
 2686,13,Some College
-2687,16,4 Years of College
+2687,16,4 Yrs College
 2688,12,High School
 2689,12,High School
-2690,16,4 Years of College
-2692,2,< High School
+2690,16,4 Yrs College
+2692,2,<High School
 2695,13,Some College
 2696,12,High School
-2698,17,> 4 years of college
+2698,17,>4 Yrs College
 2699,14,Some College
 2700,12,High School
 2702,12,High School
@@ -1743,83 +1743,83 @@ id,paeduc,education
 2706,12,High School
 2707,12,High School
 2710,12,High School
-2711,8,< High School
-2712,18,> 4 years of college
+2711,8,<High School
+2712,18,>4 Yrs College
 2713,12,High School
-2714,20,> 4 years of college
-2717,16,4 Years of College
+2714,20,>4 Yrs College
+2717,16,4 Yrs College
 2718,12,High School
 2722,12,High School
-2723,16,4 Years of College
+2723,16,4 Yrs College
 2725,12,High School
-2726,16,4 Years of College
-2727,20,> 4 years of college
-2729,8,< High School
-2733,8,< High School
+2726,16,4 Yrs College
+2727,20,>4 Yrs College
+2729,8,<High School
+2733,8,<High School
 2734,12,High School
-2735,1,< High School
-2736,2,< High School
-2737,16,4 Years of College
-2738,8,< High School
-2740,8,< High School
+2735,1,<High School
+2736,2,<High School
+2737,16,4 Yrs College
+2738,8,<High School
+2740,8,<High School
 2742,13,Some College
-2743,18,> 4 years of college
+2743,18,>4 Yrs College
 2745,14,Some College
 2746,14,Some College
 2747,12,High School
 2748,12,High School
-2749,20,> 4 years of college
+2749,20,>4 Yrs College
 2750,12,High School
-2751,3,< High School
+2751,3,<High School
 2754,12,High School
-2759,19,> 4 years of college
-2760,20,> 4 years of college
-2761,6,< High School
+2759,19,>4 Yrs College
+2760,20,>4 Yrs College
+2761,6,<High School
 2762,12,High School
 2763,14,Some College
-2764,6,< High School
-2766,8,< High School
+2764,6,<High School
+2766,8,<High School
 2771,12,High School
-2772,7,< High School
-2773,11,< High School
+2772,7,<High School
+2773,11,<High School
 2774,12,High School
-2776,8,< High School
+2776,8,<High School
 2777,12,High School
-2778,8,< High School
+2778,8,<High School
 2781,12,High School
 2784,12,High School
 2785,12,High School
-2786,8,< High School
-2787,10,< High School
-2790,19,> 4 years of college
-2791,16,4 Years of College
-2793,8,< High School
-2794,16,4 Years of College
-2797,16,4 Years of College
-2800,8,< High School
+2786,8,<High School
+2787,10,<High School
+2790,19,>4 Yrs College
+2791,16,4 Yrs College
+2793,8,<High School
+2794,16,4 Yrs College
+2797,16,4 Yrs College
+2800,8,<High School
 2801,12,High School
-2804,16,4 Years of College
-2805,17,> 4 years of college
-2806,8,< High School
+2804,16,4 Yrs College
+2805,17,>4 Yrs College
+2806,8,<High School
 2807,12,High School
-2809,18,> 4 years of college
+2809,18,>4 Yrs College
 2810,12,High School
 2813,12,High School
-2816,9,< High School
-2817,18,> 4 years of college
+2816,9,<High School
+2817,18,>4 Yrs College
 2819,14,Some College
 2820,12,High School
 2821,14,Some College
 2822,12,High School
-2824,20,> 4 years of college
-2825,8,< High School
+2824,20,>4 Yrs College
+2825,8,<High School
 2826,12,High School
-2828,16,4 Years of College
-2829,4,< High School
-2831,6,< High School
+2828,16,4 Yrs College
+2829,4,<High School
+2831,6,<High School
 2832,12,High School
 2833,12,High School
-2835,16,4 Years of College
+2835,16,4 Yrs College
 2836,12,High School
 2838,15,Some College
 2839,14,Some College
@@ -1828,453 +1828,453 @@ id,paeduc,education
 2843,14,Some College
 2844,12,High School
 2846,12,High School
-2847,16,4 Years of College
-2848,16,4 Years of College
+2847,16,4 Yrs College
+2848,16,4 Yrs College
 2849,13,Some College
-2850,20,> 4 years of college
+2850,20,>4 Yrs College
 2852,12,High School
-2853,8,< High School
+2853,8,<High School
 2854,12,High School
 2857,12,High School
 2858,12,High School
-2859,9,< High School
+2859,9,<High School
 2860,13,Some College
-2861,10,< High School
+2861,10,<High School
 2864,12,High School
 2865,12,High School
 2866,14,Some College
-2867,10,< High School
+2867,10,<High School
 2869,12,High School
-2870,20,> 4 years of college
-2871,11,< High School
+2870,20,>4 Yrs College
+2871,11,<High School
 2872,12,High School
 2873,12,High School
 2874,12,High School
 2875,12,High School
-2876,17,> 4 years of college
+2876,17,>4 Yrs College
 2877,12,High School
-2878,11,< High School
+2878,11,<High School
 2880,12,High School
 2882,14,Some College
 2883,12,High School
-2886,16,4 Years of College
+2886,16,4 Yrs College
 2887,12,High School
 2889,12,High School
-2891,8,< High School
+2891,8,<High School
 2892,12,High School
 2895,12,High School
 2896,12,High School
 2897,12,High School
-2898,4,< High School
+2898,4,<High School
 2900,12,High School
 2901,14,Some College
-2902,19,> 4 years of college
+2902,19,>4 Yrs College
 2903,12,High School
-2905,16,4 Years of College
-2909,16,4 Years of College
-2910,16,4 Years of College
-2911,17,> 4 years of college
+2905,16,4 Yrs College
+2909,16,4 Yrs College
+2910,16,4 Yrs College
+2911,17,>4 Yrs College
 2912,14,Some College
 2914,12,High School
-2915,16,4 Years of College
+2915,16,4 Yrs College
 2918,12,High School
 2919,12,High School
-2920,20,> 4 years of college
-2921,2,< High School
-2922,8,< High School
+2920,20,>4 Yrs College
+2921,2,<High School
+2922,8,<High School
 2923,14,Some College
 2925,12,High School
-2926,18,> 4 years of college
+2926,18,>4 Yrs College
 2927,12,High School
 2928,12,High School
 2929,12,High School
 2930,12,High School
-2931,16,4 Years of College
-2936,18,> 4 years of college
-2937,9,< High School
+2931,16,4 Yrs College
+2936,18,>4 Yrs College
+2937,9,<High School
 2938,12,High School
-2940,10,< High School
-2941,6,< High School
+2940,10,<High School
+2941,6,<High School
 2943,13,Some College
-2944,16,4 Years of College
-2945,18,> 4 years of college
+2944,16,4 Yrs College
+2945,18,>4 Yrs College
 2946,12,High School
 2948,12,High School
 2949,12,High School
-2950,16,4 Years of College
+2950,16,4 Yrs College
 2951,12,High School
 2952,14,Some College
-2953,16,4 Years of College
+2953,16,4 Yrs College
 2954,14,Some College
 2957,13,Some College
 2960,12,High School
-2962,16,4 Years of College
-2964,16,4 Years of College
+2962,16,4 Yrs College
+2964,16,4 Yrs College
 2965,12,High School
-2967,16,4 Years of College
-2968,6,< High School
-2972,20,> 4 years of college
-2973,8,< High School
+2967,16,4 Yrs College
+2968,6,<High School
+2972,20,>4 Yrs College
+2973,8,<High School
 2974,14,Some College
-2975,8,< High School
-2978,18,> 4 years of college
+2975,8,<High School
+2978,18,>4 Yrs College
 2979,12,High School
 2980,12,High School
-2981,9,< High School
-2984,18,> 4 years of college
-2985,8,< High School
-2988,16,4 Years of College
+2981,9,<High School
+2984,18,>4 Yrs College
+2985,8,<High School
+2988,16,4 Yrs College
 2990,12,High School
-2992,16,4 Years of College
-2993,8,< High School
-2994,16,4 Years of College
-2995,7,< High School
+2992,16,4 Yrs College
+2993,8,<High School
+2994,16,4 Yrs College
+2995,7,<High School
 2996,12,High School
-2998,8,< High School
-2999,16,4 Years of College
-3000,16,4 Years of College
-3002,16,4 Years of College
-3003,16,4 Years of College
-3005,16,4 Years of College
-3007,16,4 Years of College
+2998,8,<High School
+2999,16,4 Yrs College
+3000,16,4 Yrs College
+3002,16,4 Yrs College
+3003,16,4 Yrs College
+3005,16,4 Yrs College
+3007,16,4 Yrs College
 3008,12,High School
-3009,9,< High School
-3011,8,< High School
+3009,9,<High School
+3011,8,<High School
 3012,12,High School
 3014,14,Some College
-3015,5,< High School
-3016,9,< High School
+3015,5,<High School
+3016,9,<High School
 3019,14,Some College
-3020,19,> 4 years of college
-3021,8,< High School
-3022,9,< High School
-3023,9,< High School
+3020,19,>4 Yrs College
+3021,8,<High School
+3022,9,<High School
+3023,9,<High School
 3024,14,Some College
-3025,10,< High School
+3025,10,<High School
 3028,12,High School
 3030,13,Some College
-3033,10,< High School
+3033,10,<High School
 3035,12,High School
-3036,16,4 Years of College
+3036,16,4 Yrs College
 3038,12,High School
 3040,12,High School
-3043,18,> 4 years of college
-3044,20,> 4 years of college
+3043,18,>4 Yrs College
+3044,20,>4 Yrs College
 3045,12,High School
-3046,16,4 Years of College
+3046,16,4 Yrs College
 3047,12,High School
-3049,8,< High School
+3049,8,<High School
 3050,12,High School
 3051,12,High School
 3052,14,Some College
-3053,9,< High School
-3054,18,> 4 years of college
+3053,9,<High School
+3054,18,>4 Yrs College
 3055,12,High School
 3056,12,High School
-3057,11,< High School
+3057,11,<High School
 3060,14,Some College
 3061,12,High School
 3062,12,High School
-3063,16,4 Years of College
+3063,16,4 Yrs College
 3064,12,High School
-3065,10,< High School
+3065,10,<High School
 3066,12,High School
 3067,12,High School
-3068,18,> 4 years of college
+3068,18,>4 Yrs College
 3070,12,High School
 3071,12,High School
 3072,12,High School
 3074,12,High School
-3075,16,4 Years of College
+3075,16,4 Yrs College
 3076,12,High School
 3077,15,Some College
-3078,10,< High School
-3079,10,< High School
+3078,10,<High School
+3079,10,<High School
 3080,12,High School
 3081,12,High School
 3083,12,High School
-3084,16,4 Years of College
-3085,16,4 Years of College
+3084,16,4 Yrs College
+3085,16,4 Yrs College
 3088,12,High School
-3091,19,> 4 years of college
+3091,19,>4 Yrs College
 3094,12,High School
-3097,17,> 4 years of college
-3098,8,< High School
+3097,17,>4 Yrs College
+3098,8,<High School
 3100,12,High School
-3101,16,4 Years of College
+3101,16,4 Yrs College
 3103,15,Some College
 3104,14,Some College
 3105,12,High School
 3109,12,High School
-3112,16,4 Years of College
-3114,8,< High School
+3112,16,4 Yrs College
+3114,8,<High School
 3116,14,Some College
-3117,20,> 4 years of college
+3117,20,>4 Yrs College
 3119,12,High School
 3120,14,Some College
-3121,16,4 Years of College
+3121,16,4 Yrs College
 3124,12,High School
-3125,11,< High School
-3127,16,4 Years of College
+3125,11,<High School
+3127,16,4 Yrs College
 3130,12,High School
 3132,12,High School
-3133,6,< High School
-3134,10,< High School
+3133,6,<High School
+3134,10,<High School
 3138,12,High School
-3139,16,4 Years of College
+3139,16,4 Yrs College
 3140,12,High School
 3141,12,High School
-3142,16,4 Years of College
+3142,16,4 Yrs College
 3144,12,High School
 3146,14,Some College
 3147,13,Some College
 3149,12,High School
 3150,12,High School
-3151,8,< High School
-3152,18,> 4 years of college
-3153,10,< High School
-3154,16,4 Years of College
-3155,16,4 Years of College
+3151,8,<High School
+3152,18,>4 Yrs College
+3153,10,<High School
+3154,16,4 Yrs College
+3155,16,4 Yrs College
 3159,12,High School
 3160,14,Some College
 3161,12,High School
-3162,10,< High School
+3162,10,<High School
 3163,12,High School
-3164,8,< High School
+3164,8,<High School
 3167,15,Some College
 3170,12,High School
 3173,12,High School
-3174,9,< High School
+3174,9,<High School
 3176,12,High School
 3177,12,High School
 3178,12,High School
-3179,8,< High School
+3179,8,<High School
 3180,12,High School
-3181,16,4 Years of College
-3182,18,> 4 years of college
-3186,16,4 Years of College
-3187,16,4 Years of College
-3191,16,4 Years of College
-3193,16,4 Years of College
+3181,16,4 Yrs College
+3182,18,>4 Yrs College
+3186,16,4 Yrs College
+3187,16,4 Yrs College
+3191,16,4 Yrs College
+3193,16,4 Yrs College
 3194,12,High School
 3195,12,High School
-3197,6,< High School
+3197,6,<High School
 3198,12,High School
-3200,9,< High School
-3201,3,< High School
-3205,16,4 Years of College
+3200,9,<High School
+3201,3,<High School
+3205,16,4 Yrs College
 3206,12,High School
-3207,7,< High School
-3208,9,< High School
-3209,0,< High School
+3207,7,<High School
+3208,9,<High School
+3209,0,<High School
 3210,14,Some College
-3211,16,4 Years of College
+3211,16,4 Yrs College
 3213,12,High School
-3214,10,< High School
-3215,16,4 Years of College
-3218,16,4 Years of College
+3214,10,<High School
+3215,16,4 Yrs College
+3218,16,4 Yrs College
 3219,12,High School
-3221,7,< High School
-3222,19,> 4 years of college
+3221,7,<High School
+3222,19,>4 Yrs College
 3224,12,High School
 3225,12,High School
-3229,8,< High School
+3229,8,<High School
 3230,12,High School
-3232,19,> 4 years of college
-3233,16,4 Years of College
-3238,16,4 Years of College
+3232,19,>4 Yrs College
+3233,16,4 Yrs College
+3238,16,4 Yrs College
 3239,12,High School
 3242,14,Some College
 3243,12,High School
-3244,16,4 Years of College
-3245,16,4 Years of College
-3246,6,< High School
+3244,16,4 Yrs College
+3245,16,4 Yrs College
+3246,6,<High School
 3248,12,High School
-3249,10,< High School
+3249,10,<High School
 3250,12,High School
 3253,12,High School
-3254,16,4 Years of College
+3254,16,4 Yrs College
 3255,12,High School
 3256,12,High School
 3258,12,High School
-3260,16,4 Years of College
-3261,4,< High School
-3263,17,> 4 years of college
-3264,10,< High School
+3260,16,4 Yrs College
+3261,4,<High School
+3263,17,>4 Yrs College
+3264,10,<High School
 3265,13,Some College
-3266,16,4 Years of College
-3268,8,< High School
-3269,17,> 4 years of college
+3266,16,4 Yrs College
+3268,8,<High School
+3269,17,>4 Yrs College
 3271,12,High School
 3272,12,High School
-3273,20,> 4 years of college
-3274,11,< High School
+3273,20,>4 Yrs College
+3274,11,<High School
 3275,12,High School
 3276,13,Some College
 3283,14,Some College
 3286,12,High School
 3287,12,High School
-3288,18,> 4 years of college
-3289,16,4 Years of College
+3288,18,>4 Yrs College
+3289,16,4 Yrs College
 3291,12,High School
 3292,12,High School
-3293,3,< High School
+3293,3,<High School
 3295,12,High School
-3297,9,< High School
-3298,16,4 Years of College
-3299,19,> 4 years of college
+3297,9,<High School
+3298,16,4 Yrs College
+3299,19,>4 Yrs College
 3302,13,Some College
-3303,18,> 4 years of college
+3303,18,>4 Yrs College
 3305,12,High School
 3307,12,High School
-3310,16,4 Years of College
+3310,16,4 Yrs College
 3312,12,High School
 3313,14,Some College
 3314,13,Some College
-3315,16,4 Years of College
-3316,20,> 4 years of college
-3317,20,> 4 years of college
-3318,16,4 Years of College
+3315,16,4 Yrs College
+3316,20,>4 Yrs College
+3317,20,>4 Yrs College
+3318,16,4 Yrs College
 3320,14,Some College
 3321,12,High School
-3322,5,< High School
-3323,4,< High School
+3322,5,<High School
+3323,4,<High School
 3326,12,High School
-3328,16,4 Years of College
-3330,16,4 Years of College
+3328,16,4 Yrs College
+3330,16,4 Yrs College
 3331,12,High School
-3332,8,< High School
-3333,16,4 Years of College
+3332,8,<High School
+3333,16,4 Yrs College
 3335,12,High School
 3337,13,Some College
 3339,14,Some College
-3340,6,< High School
-3341,16,4 Years of College
+3340,6,<High School
+3341,16,4 Yrs College
 3343,12,High School
 3344,14,Some College
 3347,12,High School
 3348,13,Some College
-3349,16,4 Years of College
+3349,16,4 Yrs College
 3351,13,Some College
-3352,17,> 4 years of college
-3354,18,> 4 years of college
-3355,17,> 4 years of college
-3356,17,> 4 years of college
+3352,17,>4 Yrs College
+3354,18,>4 Yrs College
+3355,17,>4 Yrs College
+3356,17,>4 Yrs College
 3357,12,High School
-3360,17,> 4 years of college
-3362,16,4 Years of College
-3363,10,< High School
-3365,20,> 4 years of college
+3360,17,>4 Yrs College
+3362,16,4 Yrs College
+3363,10,<High School
+3365,20,>4 Yrs College
 3367,14,Some College
-3368,18,> 4 years of college
+3368,18,>4 Yrs College
 3371,12,High School
 3372,12,High School
-3373,16,4 Years of College
+3373,16,4 Yrs College
 3374,15,Some College
 3376,12,High School
 3377,12,High School
 3378,13,Some College
 3379,12,High School
 3384,12,High School
-3385,10,< High School
-3386,3,< High School
+3385,10,<High School
+3386,3,<High School
 3388,14,Some College
-3389,5,< High School
+3389,5,<High School
 3393,12,High School
 3394,12,High School
 3395,12,High School
-3396,18,> 4 years of college
-3397,20,> 4 years of college
-3398,11,< High School
-3400,8,< High School
+3396,18,>4 Yrs College
+3397,20,>4 Yrs College
+3398,11,<High School
+3400,8,<High School
 3401,12,High School
 3403,12,High School
 3404,12,High School
-3407,9,< High School
-3408,16,4 Years of College
-3409,11,< High School
-3410,16,4 Years of College
+3407,9,<High School
+3408,16,4 Yrs College
+3409,11,<High School
+3410,16,4 Yrs College
 3411,12,High School
 3413,12,High School
 3414,12,High School
-3415,3,< High School
+3415,3,<High School
 3416,15,Some College
 3418,12,High School
-3420,20,> 4 years of college
+3420,20,>4 Yrs College
 3421,12,High School
 3423,12,High School
 3424,14,Some College
-3425,16,4 Years of College
+3425,16,4 Yrs College
 3426,12,High School
-3428,6,< High School
-3429,16,4 Years of College
-3430,9,< High School
+3428,6,<High School
+3429,16,4 Yrs College
+3430,9,<High School
 3431,12,High School
 3432,12,High School
-3433,8,< High School
+3433,8,<High School
 3436,12,High School
-3438,16,4 Years of College
-3440,8,< High School
+3438,16,4 Yrs College
+3440,8,<High School
 3441,12,High School
-3444,16,4 Years of College
-3446,9,< High School
+3444,16,4 Yrs College
+3446,9,<High School
 3447,12,High School
 3448,12,High School
-3449,16,4 Years of College
+3449,16,4 Yrs College
 3450,12,High School
-3452,8,< High School
-3453,16,4 Years of College
-3455,11,< High School
+3452,8,<High School
+3453,16,4 Yrs College
+3455,11,<High School
 3456,14,Some College
-3458,16,4 Years of College
-3461,16,4 Years of College
-3462,17,> 4 years of college
-3465,16,4 Years of College
-3466,10,< High School
+3458,16,4 Yrs College
+3461,16,4 Yrs College
+3462,17,>4 Yrs College
+3465,16,4 Yrs College
+3466,10,<High School
 3469,12,High School
-3473,6,< High School
-3475,8,< High School
-3476,6,< High School
-3477,16,4 Years of College
+3473,6,<High School
+3475,8,<High School
+3476,6,<High School
+3477,16,4 Yrs College
 3480,12,High School
 3481,14,Some College
-3482,16,4 Years of College
+3482,16,4 Yrs College
 3483,12,High School
-3485,6,< High School
+3485,6,<High School
 3487,12,High School
-3490,18,> 4 years of college
-3491,6,< High School
+3490,18,>4 Yrs College
+3491,6,<High School
 3492,12,High School
-3493,16,4 Years of College
-3494,9,< High School
-3495,16,4 Years of College
-3496,8,< High School
-3500,20,> 4 years of college
-3501,6,< High School
-3503,20,> 4 years of college
-3504,7,< High School
+3493,16,4 Yrs College
+3494,9,<High School
+3495,16,4 Yrs College
+3496,8,<High School
+3500,20,>4 Yrs College
+3501,6,<High School
+3503,20,>4 Yrs College
+3504,7,<High School
 3505,12,High School
-3506,16,4 Years of College
+3506,16,4 Yrs College
 3507,12,High School
-3508,5,< High School
+3508,5,<High School
 3509,12,High School
 3510,13,Some College
-3511,16,4 Years of College
-3513,16,4 Years of College
+3511,16,4 Yrs College
+3513,16,4 Yrs College
 3514,12,High School
-3516,16,4 Years of College
-3517,16,4 Years of College
+3516,16,4 Yrs College
+3517,16,4 Yrs College
 3521,12,High School
 3523,12,High School
-3524,10,< High School
-3525,18,> 4 years of college
-3526,19,> 4 years of college
-3527,5,< High School
+3524,10,<High School
+3525,18,>4 Yrs College
+3526,19,>4 Yrs College
+3527,5,<High School
 3529,14,Some College
 3530,15,Some College
 3531,12,High School
-3532,18,> 4 years of college
-3533,18,> 4 years of college
+3532,18,>4 Yrs College
+3533,18,>4 Yrs College
 3534,13,Some College
 3537,12,High School
 3538,12,High School
@@ -2283,151 +2283,151 @@ id,paeduc,education
 3542,12,High School
 3544,12,High School
 3546,12,High School
-3548,8,< High School
+3548,8,<High School
 3550,12,High School
-3551,20,> 4 years of college
-3557,16,4 Years of College
+3551,20,>4 Yrs College
+3557,16,4 Yrs College
 3558,12,High School
-3559,16,4 Years of College
-3561,20,> 4 years of college
-3564,16,4 Years of College
-3565,20,> 4 years of college
-3566,16,4 Years of College
-3568,18,> 4 years of college
+3559,16,4 Yrs College
+3561,20,>4 Yrs College
+3564,16,4 Yrs College
+3565,20,>4 Yrs College
+3566,16,4 Yrs College
+3568,18,>4 Yrs College
 3570,14,Some College
-3571,16,4 Years of College
-3572,16,4 Years of College
-3573,7,< High School
+3571,16,4 Yrs College
+3572,16,4 Yrs College
+3573,7,<High School
 3576,14,Some College
 3577,12,High School
-3578,10,< High School
-3579,9,< High School
-3580,9,< High School
-3581,16,4 Years of College
-3584,0,< High School
-3586,16,4 Years of College
-3587,2,< High School
+3578,10,<High School
+3579,9,<High School
+3580,9,<High School
+3581,16,4 Yrs College
+3584,0,<High School
+3586,16,4 Yrs College
+3587,2,<High School
 3588,15,Some College
 3589,12,High School
 3590,12,High School
-3592,20,> 4 years of college
-3596,16,4 Years of College
+3592,20,>4 Yrs College
+3596,16,4 Yrs College
 3597,12,High School
 3598,12,High School
-3603,4,< High School
+3603,4,<High School
 3604,12,High School
-3605,16,4 Years of College
+3605,16,4 Yrs College
 3608,13,Some College
 3609,12,High School
 3610,12,High School
 3615,15,Some College
 3616,13,Some College
 3617,14,Some College
-3618,10,< High School
+3618,10,<High School
 3619,12,High School
 3620,14,Some College
 3623,12,High School
 3626,12,High School
-3627,16,4 Years of College
+3627,16,4 Yrs College
 3630,12,High School
 3631,13,Some College
-3632,9,< High School
+3632,9,<High School
 3635,13,Some College
-3636,16,4 Years of College
+3636,16,4 Yrs College
 3637,12,High School
-3638,18,> 4 years of college
+3638,18,>4 Yrs College
 3639,12,High School
 3641,12,High School
 3643,12,High School
-3645,16,4 Years of College
+3645,16,4 Yrs College
 3646,12,High School
 3649,12,High School
-3650,8,< High School
-3651,16,4 Years of College
+3650,8,<High School
+3651,16,4 Yrs College
 3652,12,High School
 3653,12,High School
 3656,12,High School
 3657,14,Some College
-3659,19,> 4 years of college
-3660,19,> 4 years of college
-3661,20,> 4 years of college
+3659,19,>4 Yrs College
+3660,19,>4 Yrs College
+3661,20,>4 Yrs College
 3662,12,High School
-3664,16,4 Years of College
-3666,7,< High School
+3664,16,4 Yrs College
+3666,7,<High School
 3667,12,High School
 3668,14,Some College
 3670,12,High School
-3672,5,< High School
-3673,16,4 Years of College
-3674,16,4 Years of College
-3675,5,< High School
+3672,5,<High School
+3673,16,4 Yrs College
+3674,16,4 Yrs College
+3675,5,<High School
 3677,12,High School
-3678,16,4 Years of College
-3679,16,4 Years of College
-3680,6,< High School
-3681,16,4 Years of College
-3686,20,> 4 years of college
-3688,16,4 Years of College
-3689,20,> 4 years of college
+3678,16,4 Yrs College
+3679,16,4 Yrs College
+3680,6,<High School
+3681,16,4 Yrs College
+3686,20,>4 Yrs College
+3688,16,4 Yrs College
+3689,20,>4 Yrs College
 3691,12,High School
-3692,16,4 Years of College
-3693,6,< High School
-3694,18,> 4 years of college
+3692,16,4 Yrs College
+3693,6,<High School
+3694,18,>4 Yrs College
 3695,12,High School
 3700,12,High School
-3701,17,> 4 years of college
-3702,16,4 Years of College
-3703,6,< High School
-3705,4,< High School
-3706,18,> 4 years of college
-3708,9,< High School
-3709,16,4 Years of College
+3701,17,>4 Yrs College
+3702,16,4 Yrs College
+3703,6,<High School
+3705,4,<High School
+3706,18,>4 Yrs College
+3708,9,<High School
+3709,16,4 Yrs College
 3710,15,Some College
-3711,16,4 Years of College
-3712,16,4 Years of College
-3713,20,> 4 years of college
+3711,16,4 Yrs College
+3712,16,4 Yrs College
+3713,20,>4 Yrs College
 3714,12,High School
-3715,6,< High School
+3715,6,<High School
 3717,12,High School
-3718,16,4 Years of College
-3724,8,< High School
-3725,4,< High School
+3718,16,4 Yrs College
+3724,8,<High School
+3725,4,<High School
 3727,14,Some College
 3728,12,High School
 3729,12,High School
 3731,14,Some College
-3732,5,< High School
+3732,5,<High School
 3733,12,High School
 3735,12,High School
-3736,16,4 Years of College
-3737,3,< High School
-3739,0,< High School
+3736,16,4 Yrs College
+3737,3,<High School
+3739,0,<High School
 3741,12,High School
-3742,20,> 4 years of college
+3742,20,>4 Yrs College
 3743,14,Some College
-3745,0,< High School
-3746,8,< High School
+3745,0,<High School
+3746,8,<High School
 3747,13,Some College
-3748,8,< High School
-3749,8,< High School
+3748,8,<High School
+3749,8,<High School
 3751,12,High School
-3752,16,4 Years of College
+3752,16,4 Yrs College
 3753,12,High School
 3754,12,High School
 3755,12,High School
-3756,11,< High School
+3756,11,<High School
 3757,12,High School
-3758,20,> 4 years of college
+3758,20,>4 Yrs College
 3759,12,High School
 3760,12,High School
-3762,16,4 Years of College
-3764,16,4 Years of College
-3765,16,4 Years of College
-3767,16,4 Years of College
-3768,8,< High School
-3771,18,> 4 years of college
-3772,8,< High School
-3773,16,4 Years of College
+3762,16,4 Yrs College
+3764,16,4 Yrs College
+3765,16,4 Yrs College
+3767,16,4 Yrs College
+3768,8,<High School
+3771,18,>4 Yrs College
+3772,8,<High School
+3773,16,4 Yrs College
 3774,12,High School
 3776,12,High School
 3777,12,High School
@@ -2435,326 +2435,326 @@ id,paeduc,education
 3784,12,High School
 3786,12,High School
 3787,12,High School
-3789,8,< High School
-3790,19,> 4 years of college
+3789,8,<High School
+3790,19,>4 Yrs College
 3795,12,High School
-3796,16,4 Years of College
+3796,16,4 Yrs College
 3799,12,High School
-3804,16,4 Years of College
-3805,17,> 4 years of college
-3806,16,4 Years of College
+3804,16,4 Yrs College
+3805,17,>4 Yrs College
+3806,16,4 Yrs College
 3807,14,Some College
-3810,20,> 4 years of college
-3811,17,> 4 years of college
+3810,20,>4 Yrs College
+3811,17,>4 Yrs College
 3814,12,High School
-3815,7,< High School
-3817,16,4 Years of College
+3815,7,<High School
+3817,16,4 Yrs College
 3819,12,High School
-3820,17,> 4 years of college
-3821,16,4 Years of College
+3820,17,>4 Yrs College
+3821,16,4 Yrs College
 3823,12,High School
 3824,12,High School
 3825,12,High School
-3827,16,4 Years of College
-3829,16,4 Years of College
-3832,8,< High School
-3834,16,4 Years of College
-3835,8,< High School
-3837,17,> 4 years of college
-3840,16,4 Years of College
-3843,16,4 Years of College
+3827,16,4 Yrs College
+3829,16,4 Yrs College
+3832,8,<High School
+3834,16,4 Yrs College
+3835,8,<High School
+3837,17,>4 Yrs College
+3840,16,4 Yrs College
+3843,16,4 Yrs College
 3844,12,High School
-3845,16,4 Years of College
-3848,8,< High School
+3845,16,4 Yrs College
+3848,8,<High School
 3849,12,High School
-3850,8,< High School
+3850,8,<High School
 3851,12,High School
-3853,16,4 Years of College
+3853,16,4 Yrs College
 3855,12,High School
 3857,12,High School
-3858,16,4 Years of College
-3859,17,> 4 years of college
+3858,16,4 Yrs College
+3859,17,>4 Yrs College
 3860,12,High School
 3861,12,High School
 3862,12,High School
 3863,12,High School
 3864,14,Some College
-3865,10,< High School
+3865,10,<High School
 3866,12,High School
-3868,16,4 Years of College
+3868,16,4 Yrs College
 3874,12,High School
 3875,13,Some College
 3876,12,High School
 3877,14,Some College
 3878,12,High School
-3881,3,< High School
-3883,10,< High School
-3884,20,> 4 years of college
-3885,20,> 4 years of college
+3881,3,<High School
+3883,10,<High School
+3884,20,>4 Yrs College
+3885,20,>4 Yrs College
 3886,12,High School
 3889,13,Some College
-3890,16,4 Years of College
-3891,17,> 4 years of college
-3892,10,< High School
-3894,16,4 Years of College
+3890,16,4 Yrs College
+3891,17,>4 Yrs College
+3892,10,<High School
+3894,16,4 Yrs College
 3895,14,Some College
-3896,18,> 4 years of college
+3896,18,>4 Yrs College
 3897,14,Some College
 3899,12,High School
-3901,16,4 Years of College
-3906,11,< High School
+3901,16,4 Yrs College
+3906,11,<High School
 3908,12,High School
-3911,6,< High School
+3911,6,<High School
 3912,12,High School
 3913,12,High School
-3914,6,< High School
-3915,16,4 Years of College
+3914,6,<High School
+3915,16,4 Yrs College
 3918,12,High School
-3920,16,4 Years of College
-3921,20,> 4 years of college
+3920,16,4 Yrs College
+3921,20,>4 Yrs College
 3922,12,High School
-3923,16,4 Years of College
+3923,16,4 Yrs College
 3924,12,High School
-3925,8,< High School
+3925,8,<High School
 3926,12,High School
 3928,15,Some College
-3930,7,< High School
-3932,7,< High School
-3934,16,4 Years of College
-3935,8,< High School
-3936,3,< High School
-3937,7,< High School
+3930,7,<High School
+3932,7,<High School
+3934,16,4 Yrs College
+3935,8,<High School
+3936,3,<High School
+3937,7,<High School
 3938,12,High School
-3943,11,< High School
+3943,11,<High School
 3944,12,High School
-3945,16,4 Years of College
-3946,16,4 Years of College
+3945,16,4 Yrs College
+3946,16,4 Yrs College
 3949,13,Some College
-3950,20,> 4 years of college
+3950,20,>4 Yrs College
 3951,12,High School
-3953,16,4 Years of College
-3954,16,4 Years of College
+3953,16,4 Yrs College
+3954,16,4 Yrs College
 3955,12,High School
 3956,12,High School
 3958,12,High School
 3959,12,High School
 3963,14,Some College
-3964,2,< High School
+3964,2,<High School
 3965,12,High School
-3966,20,> 4 years of college
-3973,8,< High School
+3966,20,>4 Yrs College
+3973,8,<High School
 3974,12,High School
-3975,20,> 4 years of college
-3976,16,4 Years of College
+3975,20,>4 Yrs College
+3976,16,4 Yrs College
 3977,12,High School
 3978,12,High School
-3979,0,< High School
+3979,0,<High School
 3980,12,High School
 3981,14,Some College
 3982,12,High School
-3983,8,< High School
+3983,8,<High School
 3986,12,High School
-3988,16,4 Years of College
+3988,16,4 Yrs College
 3989,12,High School
-3990,16,4 Years of College
-3992,16,4 Years of College
-3995,9,< High School
+3990,16,4 Yrs College
+3992,16,4 Yrs College
+3995,9,<High School
 3996,12,High School
 3997,12,High School
-3998,8,< High School
-3999,7,< High School
-4001,18,> 4 years of college
+3998,8,<High School
+3999,7,<High School
+4001,18,>4 Yrs College
 4002,12,High School
-4003,10,< High School
+4003,10,<High School
 4006,12,High School
-4007,16,4 Years of College
+4007,16,4 Yrs College
 4008,12,High School
-4010,8,< High School
+4010,8,<High School
 4012,12,High School
-4013,10,< High School
+4013,10,<High School
 4015,12,High School
 4016,12,High School
-4018,16,4 Years of College
-4019,9,< High School
+4018,16,4 Yrs College
+4019,9,<High School
 4020,15,Some College
-4021,16,4 Years of College
+4021,16,4 Yrs College
 4023,12,High School
 4024,12,High School
-4026,8,< High School
+4026,8,<High School
 4027,15,Some College
 4028,12,High School
 4029,12,High School
-4031,16,4 Years of College
+4031,16,4 Yrs College
 4033,12,High School
-4035,16,4 Years of College
+4035,16,4 Yrs College
 4039,12,High School
-4042,8,< High School
-4043,0,< High School
-4045,9,< High School
+4042,8,<High School
+4043,0,<High School
+4045,9,<High School
 4046,12,High School
-4050,10,< High School
+4050,10,<High School
 4052,15,Some College
-4053,8,< High School
+4053,8,<High School
 4055,14,Some College
 4056,14,Some College
 4058,12,High School
-4059,16,4 Years of College
-4060,17,> 4 years of college
-4061,5,< High School
+4059,16,4 Yrs College
+4060,17,>4 Yrs College
+4061,5,<High School
 4062,12,High School
-4064,18,> 4 years of college
+4064,18,>4 Yrs College
 4066,14,Some College
-4070,16,4 Years of College
+4070,16,4 Yrs College
 4071,12,High School
-4072,16,4 Years of College
-4073,3,< High School
-4074,18,> 4 years of college
+4072,16,4 Yrs College
+4073,3,<High School
+4074,18,>4 Yrs College
 4076,12,High School
-4077,6,< High School
+4077,6,<High School
 4079,12,High School
-4080,16,4 Years of College
-4081,6,< High School
+4080,16,4 Yrs College
+4081,6,<High School
 4082,12,High School
 4084,12,High School
-4085,16,4 Years of College
+4085,16,4 Yrs College
 4086,12,High School
 4087,12,High School
-4089,16,4 Years of College
-4090,10,< High School
-4094,11,< High School
-4095,16,4 Years of College
-4096,20,> 4 years of college
-4097,8,< High School
-4098,18,> 4 years of college
+4089,16,4 Yrs College
+4090,10,<High School
+4094,11,<High School
+4095,16,4 Yrs College
+4096,20,>4 Yrs College
+4097,8,<High School
+4098,18,>4 Yrs College
 4100,12,High School
 4101,12,High School
 4102,12,High School
 4103,12,High School
-4105,6,< High School
+4105,6,<High School
 4106,15,Some College
 4107,12,High School
-4110,3,< High School
+4110,3,<High School
 4112,12,High School
-4113,0,< High School
-4116,18,> 4 years of college
-4117,16,4 Years of College
+4113,0,<High School
+4116,18,>4 Yrs College
+4117,16,4 Yrs College
 4118,14,Some College
-4121,16,4 Years of College
-4122,11,< High School
-4124,6,< High School
-4125,16,4 Years of College
+4121,16,4 Yrs College
+4122,11,<High School
+4124,6,<High School
+4125,16,4 Yrs College
 4128,12,High School
 4129,14,Some College
-4130,16,4 Years of College
-4132,4,< High School
+4130,16,4 Yrs College
+4132,4,<High School
 4135,13,Some College
 4136,12,High School
 4137,13,Some College
 4138,13,Some College
 4139,12,High School
-4140,6,< High School
-4141,16,4 Years of College
+4140,6,<High School
+4141,16,4 Yrs College
 4142,12,High School
 4143,12,High School
 4144,14,Some College
 4145,12,High School
 4147,12,High School
 4148,14,Some College
-4150,16,4 Years of College
-4152,8,< High School
+4150,16,4 Yrs College
+4152,8,<High School
 4153,12,High School
-4154,8,< High School
+4154,8,<High School
 4155,12,High School
 4156,12,High School
 4157,12,High School
-4158,16,4 Years of College
+4158,16,4 Yrs College
 4160,12,High School
-4161,16,4 Years of College
+4161,16,4 Yrs College
 4164,12,High School
-4165,16,4 Years of College
-4168,16,4 Years of College
-4170,16,4 Years of College
+4165,16,4 Yrs College
+4168,16,4 Yrs College
+4170,16,4 Yrs College
 4171,12,High School
 4172,15,Some College
 4173,12,High School
 4174,12,High School
-4175,16,4 Years of College
+4175,16,4 Yrs College
 4179,12,High School
 4180,12,High School
 4181,12,High School
 4182,12,High School
-4183,9,< High School
+4183,9,<High School
 4184,12,High School
-4185,4,< High School
-4190,16,4 Years of College
+4185,4,<High School
+4190,16,4 Yrs College
 4191,12,High School
 4193,12,High School
 4194,12,High School
-4196,6,< High School
+4196,6,<High School
 4197,12,High School
-4198,16,4 Years of College
+4198,16,4 Yrs College
 4199,12,High School
-4200,18,> 4 years of college
-4201,16,4 Years of College
+4200,18,>4 Yrs College
+4201,16,4 Yrs College
 4202,12,High School
 4204,13,Some College
 4205,12,High School
-4208,18,> 4 years of college
+4208,18,>4 Yrs College
 4210,12,High School
-4211,6,< High School
+4211,6,<High School
 4214,12,High School
 4215,12,High School
 4217,12,High School
 4220,12,High School
-4221,16,4 Years of College
+4221,16,4 Yrs College
 4222,12,High School
-4223,11,< High School
-4225,9,< High School
+4223,11,<High School
+4225,9,<High School
 4227,14,Some College
-4228,16,4 Years of College
+4228,16,4 Yrs College
 4229,12,High School
 4231,12,High School
 4235,12,High School
 4236,12,High School
-4238,16,4 Years of College
+4238,16,4 Yrs College
 4239,12,High School
-4240,10,< High School
+4240,10,<High School
 4241,12,High School
-4242,10,< High School
-4243,16,4 Years of College
-4244,11,< High School
-4246,9,< High School
-4247,6,< High School
-4248,16,4 Years of College
-4249,8,< High School
+4242,10,<High School
+4243,16,4 Yrs College
+4244,11,<High School
+4246,9,<High School
+4247,6,<High School
+4248,16,4 Yrs College
+4249,8,<High School
 4250,12,High School
-4251,11,< High School
+4251,11,<High School
 4253,12,High School
-4254,9,< High School
+4254,9,<High School
 4255,12,High School
-4256,16,4 Years of College
+4256,16,4 Yrs College
 4257,12,High School
 4258,12,High School
 4260,12,High School
 4262,12,High School
-4263,10,< High School
+4263,10,<High School
 4265,13,Some College
-4266,16,4 Years of College
-4267,16,4 Years of College
-4268,16,4 Years of College
-4272,6,< High School
-4277,8,< High School
+4266,16,4 Yrs College
+4267,16,4 Yrs College
+4268,16,4 Yrs College
+4272,6,<High School
+4277,8,<High School
 4279,12,High School
-4280,16,4 Years of College
-4281,5,< High School
-4282,10,< High School
+4280,16,4 Yrs College
+4281,5,<High School
+4282,10,<High School
 4283,12,High School
-4284,6,< High School
+4284,6,<High School
 4287,12,High School
 4288,14,Some College
 4289,12,High School
 4290,12,High School
-4293,10,< High School
+4293,10,<High School
 4296,12,High School
 4297,14,Some College
 4304,12,High School
@@ -2764,88 +2764,88 @@ id,paeduc,education
 4311,14,Some College
 4312,12,High School
 4313,12,High School
-4314,0,< High School
-4315,8,< High School
-4316,8,< High School
+4314,0,<High School
+4315,8,<High School
+4316,8,<High School
 4320,12,High School
 4323,14,Some College
 4324,12,High School
 4325,12,High School
-4326,16,4 Years of College
-4327,20,> 4 years of college
-4328,16,4 Years of College
-4329,16,4 Years of College
-4331,20,> 4 years of college
+4326,16,4 Yrs College
+4327,20,>4 Yrs College
+4328,16,4 Yrs College
+4329,16,4 Yrs College
+4331,20,>4 Yrs College
 4332,12,High School
-4333,0,< High School
-4334,17,> 4 years of college
-4336,3,< High School
+4333,0,<High School
+4334,17,>4 Yrs College
+4336,3,<High School
 4337,12,High School
-4338,20,> 4 years of college
+4338,20,>4 Yrs College
 4340,14,Some College
 4342,12,High School
 4344,14,Some College
-4345,16,4 Years of College
-4347,18,> 4 years of college
+4345,16,4 Yrs College
+4347,18,>4 Yrs College
 4348,12,High School
 4349,12,High School
 4352,14,Some College
 4353,12,High School
 4354,12,High School
-4355,0,< High School
-4356,18,> 4 years of college
-4358,17,> 4 years of college
-4359,16,4 Years of College
-4360,16,4 Years of College
-4361,16,4 Years of College
+4355,0,<High School
+4356,18,>4 Yrs College
+4358,17,>4 Yrs College
+4359,16,4 Yrs College
+4360,16,4 Yrs College
+4361,16,4 Yrs College
 4364,12,High School
-4366,8,< High School
+4366,8,<High School
 4367,14,Some College
 4368,12,High School
 4369,12,High School
 4370,12,High School
-4373,16,4 Years of College
+4373,16,4 Yrs College
 4374,12,High School
 4375,12,High School
 4376,13,Some College
 4377,12,High School
-4378,16,4 Years of College
+4378,16,4 Yrs College
 4379,12,High School
 4380,14,Some College
-4381,18,> 4 years of college
+4381,18,>4 Yrs College
 4382,12,High School
 4384,14,Some College
-4385,16,4 Years of College
+4385,16,4 Yrs College
 4386,14,Some College
 4388,12,High School
 4391,12,High School
 4392,12,High School
-4395,16,4 Years of College
+4395,16,4 Yrs College
 4396,14,Some College
-4397,16,4 Years of College
+4397,16,4 Yrs College
 4399,15,Some College
 4401,12,High School
 4402,15,Some College
-4404,16,4 Years of College
-4406,16,4 Years of College
-4407,10,< High School
-4409,16,4 Years of College
-4411,20,> 4 years of college
+4404,16,4 Yrs College
+4406,16,4 Yrs College
+4407,10,<High School
+4409,16,4 Yrs College
+4411,20,>4 Yrs College
 4412,14,Some College
 4414,12,High School
-4416,9,< High School
-4417,16,4 Years of College
+4416,9,<High School
+4417,16,4 Yrs College
 4418,12,High School
-4419,16,4 Years of College
-4423,16,4 Years of College
+4419,16,4 Yrs College
+4423,16,4 Yrs College
 4425,14,Some College
 4427,12,High School
 4428,14,Some College
 4429,14,Some College
 4430,12,High School
-4433,20,> 4 years of college
-4436,18,> 4 years of college
-4437,9,< High School
+4433,20,>4 Yrs College
+4436,18,>4 Yrs College
+4437,9,<High School
 4439,14,Some College
 4440,12,High School
 4441,12,High School
@@ -2857,20 +2857,20 @@ id,paeduc,education
 4448,12,High School
 4451,13,Some College
 4452,12,High School
-4453,18,> 4 years of college
+4453,18,>4 Yrs College
 4454,13,Some College
-4455,8,< High School
-4456,3,< High School
-4457,16,4 Years of College
+4455,8,<High School
+4456,3,<High School
+4457,16,4 Yrs College
 4458,12,High School
-4459,4,< High School
+4459,4,<High School
 4460,12,High School
 4461,12,High School
-4462,20,> 4 years of college
-4463,16,4 Years of College
-4464,6,< High School
-4466,16,4 Years of College
-4467,16,4 Years of College
-4468,16,4 Years of College
-4469,16,4 Years of College
-4470,16,4 Years of College
+4462,20,>4 Yrs College
+4463,16,4 Yrs College
+4464,6,<High School
+4466,16,4 Yrs College
+4467,16,4 Yrs College
+4468,16,4 Yrs College
+4469,16,4 Yrs College
+4470,16,4 Yrs College

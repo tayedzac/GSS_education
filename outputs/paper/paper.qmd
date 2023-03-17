@@ -7,7 +7,7 @@ author:
 thanks: "Code and data are available at: https://github.com/tayedzac/GSS_education."
 date: "`r Sys.time()`"
 date-format: "D MMMM YYYY"
-abstract: "This paper discusses the generational difference in highest education level by looking at the highest level of education obtained by respondents in comparison to their mothers and fathers. We find that the majority of respondents have more than 4 years of college as their highest education level, while both their mothers and fathers have high school as their highest education level, as reported in 2021. We also find that where mothers and fathers have 4 years of college as their highest education level, so do the respondents. These findings matter as we are able to further explore the generational difference in the required education level to work."
+abstract: "This paper discusses the generational difference in the highest obtained education level in the United States, by comparing respondents to their mothers and fathers. We find that the majority of respondents have more than 4 years of college as their highest education level, while both their mothers and fathers have high school as their highest education level, as reported in 2021. These findings matter as we can further explore the generational difference in the required education level to work."
 format: pdf
 number-sections: true
 bibliography: references.bib
@@ -42,7 +42,7 @@ Ethically, family-related questions must be approached cautiously in the survey.
 
 ### Attributes
 In this analysis, we used an individual year dataset which summarizes variables specific to the year 2021. Through data cleaning, we chose to keep the following variables: EDUC (Respondent’s education), PAEDUC (Father’s education), and MAEDUC (Mother’s education). While all of these variables are within one data set, the Quick Guide to Variables in the 2021 GSS Cross-section document classifies and organizes these variables: EDUC goes under ‘Demographic, Household Characteristics, Paradata, and Process Data’, and PAEDUC and MAEDUC go under ‘Parental/Social Origin Data’.
-\newpage
+
 
 ## Exploration
 ```{r}
@@ -80,11 +80,11 @@ clean_data_respondent <-
   mutate(
     education = fct_relevel(
       education,
-      "< High School",
+      "<High School",
       "High School",
       "Some College",
-      "4 Years of College",
-      "> 4 years of college"
+      "4 Yrs College",
+      ">4 Yrs College"
     )
   )
 
@@ -94,11 +94,11 @@ clean_data_mom <-
   mutate(
     education = fct_relevel(
       education,
-      "< High School",
+       "<High School",
       "High School",
       "Some College",
-      "4 Years of College",
-      "> 4 years of college"
+      "4 Yrs College",
+      ">4 Yrs College"
     )
   )
 
@@ -108,11 +108,11 @@ clean_data_dad <-
   mutate(
     education = fct_relevel(
       education,
-      "< High School",
+       "<High School",
       "High School",
       "Some College",
-      "4 Years of College",
-      "> 4 years of college"
+      "4 Yrs College",
+      ">4 Yrs College"
     )
   )
 
@@ -221,7 +221,7 @@ respondent_and_dad |>
        title = "Education Level of Respondant and Father.")
 ```
 \newpage
-@fig-5 explores two discrete variables: the highest education level of respondents and the highest education level of respondents’ fathers, by 2021. In this scatter plot, we see that the most populated areas are where respondents have their highest education level as high school and beyond, whilst their fathers have high school as their highest education level. This makes sense as the majority of fathers have high school as their highest education level in @fig-3 and @fig-1 shows that most of the respondents obtained a high school education or beyond. Similarly to @fig-4, we see another populated area where both the respondent and father have 4 years of college as their highest education level.
+@fig-5 explores two discrete variables: the highest education level of respondents and the highest education level of respondents’ fathers, by 2021. We see that the most populated areas are where respondents have their highest education level as high school and beyond, whilst their fathers have high school as their highest education level. This makes sense as the majority of fathers have high school as their highest education level in @fig-3 and @fig-1 shows that most of the respondents obtained a high school education or beyond. Similarly to @fig-4, we see another populated area where both the respondent and father have 4 years of college as their highest education level.
 
 # Discussion
 
@@ -235,7 +235,9 @@ By comparing the results of @fig-2 and @fig-3, presenting the highest education 
 In this paper, we looked at the highest education level obtained by respondents, their mothers, and their fathers, by 2021. It was found that the majority of respondents have more than 4 years of college as their highest education level, while both mothers and fathers of respondents have high school as their highest education level. These findings provide significant insight into the generational changes in the highest education level required for occupations in today’s society in comparison to that of respondents’ mothers and fathers.
 
 ## Weaknesses and Next Steps
-Our data does not show whether more than 4 years of college is an extension of one’s college degree or if they have obtained an advanced degree such as a master’s or a PhD. Furthermore, there may be other factors that we did not consider. For example, we found gender inequalities between mothers and fathers. It would be interesting to explore the relationship between one’s gender identity and their highest obtained level of education. Career path is another factor we didn’t consider however, it plays a crucial role in one’s highest level of education as different roles have different requirements. Another limitation is that our paper fails to explore respondents who answered “N/A” in any of their responses. As a result, this could potentially eliminate responses from those who have extenuating circumstances including but not limited to: coming from single-parent households, having no contact with one or more parents, being a foster child, and whether or not their parents are adoptive/step-parents.
+Our data does not show whether more than 4 years of college is an extension of one’s college degree or if they have obtained an advanced degree such as a master’s or a PhD. Career path is another factor we didn’t consider however, it plays a crucial role in one’s highest level of education as different roles have different requirements. Furthermore, our paper fails to explore respondents who answered “N/A” in any of their responses. As a result, this potentially eliminates responses from those who have extenuating circumstances including but not limited to: coming from single-parent households, having no contact with one or more parents, being a foster child, and whether or not their parents are adoptive/step-parents.
+
+In future explorations, it would be interesting to explore the relationship between one’s gender identity and their highest obtained level of education as we found existing gender inequalities in education level between mothers and fathers. Lastly, it would be interesting to explore the degree to which the make of one's device plays a role in their highest obtained level of education, as explored in our supplemental survey in the appendix.
 \newpage
 
 # Appendix
